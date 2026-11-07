@@ -42,7 +42,7 @@ Para relatar um problema, abra uma [issue](https://github.com/ggdrn/twewy-pt-br/
 ## Créditos
 
 - **alizor** pela ferramenta e pela tradução inicial.
-- **ggdrn** pela continuação da tradução e organização deste projeto.
+- **Galetote(ggdrn)** pela continuação da tradução e organização deste projeto.
 
 ## Licença
 
