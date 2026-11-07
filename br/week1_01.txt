@@ -1,5 +1,5 @@
-<red>This is a TEMP event!
-To be finished later.<black>
+<red>Evento TEMPORÁRIO!
+Vamos terminar depois.<black>
 --------------------
 Mas o que...
 --------------------
@@ -166,7 +166,7 @@ O perdedor dá ao
 vencedor uma tigela
 de ramen.
 --------------------
-Huff, huff...
+Ufa, ufa...
 --------------------
 Aqui deve...
 ser... seguro...
@@ -502,8 +502,8 @@ nome.
 --------------------
 ......
 --------------------
-Neku.
-Neku Sakuraba.
+Neku
+Sakuraba.
 --------------------
 Neku, hã?
 --------------------
@@ -519,7 +519,7 @@ Não podemos sair!
 --------------------
 Ah, fala sério.
 --------------------
-Durff!
+Argh!
 --------------------
 Você tá
 brincando!
@@ -726,7 +726,7 @@ esse?
 Isso não pode
 estar certo.
 --------------------
-Gaaah!
+Aaaah!
 --------------------
 Realmente estou
 preso aqui?

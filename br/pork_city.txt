@@ -1,693 +1,689 @@
 ......
 --------------------
-Want past
-this wall?
+Quer passar
+por essa parede?
 --------------------
-Then here.
-Defeat these
-Noise!
+Derrote
+esse
+barulho!
 --------------------
-Objective
-met.
+Objetivo
+concluído.
 --------------------
-Wall clear!
---------------------
-......
---------------------
-Want past
-this wall?
---------------------
-Then beat
-<red>two<black> of these<->
-where I can
-see ya.
---------------------
-Objective
-met.
---------------------
-Wall clear!
+Parede livre!
 --------------------
 ......
 --------------------
-Want past
-this wall?
+Quer passar
+por essa parede?
 --------------------
-Bring me <red>two
-1,000 Yen<black>
-pins.
+Então vença
+<red>dois<black> destes<->onde
+eu posso
+vê-lo.
 --------------------
-Noise No. 2's
-got 'em.
+Objetivo
+concluído.
 --------------------
-Objective
-met.
---------------------
-Wall clear!
+Parede livre!
 --------------------
 ......
 --------------------
-Want past
-this wall?
+Quer passar
+por essa parede?
 --------------------
-Bring me <red>five
+Traga <red>dois pins
+de 1.000
+ienes<black>.
+--------------------
+O Ruído número 2 está
+com eles.
+--------------------
+Objetivo
+concluído.
+--------------------
+Parede livre!
+--------------------
+......
+--------------------
+Quer passar
+por essa parede?
+--------------------
+Traga-me <red>5
 500 Yen<black> pins.
 --------------------
-Objective
-met.
+Objetivo
+concluído.
 --------------------
-Wall clear!
---------------------
-......
---------------------
-Want past
-this wall?
---------------------
-Then wipe
-out <red>two<black> of this
-area's <red>largest<black>
-Noise symbol.
---------------------
-Noise No. 10's
-got 'em.
---------------------
-Objective
-met.
---------------------
-Wall clear!
+Parede livre!
 --------------------
 ......
 --------------------
-...Huh?
-'Sup, Players.
+Quer passar
+por essa parede?
 --------------------
-Want me
-to clear the
-wall?
+Então limpe
+<red>dois<black> desta área
+é <red>maior<black> Símbolo
+de Ruído.
 --------------------
-Then buy
-me a CD.
+O Ruído número 10 está
+com eles.
 --------------------
-The one that...
-Oh, what's it
-called?
+Objetivo
+concluído.
 --------------------
-Ugh,
-I forget.
---------------------
-I'm just
-lookin' for some
-<red>salvation<black>, ya
-know?
---------------------
-Hook me up
-with that track,
-and I'll let you
-through.
---------------------
-Hey! You
-brought it!
---------------------
-Yeaaah!
-This is the
-song!
---------------------
-The melody's
-like a single
-ray of light
---------------------
-piercing the
-languid darkness
-of the UG<->
---------------------
-the beacon
-that'll lead me
-out of the
-labyrinth.
---------------------
-You dig?
---------------------
-The song
-really speaks
-to me.
---------------------
-It's all, like,
-whisk-you-away-
-to-another-world,
-ya know?
---------------------
-Man, I'm
-such a poet
-sometimes!
---------------------
-...OK, so I just
-ripped all that off
-the <red>TIPS<black> blurb.
---------------------
-But you
-should read 'em
-too, man.
---------------------
-A lot of
-TIPS contain
-useful info!
---------------------
-Anyway,
-I should
-bounce.
---------------------
-Song's pretty
-good though,
-huh?
---------------------
-...Wall clear!
+Parede livre!
 --------------------
 ......
 --------------------
-Like a
-bolt from
-the blue,
+- E aí,
+Jogadores?
 --------------------
-it's time for
-the Reaper
-Review.
+Quer
+que eu limpe
+a parede?
 --------------------
-And away
-we go!
+Então me
+compre um CD.
 --------------------
-Did you do
-your homework,
-kids?
+Aquele que...
+como se
+chama?
 --------------------
-Then away
-we go!
+Eu
+esqueço.
 --------------------
-Question 1!
+Só estou
+procurando um pouco de
+comida. <red>salvação<black>Você
+sabe?
 --------------------
-Which of the
-following shops
-is in the 104
-Building?
+Ligue-me
+com essa faixa,
+e eu vou deixar
+você passar.
+--------------------
+Ei, você
+trouxe!
+--------------------
+Essa
+é a
+música!
+--------------------
+A melodia é
+como um único
+raio de luz.
+--------------------
+perfurando a
+escuridão lânguida
+da UG<->
+--------------------
+O farol
+que me levará
+para fora
+do labirinto.
+--------------------
+Você escavou?
+--------------------
+A música
+realmente fala
+comigo.
+--------------------
+É tudo,
+tipo,
+bater-você-fora-para-outro-mundo,
+sabe?
+--------------------
+Cara, sou
+um poeta
+às vezes!
+--------------------
+Então eu acabei
+de arrancar tudo isso
+do borrão <red>TIPS<black>.
+--------------------
+Mas você
+deveria lê-los
+também, cara.
+--------------------
+Um monte
+de TIPS contêm
+informações úteis!
+--------------------
+De qualquer
+forma, eu
+deveria saltar.
+--------------------
+A música é
+muito boa,
+não é?
+--------------------
+...Parede liberada!
+--------------------
+......
+--------------------
+Como
+umparafuso
+doazul,
+--------------------
+É hora da
+Revisão
+Reaper.
+--------------------
+E vamos
+embora!
+--------------------
+Fizeram
+o dever de casa,
+crianças?
+--------------------
+Então vamos
+embora!
+--------------------
+Pergunta 1!
+--------------------
+Qual das
+seguintes
+lojas fica no
+prédio 104?
 --------------------
 Oh ho!
 --------------------
-Question 2!
+Pergunta 2!
 --------------------
-What's on the
-sign outside Shibu
-Dept. Store?
+O que tem na
+placa do lado de fora do
+Departamento de Shibu?
 --------------------
-...I see,
-I see!
+Eu vejo,
+eu vejo!
 --------------------
-Question 3!
+Pergunta 3!
 --------------------
-<red>Bigbanfrog<black> is
-No. 2 on the
-Noise Report.
+<red>Bigbanfrog<black> É
+o número 2 do
+Relatório de Ruído.
 --------------------
-Most folks
-know it as the
-blue frog
-Noise.
+A maioria das
+pessoas sabe disso
+como o sapo
+azul Ruído.
 --------------------
-Which of
-the following
-attacks does
-it use?
+Qual dos
+seguintes
+ataques
+ele usa?
 --------------------
-Hmm, veeery
-interesting...
+Hmm, muito
+interessante...
 --------------------
-OK...
-The results
-are in!
+Certo, os
+resultados estão
+dentro!
 --------------------
-Reaper Review,
-Lesson 1!
+Revisão Reaper,
+Lição 1!
 --------------------
-Survey says...
+A pesquisa diz...
 --------------------
-You pass!
+Você passa!
 --------------------
-So pass on
-through.
+Então,
+passe.
 --------------------
-But! Though
-you may forget
-the Review<->
+Mas, embora
+você possa esquecer
+a Revisão<->
 --------------------
-rest assured,
-it remembers
-you.
+Tenha certeza,
+ele se lembra
+de você.
 --------------------
-We'll see you
-again. Bye-bye
-for now!
+Nos vemos de
+novo, tchau por
+enquanto.
 --------------------
-OK...
-The results
-are in!
+Certo, os
+resultados estão
+dentro!
 --------------------
-Reaper Review,
-Lesson 1!
+Revisão Reaper,
+Lição 1!
 --------------------
-Survey says...
+A pesquisa diz...
 --------------------
-Bzzzt!
-So sorry!
+Bzzzt,
+sinto muito!
 --------------------
-I can't let
-you pass<->
+Não posso deixar
+você passar<->
 --------------------
-until you
-pass.
+até que você
+passe.
 --------------------
-Them's the
-breaks here
-on the Reaper
-Review.
+São os
+intervalos
+aqui na revisão
+Reaper.
 --------------------
-Study up and
-try again!
---------------------
-......
---------------------
-Want past
-this wall?
---------------------
-Bring me <red>three
-Rare Metal<black> pins.
---------------------
-Noise No. 58's
-got 'em.
---------------------
-Set your
-difficulty to
-Normal.
---------------------
-Objective
-met.
---------------------
-Wall clear!
+Estude e tente
+de novo!
 --------------------
 ......
 --------------------
-...Huh?
-'Sup, Players.
+Quer passar
+por essa parede?
 --------------------
-Want me
-to clear the
-wall?
+Traga-me <red>três
+pins de metal raro<black>
 --------------------
-Hmm...
-Then take out
-the <red>Pig Noise<black>
-in this area!
+O Ruído no 58 está
+com eles.
 --------------------
-You kids
-know about the
-pig indicator?
+Defina sua
+dificuldade como
+normal.
 --------------------
-If the
-icon's lit up,
+Objetivo
+concluído.
 --------------------
-there's
-bacon in the
-neighborhood.
---------------------
-That, and...
-Don't go tellin'
-folks, but...
---------------------
-When they
-show up during
-a scan,
---------------------
-you can
-hear 'em.
---------------------
-They're all...
-OINK!
---------------------
-It's actually
-kinda<->
---------------------
-Nothin',
-never mind.
---------------------
-L-look, just...
-take 'em out,
-OK?
---------------------
-Oh, hey!
-Got 'em already?
---------------------
-You're pretty
-good!
+Parede livre!
 --------------------
 ......
 --------------------
-So...
-What'd you
-think?
+- E aí,
+Jogadores?
 --------------------
-Cute, right?
+Quer
+que eu limpe
+a parede?
 --------------------
-I mean<->
-Never mind.
+Então, tire
+a saída do carro.
+<red>Ruídos Porco<black>
+nesta área!
 --------------------
-What! Don't
-gimme that look!
+Vocês sabem
+sobre o indicador
+de porco?
 --------------------
-Ugh, just scram.
-Wall clear!
+Se
+oíconeestiveriluminado,
 --------------------
-Oh, it's you.
+Tem
+bacon na
+vizinhança.
 --------------------
-Well, there
-aren't any Pig
-Noise left.
+Isso, e... não
+vá contar para as
+pessoas, mas...
+--------------------
+Quandoelesaparecemdurante
+umexame,
+
+--------------------
+Você pode
+ouvi-los.
+--------------------
+Eles são todos...
+oink!
+--------------------
+Na verdade, é
+meio que<->
+--------------------
+Nada, não
+importa.
+--------------------
+Olhe, só... leve-os
+para fora,
+certo?
+--------------------
+Já
+os tem?
+--------------------
+Você é muito
+bom!
+--------------------
+......
+--------------------
+Então,
+o que
+achou?
+--------------------
+Bonito, não é?
+--------------------
+Quer
+dizer,<->Não importa.
+--------------------
+Não me dê
+esse olhar!
+--------------------
+A parede
+está limpa!
+--------------------
+Oh, é você.
+--------------------
+Não há
+Ruídos Porco
+sobrando.
 --------------------
 ...Oink.
 --------------------
-I-I didn't<->
-That wasn't<->-
+Eu não<->Não
+foi<->-
 --------------------
-Look, just
-go already!
+Olhe, só
+vá já!
 --------------------
-...Huh?
-'Sup, Players.
+- E aí,
+Jogadores?
 --------------------
-Want me
-to clear the
-wall?
+Quer
+que eu limpe
+a parede?
 --------------------
-Hmm...
-Then take out
-the <red>Pig Noise<black>
-in this area!
+Então, tire
+a saída do carro.
+<red>Ruídos Porco<black>
+nesta área!
 --------------------
-...Wait.
+...Espera.
 --------------------
-You already
-did!?
+Você já fez
+isso!
 --------------------
-Uhh...
+Hum...
 --------------------
-Then I
-guess you can
-just go?
---------------------
-......
---------------------
-...Huh?
-'Sup, Players.
---------------------
-Want me
-to clear the
-wall?
---------------------
-First, bring me
-one <red>Murasame<black>.
-It's a pin.
---------------------
-Then
-we'll talk.
---------------------
-I won't accept
-it unless it's at
-least <red>level 3<black>.
---------------------
-...Hey, wow.
-I'm kind of
-impressed.
---------------------
-You can
-pass.
+Então
+acho que você
+pode ir?
 --------------------
 ......
 --------------------
-...Huh?
-'Sup, Players.
+- E aí,
+Jogadores?
 --------------------
-Want me
-to clear the
-wall?
+Quer
+que eu limpe
+a parede?
 --------------------
-First, bring
-me some <red>funky
-shades<black>.
+Primeiro, traga-me
+uma. <red>Murasamesame.<black>É
+um pin.
 --------------------
-Then
-we'll talk.
+Então
+vamos conversar.
 --------------------
-...Hey, wow.
-I'm kind of
-impressed.
+Não aceitarei a não
+ser que seja pelo
+menos <red>nível 3<black>..
 --------------------
-You can
-pass.
+Estou
+meio
+impressionada.
+--------------------
+Você pode
+passar.
 --------------------
 ......
 --------------------
-Like a
-bolt from
-the blue,
+- E aí,
+Jogadores?
 --------------------
-it's time for
-the Reaper
-Review.
+Quer
+que eu limpe
+a parede?
 --------------------
-And away
-we go!
+Primeiro,
+traga-me alguns
+<red>tons funky<black>..
 --------------------
-Did you do
-your homework,
-kids?
+Então
+vamos conversar.
 --------------------
-Then away
-we go!
+Estou
+meio
+impressionada.
 --------------------
-Today's
-Review has
-a theme.
+Você pode
+passar.
 --------------------
-I'll be asking
-about KuraKura.
+......
 --------------------
-You know, the
-shop in Shibukyu
+Como
+umparafuso
+doazul,
+--------------------
+É hora da
+Revisão
+Reaper.
+--------------------
+E vamos
+embora!
+--------------------
+Fizeram
+o dever de casa,
+crianças?
+--------------------
+Então vamos
+embora!
+--------------------
+A revisão
+de hoje tem
+um tema.
+--------------------
+Vou perguntar
+sobre KuraKura.
+--------------------
+Você sabe, a
+loja em Shibukyu
 Stationside?
 --------------------
-Question 1!
+Pergunta 1!
 --------------------
-What's the
-lovely saleslady's
-name?
+Qual é
+o nome da linda
+vendedora?
 --------------------
-Hmm, you
-don't say...
+Você não
+diz...
 --------------------
-Question 2!
+Pergunta 2!
 --------------------
-They sell a
-pin there called
-<red>Happy Beam<black>.
+Elesvendemlá
+um pinchamado <red>Feliz
+Beam Beam!<black>.
 --------------------
-Say I
-want to use
-it in battle.
+Diga que
+quero usá-lo
+na batalha.
 --------------------
-Which touch
-command do
-I use?
+Qual comando
+de toque
+eu uso?
 --------------------
-Well,
-aren't you
-so smart?
+Você
+não é tão
+inteligente?
 --------------------
-Question 3!
+Pergunta 3!
 --------------------
-OK, another
-item they stock...
+Certo, outro
+item que eles estocam...
 --------------------
-The <red>slogan
-bandannas<black>.
+O <red>slogan
+bandanas<black>..
 --------------------
-Which brand
-makes it?
+Qual marca
+faz isso?
 --------------------
-Hmm, you sure
-about that?
+Tem certeza
+disso?
 --------------------
-OK...
-The results
-are in!
+Certo, os
+resultados estão
+dentro!
 --------------------
-Reaper Review,
-Lesson 2!
+Revisão Reaper,
+Lição 2!
 --------------------
-Survey says...
+A pesquisa diz...
 --------------------
-You pass!
+Você passa!
 --------------------
-So pass on
-through.
+Então,
+passe.
 --------------------
-But! Though
-you may forget
-the Review<->
+Mas, embora
+você possa esquecer
+a Revisão<->
 --------------------
-rest assured,
-it remembers
-you.
+Tenha certeza,
+ele se lembra
+de você.
 --------------------
-We'll see you
-again. Bye-bye
-for now!
+Nos vemos de
+novo, tchau por
+enquanto.
 --------------------
-OK...
-The results
-are in!
+Certo, os
+resultados estão
+dentro!
 --------------------
-Reaper Review,
-Lesson 2!
+Revisão Reaper,
+Lição 2!
 --------------------
-Survey says...
+A pesquisa diz...
 --------------------
-Bzzzt!
-So sorry!
+Bzzzt,
+sinto muito!
 --------------------
-I can't let
-you pass<->
+Não posso deixar
+você passar<->
 --------------------
-until you
-pass.
+até que você
+passe.
 --------------------
-Them's the
-breaks here
-on the Reaper
-Review.
+São os
+intervalos
+aqui na revisão
+Reaper.
 --------------------
-Study up and
-try again!
---------------------
-......
---------------------
-Want past
-this wall?
---------------------
-Defeat <red>five<black>
-Noise symbols
-in battle.
---------------------
-Objective
-met.
---------------------
-Wall clear!
+Estude e tente
+de novo!
 --------------------
 ......
 --------------------
-...Huh?
-'Sup, Players.
+Quer passar
+por essa parede?
 --------------------
-Want me
-to clear the
-wall?
+Derrotar <red>5<black>
+Símbolos de Ruído
+em batalha.
 --------------------
-Then bring me
-one <red>Natural Magnum<black>.
-It's a pin.
+Objetivo
+concluído.
 --------------------
-I don't
-care how you
-get it, but...
---------------------
-watch what
-happens when
-you break in a
-<red>Happy Beam<black>.
---------------------
-Trust me,
-you'll just
-DIE.
---------------------
-...Har!
-Reaper humor.
---------------------
-Ooh!
-You got one?
+Parede livre!
 --------------------
 ......
 --------------------
-Did you
-grow this
-yourself?
+- E aí,
+Jogadores?
 --------------------
-Sure, a pin's
-just a pin,
+Quer
+que eu limpe
+a parede?
 --------------------
-but use it
-long enough and
-you kinda get
-attached.
+Então traga-me
+uma. <red>Magnum natural<black>É
+um pin.
 --------------------
-Till death
-do you part?
+Não me
+importa como você
+consegue, mas...
 --------------------
-...Har!
-Reaper humor.
+Veja o que
+acontece quando
+você arromba um carro.
+<red>Feliz Beam Beam!<black>.
 --------------------
-......
+Confie em
+mim, você vai
+morrer.
 --------------------
-Man, would
-it kill you to
-laugh?
+Humor
+Reaper.
 --------------------
-...Har.
---------------------
-......
---------------------
-Want past
-this wall?
---------------------
-Then fight
-through a <red>three-
-reduction chain
-battle<black>.
---------------------
-I don't
-care what area
-you fight in,
---------------------
-but if you
-don't chain <red>three<black>
-rounds, it won't
-count.
---------------------
-Objective
-met.
---------------------
-Wall clear!
+Você
+tem um?
 --------------------
 ......
 --------------------
-Want past
-this wall?
+Você mesmo
+cultivou
+isso?
 --------------------
-Then take
-down these
-Noise!
+Claro, um pin
+ésó um pin.
 --------------------
-Objective
-met.
+Mas use por
+tempo suficiente
+e você meio que
+se apega.
 --------------------
-Wall clear!
+Até a morte
+você se separar?
+--------------------
+Humor
+Reaper.
 --------------------
 ......
 --------------------
+Cara, seria
+matar você
+para rir?
+--------------------
+...Ha.
+--------------------
 ......
+--------------------
+Quer passar
+por essa parede?
+--------------------
+Então lute
+através de uma
+batalha de cadeia de
+<red>três-redução<black>..
+--------------------
+Não
+meinteressa em
+queárealutas.
+--------------------
+Mas se você
+não acorrenta
+<red>três<black> rodadas,
+não conta.
+--------------------
+Objetivo
+concluído.
+--------------------
+Parede livre!
+--------------------
+......
+--------------------
+Quer passar
+por essa parede?
+--------------------
+Então
+derrube esse
+barulho!
+--------------------
+Objetivo
+concluído.
+--------------------
+Parede livre!
 --------------------
 ......
 --------------------
@@ -697,437 +693,439 @@ Wall clear!
 --------------------
 ......
 --------------------
-Want past
-this wall?
---------------------
-Erase all the
-Noise possessing
-people in this
-area.
---------------------
-Objective
-met.
---------------------
-Wall clear!
+......
 --------------------
 ......
 --------------------
-...Huh?
-'Sup, Players.
+Quer passar
+por essa parede?
 --------------------
-Want me
-to clear the
-wall?
+Apague todo
+o barulho que
+possui pessoas
+nesta área.
 --------------------
-Well, only the
-<red>brave<black> get past
-yours truly.
+Objetivo
+concluído.
 --------------------
-Hey,
-pretty boy.
+Parede livre!
 --------------------
-...You're
-speaking to
-me?
+......
 --------------------
-That's right.
+- E aí,
+Jogadores?
 --------------------
-Come back
-wearing head-to-
-toe <red>Natural Puppy<black>
+Quer
+que eu limpe
+a parede?
+--------------------
+Bem,apenas o
+<red>corajoso.<black> Passe o seu
+verdadeiramente.
+--------------------
+Ei, lindo
+garoto.
+--------------------
+Você está
+falando
+comigo?
+--------------------
+Isso mesmo.
+--------------------
+Volte
+vestindo de cabeça
+a pé. <red>Natural Puppy<black>
 threads.
 --------------------
-Do that, and I
-might let you pass.
-Possibly maybe.
+Faça isso, e eu
+posso deixá-lo
+passar.
 --------------------
-Satisfied?
+Satisfeito?
 --------------------
-Wow...
-You actually kinda
-work that.
+Na verdade,
+você meio que trabalha
+isso.
 --------------------
-Pretty
-brave, kid.
-But<->
+Muito
+corajoso,
+garoto, mas<->
 --------------------
-I'm not lettin'
-you through.
+Não vou deixar
+você passar.
 --------------------
-Can't.
-This wall's beyond
-my power.
+Esta parede
+está além do meu
+poder.
 --------------------
-Besides,
-don't you have
-a mission?
+Além disso,
+você não tem
+uma missão?
 --------------------
-Tickity-
-tock.
+Tickity-tock.
+
 --------------------
 ......
 --------------------
-...Huh?
-'Sup, Players.
+- E aí,
+Jogadores?
 --------------------
-Want me
-to clear the
-wall?
+Quer
+que eu limpe
+a parede?
 --------------------
-First, bring
-me a <red>Definitivo
-Chili Dog<black>.
+Primeiro, traga-me
+um <red>Definitivo
+Chili Dog<black>..
 --------------------
-Then
-we'll talk.
+Então
+vamos conversar.
 --------------------
-You guys
-heard of
-those?
+Vocês
+ouviram
+falar disso?
 --------------------
-Mexican Dog on
-Spain Hill sells
-'em on the sly.
+O Cão Mexicano
+no Spain Hill os
+vende na astuta.
 --------------------
-Thanks,
+Obrigado,
 amigos!
 --------------------
-...Ooh!
-You got one?
+Você
+tem um?
 --------------------
-So this is the
-Definitivo...
-Mmm, finally!
+Então este é
+o Definitivo...
+finalmente!
 --------------------
-Wait, is that...
-Ugh, CHEESE!?
+Espere, isso é...
+Ugh, Cheese!
 --------------------
-Bleagh.
-I don't do
-cheese.
+Bleagh,
+não faço
+queijo.
 --------------------
-Look,
-you can have
-it back.
+Olhe, você
+pode tê-lo
+de volta.
 --------------------
-Just...go.
-Get it away
-from me.
---------------------
-......
---------------------
-Want past
-this wall?
---------------------
-Then turn
-<red>Natural Puppy<black>
-into the hottest
-thing around.
---------------------
-Make it
-<red>number one<black> in
-the area.
---------------------
-Watch what
-pins and threads
-you wear into
-battle, yeah?
---------------------
-Objective
-met.
---------------------
-Wall clear!
+Apenas...
+vá, tire isso
+de mim.
 --------------------
 ......
 --------------------
-Want past
-this wall?
+Quer passar
+por essa parede?
 --------------------
-Then beat
-<red>three<black> of these<->
-where I can
-see ya.
+Então
+transforme <red>Natural
+Puppy<black> na coisa mais
+quente ao redor.
 --------------------
-Objective
-met.
+Faça
+<red>número um<black>
+na área.
 --------------------
-Wall clear!
+Veja quais
+pins e fios
+você usa na
+batalha, certo?
 --------------------
-......
+Objetivo
+concluído.
 --------------------
-Want past
-this wall?
---------------------
-Then bring me
-one <red>Pop Pendulum<black>.
-It's a pin.
---------------------
-Noise No. 56
-has got 'em.
---------------------
-Set your
-difficulty to
-Normal.
---------------------
-Objective
-met.
---------------------
-Wall clear!
+Parede livre!
 --------------------
 ......
 --------------------
-...Huh?
-'Sup, Players.
+Quer passar
+por essa parede?
 --------------------
-Want me
-to clear the
-wall?
+Então vença
+<red>três<black> destes<->onde
+eu posso
+vê-lo.
 --------------------
-First, bring me a
-<red>Supply Factor<black>.
-It's a pin.
+Objetivo
+concluído.
 --------------------
-Then
-we'll talk.
---------------------
-Noise No. 30's
-got 'em.
---------------------
-Heh heh.
-This one's a
-little tricky.
---------------------
-Look to
-Noise No. 29
-for a hint.
---------------------
-...Hey, wow.
-I'm kind of
-impressed.
---------------------
-You can
-pass.
---------------------
-Oh, and here.
---------------------
-I already took
-a few bites, but
-you can finish
-this.
+Parede livre!
 --------------------
 ......
 --------------------
-Guess who!
+Quer passar
+por essa parede?
 --------------------
-Like a
-bolt from
-the blue,
+Então me traga
+um <red>Pêndulo Pop<black>
+É um pin.
 --------------------
-it's time for
-the Reaper
-Review.
+O Ruído no
+56 os pegou.
 --------------------
-Ready to shake?
-Then away we go!
+Defina sua
+dificuldade como
+normal.
 --------------------
-Did you do
-your homework,
-kids?
+Objetivo
+concluído.
 --------------------
-Then away
-we go!
---------------------
-Question 1!
---------------------
-Cat Street's
-purrfect place
-for coffee:
-<red>WildKat<black>.
---------------------
-Which of
-the following
-will you find on
-the menu?
---------------------
-Really?
---------------------
-Question 2!
---------------------
-I left my heart
-in Shibuya's <red>phone
-booth of love<black>!
---------------------
-Surely you've
-heard of it?
---------------------
-They say if you
-use it to call the
-person you like,
---------------------
-that special
-someone will love
-you right back!
---------------------
-Pretty handy,
-huh? So where
-is it?
---------------------
-Is that your
-final answer?
---------------------
-Question 3!
---------------------
-Let's change
-up the flavor a
-bit, hmm?
---------------------
-Try this on
-for size:
---------------------
-He wrote the
-<red>Musical Offering<black> and
-what later became
-<red>Air on the G String<black>.
---------------------
-He's famous.
-He's German.
-He's...
---------------------
-What!?
---------------------
-Seriously?
---------------------
-OK...
-The results
-are in!
---------------------
-Reaper Review,
-Lesson 3!
---------------------
-Survey says...
---------------------
-You pass!
---------------------
-So pass on
-through.
---------------------
-But! Though
-you may forget
-the Review<->
---------------------
-rest assured,
-it remembers
-you.
---------------------
-We'll see you
-again. Bye-bye
-for now!
---------------------
-OK...
-The results
-are in!
---------------------
-Reaper Review,
-Lesson 3!
---------------------
-Survey says...
---------------------
-Bzzzt!
-So sorry!
---------------------
-I can't let
-you pass<->
---------------------
-until you
-pass.
---------------------
-Them's the
-breaks here
-on the Reaper
-Review.
---------------------
-Study up and
-try again!
+Parede livre!
 --------------------
 ......
 --------------------
-Want past
-this wall?
+- E aí,
+Jogadores?
 --------------------
-Then bring me
-one <red>Sexy +<black>.
-It's a pin.
+Quer
+que eu limpe
+a parede?
 --------------------
-Noise No. 59's
-got 'em.
+Primeiro, traga-me
+um presente. <red>Fator
+deAbastecimento<black>É um pin.
 --------------------
-I'd set my
-difficulty to
-Easy.
+Então
+vamos conversar.
 --------------------
-Objective
-met.
+O Ruído no 30 está
+com eles.
 --------------------
-Wall clear!
+Esse é
+um pouco
+complicado.
 --------------------
-......
+Olhe para o
+Ruído no 29 para
+dar uma dica.
 --------------------
-Want past
-this wall?
+Estou
+meio
+impressionada.
 --------------------
-Then fight
-through a <red>four-
-reduction chain
-battle<black>.
+Você pode
+passar.
 --------------------
-I don't
-care what area
-you fight in,
+Ah, e aqui.
 --------------------
-but if you
-don't chain <red>four<black>
-rounds, it won't
-count.
---------------------
-Objective
-met.
---------------------
-Wall clear!
+Eu já tomei algumas
+mordidas, mas você
+pode terminar
+isso.
 --------------------
 ......
 --------------------
-...Huh?
-'Sup, Players.
+Adivinhe quem!
 --------------------
-Want me
-to clear the
-wall?
+Como
+umparafuso
+doazul,
 --------------------
-Hmm...
-Let's see,
-then...
+É hora da
+Revisão
+Reaper.
 --------------------
-Clear this
-area of five<->
-no, six Noise
-symbols. No<->
+Prontos para tremer,
+então vamos embora!
+--------------------
+Fizeram
+o dever de casa,
+crianças?
+--------------------
+Então vamos
+embora!
+--------------------
+Pergunta 1!
+--------------------
+O lugar perfeito
+da Cat Street para o
+café: <red>WildKatKat
+WildKat<black>.
+--------------------
+Qual dos
+seguintes você
+vai encontrar
+no menu?
+--------------------
+Sério?
+--------------------
+Pergunta 2!
+--------------------
+Deixei meu coração
+na Shibuya's Shibuya's.
+<red>cabinetelefônica doamor<black>!
+--------------------
+Certamente você já
+ouviu falar disso?
+--------------------
+Dizem que se você
+usar para chamar a
+pessoa que você gosta,
+--------------------
+Alguém
+especial vai te
+amar de volta!
+--------------------
+Então,
+onde
+está?
+--------------------
+Essa é sua
+resposta final?
+--------------------
+Pergunta 3!
+--------------------
+Vamos mudar
+um pouco o
+sabor, hein?
+--------------------
+Tente isso para
+o tamanho:
+--------------------
+Ele escreveu a carta.
+<red>Oferta Musical Oferenda
+Musical<black> e o quemaistarde
+setornou <red>Ar nacorda G<black>.
+--------------------
+Ele é famoso,
+alemão,
+é...
+--------------------
+Quê!?
+--------------------
+Sério?
+--------------------
+Certo, os
+resultados estão
+dentro!
+--------------------
+Revisão Reaper,
+Lição 3!
+--------------------
+A pesquisa diz...
+--------------------
+Você passa!
+--------------------
+Então,
+passe.
+--------------------
+Mas, embora
+você possa esquecer
+a Revisão<->
+--------------------
+Tenha certeza,
+ele se lembra
+de você.
+--------------------
+Nos vemos de
+novo, tchau por
+enquanto.
+--------------------
+Certo, os
+resultados estão
+dentro!
+--------------------
+Revisão Reaper,
+Lição 3!
+--------------------
+A pesquisa diz...
+--------------------
+Bzzzt,
+sinto muito!
+--------------------
+Não posso deixar
+você passar<->
+--------------------
+até que você
+passe.
+--------------------
+São os
+intervalos
+aqui na revisão
+Reaper.
+--------------------
+Estude e tente
+de novo!
+--------------------
+......
+--------------------
+Quer passar
+por essa parede?
+--------------------
+Então me traga
+um <red>Sexy +<black>.
+É um pin.
+--------------------
+O Ruído no 59 está
+com eles.
+--------------------
+Eu definiria
+minha dificuldade
+como fácil.
+--------------------
+Objetivo
+concluído.
+--------------------
+Parede livre!
+--------------------
+......
+--------------------
+Quer passar
+por essa parede?
+--------------------
+Então lute
+através de uma
+batalha de cadeia
+<red>4-redução<black>..
+--------------------
+Não
+meinteressa em
+queárealutas.
+--------------------
+Mas senão
+acorrentares <red>quatro<black>
+Não vai contar,
+não conta.
+--------------------
+Objetivo
+concluído.
+--------------------
+Parede livre!
+--------------------
+......
+--------------------
+- E aí,
+Jogadores?
+--------------------
+Quer
+que eu limpe
+a parede?
+--------------------
+Vamos
+ver,
+então...
+--------------------
+Limpe esta
+área de cinco.<->
+Não, seis símbolos
+de Ruído.<->
 --------------------
 Oh ho ho.
 --------------------
-Make it ten!
-Beat <red>ten<black> of 'em!
+Bata <red>10<black>
+deles!
 --------------------
-You do that,
-and we'll talk.
+Você faz isso,
+e conversaremos.
 --------------------
-Daaamn, man!
-Didn't think you'd
-actually do it.
+Daaamn, cara,
+não achei que você
+realmente faria isso.
 --------------------
-Wall clear.
-So violent...
---------------------
-......
+Tão
+violento...
 --------------------
 ......
 --------------------
@@ -1139,596 +1137,598 @@ So violent...
 --------------------
 ......
 --------------------
-Passage
-denied.
+......
 --------------------
-Pick another
-route.
+Passagem
+negada.
 --------------------
-Objective
-met.
+Escolha outra
+rota.
 --------------------
-Wall clear!
+Objetivo
+concluído.
+--------------------
+Parede livre!
 --------------------
 ......
 --------------------
-Want past
-this wall?
+Quer passar
+por essa parede?
 --------------------
-Then turn <red>D+B<black>
-into the hottest
-thing around.
+Então transforme
+<red>D+B<black> na coisa mais
+quente ao redor.
 --------------------
-Make it
-<red>number one<black> in
-the area.
+Faça
+<red>número um<black>
+na área.
 --------------------
-Watch what
-pins and threads
-you wear into
-battle, yeah?
+Veja quais
+pins e fios
+você usa na
+batalha, certo?
 --------------------
-Objective
-met.
+Objetivo
+concluído.
 --------------------
-Wall clear!
+Parede livre!
 --------------------
-YAAAWN.
+AAAAAH...
 --------------------
-...I'm so
-over this whole
-wall thing.
+Estou tão
+acima dessa coisa
+de parede.
 --------------------
-Today was
-supposed to be
-my day off.
+Hoje era
+para ser meu
+dia de folga.
 --------------------
-So hungry...
-Hmm, what to
-do...
+Com tanta
+fome... o que
+fazer...
 --------------------
-Ooh, I know!
-You want past
-this wall?
+Você quer
+passar por
+essa parede?
 --------------------
-Bring me
-some ramen.
+Traga-me um
+pouco de ramen.
 --------------------
-I wanna
-<red>taste the sea<black>,
-aight?
+Eu quero ter que
+fazer isso. <red>Prove o mar
+no mar.<black>Está bem?
 --------------------
-Ooh, you
-brought it!
+Você
+trouxe!
 --------------------
-...Ugh.
-Where'd you get it?
-It looks foul.
+- Onde
+você conseguiu?
+Parece sujo.
 --------------------
-Keep it, man.
-Way to kill my
-appetite.
+Mantê-lo, cara,
+maneira de matar
+meu apetite.
 --------------------
-Wall clear!
---------------------
-......
---------------------
-Passage
-denied.
---------------------
-Pick another
-route.
---------------------
-Objective
-met.
---------------------
-Wall clear!
+Parede livre!
 --------------------
 ......
 --------------------
-Miss me?
+Passagem
+negada.
 --------------------
-Like a
-bolt from
-the blue,
+Escolha outra
+rota.
 --------------------
-it's time for
-the Reaper
-Review.
+Objetivo
+concluído.
 --------------------
-And away
-we go!
---------------------
-Did you do
-your homework,
-kids?
---------------------
-Then away
-we go!
---------------------
-Ready to
-use your
-noodle?
---------------------
-Today we'll be
-talking ramen.
---------------------
-Specifically,
-Dogenzaka's own
-Ramen Don!
---------------------
-Question 1!
---------------------
-What's the
-name of Ramen
-Don's plucky
-owner?
---------------------
-If you
-say so...
---------------------
-Question 2!
---------------------
-What's the
-secret menu item
-he only serves
-to friends?
---------------------
-I know,
-right?
---------------------
-Question 3!
---------------------
-How much will a
-bowl of shio ramen
-run you there?
---------------------
-Aha!
-I saw what you
-did there.
---------------------
-OK...
-The results
-are in!
---------------------
-Reaper Review,
-Lesson 4!
---------------------
-Survey says...
---------------------
-You pass!
---------------------
-So pass on
-through.
---------------------
-But! Though
-you may forget
-the Review<->
---------------------
-rest assured,
-it remembers
-you.
---------------------
-We'll see you
-again. Bye-bye
-for now!
---------------------
-OK...
-The results
-are in!
---------------------
-Reaper Review,
-Lesson 4!
---------------------
-Survey says...
---------------------
-Bzzzt!
-So sorry!
---------------------
-I can't let
-you pass<->
---------------------
-until you
-pass.
---------------------
-Them's the
-breaks here
-on the Reaper
-Review.
---------------------
-Study up and
-try again!
+Parede livre!
 --------------------
 ......
 --------------------
-Want past
-this wall?
+Sentiu minha falta?
+--------------------
+Como
+umparafuso
+doazul,
+--------------------
+É hora da
+Revisão
+Reaper.
+--------------------
+E vamos
+embora!
+--------------------
+Fizeram
+o dever de casa,
+crianças?
+--------------------
+Então vamos
+embora!
+--------------------
+Pronto para
+usar seu
+macarrão?
+--------------------
+Hoje falaremos
+de Ramen.
+--------------------
+Especificamente,
+o próprio Ramen Don
+de Dogenzaka!
+--------------------
+Pergunta 1!
+--------------------
+Qual é
+o nome do dono
+corajoso de
+Ramen Don?
+--------------------
+Se você
+disser...
+--------------------
+Pergunta 2!
+--------------------
+Qual é o
+item secreto que
+ele só serve
+para amigos?
+--------------------
+Eu sei,
+certo?
+--------------------
+Pergunta 3!
+--------------------
+Quanto uma tigela
+de shio ramen vai te
+levar até lá?
+--------------------
+Eu vi
+o que você
+fez lá.
+--------------------
+Certo, os
+resultados estão
+dentro!
+--------------------
+Revisão Reaper,
+Lição 4!
+--------------------
+A pesquisa diz...
+--------------------
+Você passa!
+--------------------
+Então,
+passe.
+--------------------
+Mas, embora
+você possa esquecer
+a Revisão<->
+--------------------
+Tenha certeza,
+ele se lembra
+de você.
+--------------------
+Nos vemos de
+novo, tchau por
+enquanto.
+--------------------
+Certo, os
+resultados estão
+dentro!
+--------------------
+Revisão Reaper,
+Lição 4!
+--------------------
+A pesquisa diz...
+--------------------
+Bzzzt,
+sinto muito!
+--------------------
+Não posso deixar
+você passar<->
+--------------------
+até que você
+passe.
+--------------------
+São os
+intervalos
+aqui na revisão
+Reaper.
+--------------------
+Estude e tente
+de novo!
+--------------------
+......
+--------------------
+Quer passar
+por essa parede?
 --------------------
 Heh heh
 heh.
 --------------------
-...You.
+...Você,
 Orangeylocks.
 --------------------
-Me?
+Eu?
 --------------------
-Yeah, you!
+Sim, você!
 --------------------
-Come back
-wearing all
+Volte vestindo
+tudo de novo.
 <red>Mus Rattus<black>
 threads.
 --------------------
-Do that, and
-I'll let you pass.
+Faça isso, e eu
+deixarei você passar.
 --------------------
-Happy now?
+Está feliz agora?
 --------------------
-Pfft!
-Aha ha...
+Ahahahaha...
+
 --------------------
-What a
-chintzy outfit,
-man!
+Que
+roupa chintzy,
+cara!
 --------------------
-It suits
-you.
+É conveniente
+para você.
 --------------------
-...Excuse
-me!?
+...Desculpe-me!
+
 --------------------
-Objective
-met.
+Objetivo
+concluído.
 --------------------
-Wall clear!
+Parede livre!
 --------------------
-Hee hee...
+He, he...
 --------------------
-He said it
-suits you,
-Neku.
+Ele disse que
+combina com
+você, Neku.
 --------------------
-I heard him!
---------------------
-......
---------------------
-Want past
-this wall?
---------------------
-Play me at
-Tin Pin!
---------------------
-You ready?
---------------------
-Here
-we go!
---------------------
-C'mon,
-hurry up!
---------------------
-Woo hoo!
-My first victory!
---------------------
-Thanks
-for sucking
-so bad.
---------------------
-Wall clear!
---------------------
-...Crap.
---------------------
-Is there NOBODY
-in this world I can
-actually beat!?
---------------------
-Sigh...
---------------------
-Look, just go.
-I...want to be
-alone.
+Eu o ouvi!
 --------------------
 ......
 --------------------
-Want past
-this wall?
+Quer passar
+por essa parede?
 --------------------
-Then here.
-Defeat these
-Noise!
+Jogue comigo
+no Tin Pin!
 --------------------
-...BUT.
+Está pronto?
 --------------------
-I pick your
-pins!
+Aqui
+vamos nós!
 --------------------
-Take a <red>deep
-breath<black> before
-diving into this
-one.
+Vamos,
+despachem-se!
 --------------------
-Ready for
-a scream?
+Minha
+primeira vitória!
 --------------------
-Then here
-we go!
+Obrigado
+por chupar
+tanto.
 --------------------
-What's the
-holdup?
+Parede livre!
 --------------------
-Objective
-met.
+Droga.
 --------------------
-Wall clear!
+Não há ninguém neste
+mundo que eu possa
+realmente bater!
 --------------------
-......
+Ai...
 --------------------
-It's a long and
-dangerous road
-ahead.
---------------------
-You sure
-you want to
-keep going?
---------------------
-Whadda you think?
---------------------
-Outta the way!
---------------------
-Fine, fine.
-I said my
-piece.
---------------------
-I'll clear
-Route 2-A.
+Olha, só vá,
+eu quero ficar
+sozinha.
 --------------------
 ......
 --------------------
-I always
-wanted to
-do this...
+Quer passar
+por essa parede?
 --------------------
-What was his deal?
+Derrote
+esse
+barulho!
 --------------------
-Seems like he
-was just playing
-with you.
+...MAS.
 --------------------
-Maybe yes,
-maybe no.
+Eu escolho
+seus pins!
 --------------------
-......
+Pegue um take-a-take.
+<red>respiraçãoprofunda<black>
+Antes de mergulhar
+nessa.
 --------------------
-Wimp!
+Pronto para
+um grito?
 --------------------
-Get lost.
+Então aqui
+vamos nós!
 --------------------
-......
+Qual é o
+problema?
 --------------------
-Want to get
-upstairs?
+Objetivo
+concluído.
 --------------------
-You'll have to
-wipe out all this
-floor's Noise!
---------------------
-Objective
-met.
---------------------
-Floor clear!
+Parede livre!
 --------------------
 ......
 --------------------
-Want to get
-upstairs?
+É uma estrada longa
+e perigosa pela
+frente.
 --------------------
-Not until
-you de-Noise
-this floor!
+Tem certeza
+que quer
+continuar?
 --------------------
-Objective
-met.
+O que você acha?
 --------------------
-Floor clear!
+Saiam do caminho!
 --------------------
-......
+Tudo bem, eu
+disse a
+minha peça.
 --------------------
-Want past
-this wall?
---------------------
-Then take
-down these
-Noise!
---------------------
-Objective
-met.
---------------------
-Wall clear!
+Vou limpar
+a rota 2-A.
 --------------------
 ......
 --------------------
-Like a
-bolt from
-the blue...
+Eu sempre
+quis fazer
+isso...
 --------------------
-No, this time
-I mean it<->
+Qual era o acordo dele?
 --------------------
-I'm retiring!
+Parece que ele
+estava brincando
+com você.
 --------------------
-It's been
-a wild ride,
-kids.
+Talvez sim,
+talvez não.
 --------------------
-I loved
-peppering folks
-with trivia about
+......
+--------------------
+Covarde!
+--------------------
+Desapareça.
+--------------------
+......
+--------------------
+Quer
+subir?
+--------------------
+Você vai ter
+que apagar todo o
+barulho do chão!
+--------------------
+Objetivo
+concluído.
+--------------------
+Piso limpo!
+--------------------
+......
+--------------------
+Quer
+subir?
+--------------------
+Não até
+você des-Ruído
+este andar!
+--------------------
+Objetivo
+concluído.
+--------------------
+Piso limpo!
+--------------------
+......
+--------------------
+Quer passar
+por essa parede?
+--------------------
+Então
+derrube esse
+barulho!
+--------------------
+Objetivo
+concluído.
+--------------------
+Parede livre!
+--------------------
+......
+--------------------
+Como um
+parafuso
+do azul...
+--------------------
+Não, desta vez
+quero dizer<->
+--------------------
+Estou me aposentando!
+--------------------
+Tem sido um
+passeio selvagem,
+crianças.
+--------------------
+Eu adorava
+pessoas com
+curiosidades sobre
 Shibuya.
 --------------------
-But alas,
-that's a thing
-of the past.
+Mas,
+infelizmente, isso é
+coisa do passado.
 --------------------
-Please don't
-ask why.
+Por favor, não pergunte
+por quê.
 --------------------
-I know
-this won't fill
-the void,
+Sei
+queistonãovaipreencher
+ovazio.
 --------------------
-but why don't
-we play one
-last, SPECIAL
-edition
+Mas por que não
+tocamos uma
+última edição
+especial?
 --------------------
-of the inimitable
-Reaper Review.
+da inimitável
+Revisão Reaper.
 --------------------
-Did you do
-your homework,
-kids?
+Fizeram
+o dever de casa,
+crianças?
 --------------------
-Then away
-we go!
+Então vamos
+embora!
 --------------------
-Question 1!
+Pergunta 1!
 --------------------
 <red>Psychedelifox<black>
-is No. 42 on the
-Noise Report.
+é o número 42 no
+Relatório de Ruído.
 --------------------
-It's a green fox.
-Seen it before?
+É uma raposa verde,
+já viu antes?
 --------------------
-It likes to
-shape-shift and
-fool Players.
+Gosta de mudar
+de forma e enganar
+Jogadores.
 --------------------
-So, which of
-the following can
-it turn into?
+Então, em qual
+dos seguintes pode
+se transformar?
 --------------------
-Moving on...
+Seguindo em frente...
 --------------------
-Question 2!
+Pergunta 2!
 --------------------
-Been <red>mingling<black>
-much?
+Já estive lá. <red>minglinglinging
+minglingling<black> Muito, muito?
 --------------------
-The pins you're
-wearing get PP for
-each person you
-encounter.
+Os pins que você
+está usando ganham PP
+para cada pessoa que
+você encontrar.
 --------------------
-You knew
-that, right?
+Você sabia
+disso, certo?
 --------------------
-So here's the
-question!
+Então, aqui está
+a pergunta!
 --------------------
-Whose
-picture do you
-see <red>after you
-mingle<black>?
+De quem
+você vê
+<red>depois de se
+misturar<black>?
 --------------------
-This is it!
+É isso aí!
 --------------------
-Question 3!
+Pergunta 3!
 --------------------
-Shibuya's got a
-fever, and the only
-prescription is
-more <red>Tin Pin<black>!
+Shibuya está
+com febre, e a única
+receita é mais
+prescrição. <red>Tin Pin<black>!
 --------------------
-Which of
-these appears
-before the
-game's title?
+Qual delas
+aparece antes
+do título
+do jogo?
 --------------------
-It's over!
+Acabou!
 --------------------
-OK...
-The results
-are in!
+Certo, os
+resultados estão
+dentro!
 --------------------
-Reaper Review,
-our final lesson!
+Revisão Reaper,
+nossa lição final!
 --------------------
-Survey says...
+A pesquisa diz...
 --------------------
-You pass!
+Você passa!
 --------------------
-So pass on
-through.
+Então,
+passe.
 --------------------
-I'd say,
-"See you in the
-next life,"
-but...
+Eu diria:
+"Nos vemos na
+próxima vida",
+mas...
 --------------------
-Well, you
-know.
+Bem, você
+sabe.
 --------------------
-Good luck,
-tigers!
+Boa sorte,
+tigres!
 --------------------
-Oh, and here.
-A little memento.
+E aqui, um pouco
+de lembrança.
 --------------------
-Sorry it's
-half-eaten.
+Desculpe, é
+meio comido.
 --------------------
-OK...
-The results
-are in!
+Certo, os
+resultados estão
+dentro!
 --------------------
-Reaper Review,
-our final lesson!
+Revisão Reaper,
+nossa lição final!
 --------------------
-Survey says...
+A pesquisa diz...
 --------------------
-Bzzzt!
-So sorry!
+Bzzzt,
+sinto muito!
 --------------------
-I can't let
-you pass<->
+Não posso deixar
+você passar<->
 --------------------
-until you
-pass.
+até que você
+passe.
 --------------------
-Them's the
-breaks here
-on the Reaper
-Review.
+São os
+intervalos
+aqui na revisão
+Reaper.
 --------------------
-Study up and
-try again!
+Estude e tente
+de novo!
 --------------------
 ......
 --------------------
-Want to get
-upstairs?
+Quer
+subir?
 --------------------
-Not until you
-erase all this
-floor's Noise!
+Não até você
+apagar todo o
+barulho do chão!
 --------------------
-If you've got
-no business here,
-take a hike.
+Se não tem nada
+a ver com isso, faça
+uma caminhada.
 --------------------
-Objective
-met.
+Objetivo
+concluído.
 --------------------
-Floor clear!
+Piso limpo!
 --------------------
-Oh, and here.
+Ah, e aqui.
 --------------------
-I only had a
-little bit of it,
-I swear.
+Eu só tinha
+um pouco disso,
+eu juro.
 --------------------
-Oh, it's
-you again.
-You're clear
-to pass.
+Oh, é você
+de novo,
+você está livre
+para passar.
 --------------------

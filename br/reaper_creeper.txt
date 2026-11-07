@@ -1,4 +1,4 @@
-TEST
+TESTE
 --------------------
 Obteve <red>{FFD2}<black>!
 --------------------
@@ -532,127 +532,127 @@ com vontade!
 --------------------
 
 --------------------
-Go to White
+Vá para Branco
 --------------------
-White!
-Go to White!
+Branco! Vá
+para Branco!
 --------------------
-It moved!
+Mexeu!
 --------------------
-Whoa!
+Nossa!
 --------------------
-Nuh-uh!
+Nada feito!
 --------------------
-...Huh?
-It's not
-moving.
+Não
+está se
+movendo.
 --------------------
-Hellooo?
+Ooooi?
 --------------------
-...Nothing,
+...Nada,
 --------------------
-Is it White!?
+É Branco!?
 --------------------
-Is it Black?
+É Preto?
 --------------------
-The Gate!?
+O Portal!?
 --------------------
-...Not White.
+...Não é Branco.
 --------------------
-...Not Black.
+...Não é Preto.
 --------------------
-...Not the Gate.
+...Não é o Portal.
 --------------------
-Hmm...
-It's some kind
-of divination.
+É algum
+tipo de
+adivinhação.
 --------------------
-I think you
-have to move
-the coin to get
-an answer.
+Acho que você
+tem que mover
+a moeda para obter
+uma resposta.
 --------------------
-Gaaah!
+Aaaah!
 --------------------
-So fast!
+Tão rápido!
 --------------------
-So quick!
-So decisive!
-That's my
+Tão rápido,
+tão decisivo,
+esse é o meu
 Reaper!
 --------------------
-Marvelous!
+Maravilhoso!
 --------------------
-...Huh?
+...Hã?
 --------------------
-...Wait a sec.
+...Espera aí.
 --------------------
-Last time,
+ltima vez, a última vez,
 --------------------
-I'm pretty
-sure it moved
-more slowly.
+Tenho certeza
+que se moveu
+mais devagar.
 --------------------
-You know,
-I was so busy
-watching,
+Sabes,estavatãoocupado
+a
+ver,
 --------------------
-I probably
-just bumped it
-or something.
+Eu provavelmente
+só esbarrei nele
+ou algo assim.
 --------------------
-Hmm...
-Let's give this
-one more shot!
+Vamos
+dar mais
+uma chance!
 --------------------
-So quick!
-So decisive!
-Thadda boy,
+Thadda,
+garoto,
 Creepy!
+
 --------------------
-Marvelous!
+Maravilhoso!
 --------------------
-MARVELOUS!
+MARAVILHOSO!
 --------------------
-...Wait.
+...Espera.
 --------------------
-No, no, this is
-still all wrong.
+Não, isso ainda
+está errado.
 --------------------
-I swear it
-moved more
-slowly.
+Juro que se
+moveu mais
+devagar.
 --------------------
-OK, just one
-more time...
+Certo, só mais
+uma vez...
 --------------------
-This guy is
-pissing me off.
+Esse cara
+está me irritando.
 --------------------
-Just try
-moving it more
-slowly, OK?
+Tente mover
+mais devagar,
+certo?
 --------------------
-Apparently
-that's more
-convincing.
+Parece
+que é mais
+convincente.
 --------------------
 White!
 --------------------
-An answer,
-clear as day!
+Uma resposta
+clara como o dia!
 --------------------
-Nothing beats
-Reaper Creeper
-when you need
-answers.
+Nada bate Reaper
+Creeper quando
+você precisa de
+respostas.
 --------------------
-All right,
-White means...
+Certo, White
+quer dizer...
 --------------------
-Umm...
-What did I
-ask again?
+O que eu
+perguntei
+de novo?
 --------------------
 ......
 --------------------
@@ -660,51 +660,25 @@ Reaper...
 --------------------
 Creeper...
 --------------------
-What was my
-last question?
+Qual foi minha
+última pergunta?
 --------------------
 Black!
 --------------------
-An answer,
-clear as day!
+Uma resposta
+clara como o dia!
 --------------------
-Nothing beats
-Reaper Creeper
-when you need
-answers.
+Nada bate Reaper
+Creeper quando
+você precisa de
+respostas.
 --------------------
-All right,
-Black means...
+Tudo bem,
+preto significa...
 --------------------
-Umm...
-What did I
-ask again?
---------------------
-......
---------------------
-Reaper...
---------------------
-Creeper...
---------------------
-What was my
-last question?
---------------------
-The Gate!
---------------------
-An answer,
-clear as day!
---------------------
-Nothing beats
-Reaper Creeper
-when you need
-answers.
---------------------
-All right, the
-Gate means...
---------------------
-Umm...
-What did I
-ask again?
+O que eu
+perguntei
+de novo?
 --------------------
 ......
 --------------------
@@ -712,804 +686,830 @@ Reaper...
 --------------------
 Creeper...
 --------------------
-What was my
-last question?
+Qual foi minha
+última pergunta?
 --------------------
-...Let's
-move on.
+O Portal!
 --------------------
-Let's.
+Uma resposta
+clara como o dia!
 --------------------
-OK, Reaper
-Creeper has a
-few rules.
+Nada bate Reaper
+Creeper quando
+você precisa de
+respostas.
 --------------------
-Like what?
+Certo, o Portão
+significa...
 --------------------
-First, someone
-has to summon the
-Reaper.
+O que eu
+perguntei
+de novo?
 --------------------
-Ooh, let me
-do it!
---------------------
-...All right.
+......
 --------------------
 Reaper...
 --------------------
 Creeper...
 --------------------
-Before we
-get in much
-deeper...
+Qual foi minha
+última pergunta?
 --------------------
-If you're
-here all right,
-go to White!
+Vamos seguir
+em frente.
 --------------------
-Go to White
+Vamos.
 --------------------
-Go to White!
+Certo, Reaper
+Creeper tem
+algumas regras.
 --------------------
-It moved!
+Tipo o quê?
 --------------------
-Wow!
+Primeiro, alguém
+tem que convocar
+o Reaper.
 --------------------
-Cool...
+Deixe-me
+fazer isso!
 --------------------
-...Hmm.
-No response.
+...Tudo bem.
 --------------------
-Oh,
+Reaper...
+--------------------
+Creeper...
+--------------------
+Antes
+de nos
+aprofundarmos...
+--------------------
+Se você
+está aqui, vá
+para White!
+--------------------
+Vá para Branco
+--------------------
+Vá para White!
+--------------------
+Mexeu!
+--------------------
+Uau!
+--------------------
+Legal...
+--------------------
+Sem
+resposta.
+--------------------
 Reaper?
+
 --------------------
-Move,
-darn it!
+Mexam-se,
+porra!
 --------------------
 White?
 --------------------
 Black?
 --------------------
-The Gate?
+O Portão?
 --------------------
-Oh!
-Not White...
+Não
+branco...
 --------------------
-Oh!
-Not Black...
+Não é
+preto...
 --------------------
-Oh!
-Not the
-Gate...
+Não
+é o
+portão...
 --------------------
-Hmm...
-It's some kind
-of divination.
+É algum
+tipo de
+adivinhação.
 --------------------
-I think you
-have to move
-the coin to get
-an answer.
+Acho que você
+tem que mover
+a moeda para obter
+uma resposta.
 --------------------
-WHOA!
+NOSSA!
 --------------------
-Did you see
-that coin fly?
+Você viu
+aquela moeda voar?
 --------------------
-Cool!
+Fixe!
 --------------------
-But...
+Mas...
 --------------------
-Wait.
+Espere.
 --------------------
-Ai, did you
-move it?
+Ai, você
+mexeu?
 --------------------
-N...no!
---------------------
-Heh heh,
-I'm kidding.
---------------------
-We probably
-just shook the
-paper.
---------------------
-Let's try
-one more
-time.
---------------------
-Did you see
-that coin fly?
---------------------
-Cool!
---------------------
-But...
---------------------
-Wait.
---------------------
-Ai, did you
-move it?
---------------------
-N...no!
+Não, não!
 --------------------
 Heh heh,
-I'm kidding.
+estou brincando.
 --------------------
-We probably
-just shook the
-paper.
+Nós provavelmente
+apenas sacudimos
+o jornal.
 --------------------
-Let's try
-one more
-time.
+Vamos tentar
+mais
+uma vez.
 --------------------
-Am I really
-moving it that
-fast?
+Você viu
+aquela moeda voar?
 --------------------
-Try doing
-it more
-slooowly.
+Fixe!
 --------------------
-We ladies
-require a delicate
-touch.
+Mas...
+--------------------
+Espere.
+--------------------
+Ai, você
+mexeu?
+--------------------
+Não, não!
+--------------------
+Heh heh,
+estou brincando.
+--------------------
+Nós provavelmente
+apenas sacudimos
+o jornal.
+--------------------
+Vamos tentar
+mais
+uma vez.
+--------------------
+Estou me
+movendo tão
+rápido assim?
+--------------------
+Tente
+fazê-lo mais
+desleixado.
+--------------------
+Nós, senhoras,
+precisamos de um toque
+delicado.
 --------------------
 White!
 --------------------
-Cool...
+Legal...
 --------------------
-The coin
-really moved!
+A moeda
+realmente se moveu!
 --------------------
-So, like...
+Então, tipo...
 --------------------
-We said,
-"if you're here,
-go to White."
+Nós dissemos,
+"se você está aqui,
+vá para White."
 --------------------
-And it went
-to White.
+E foi para
+White.
 --------------------
-Whoa...
+Uau...
 --------------------
-That
-means...
+Isso
+significa...
 --------------------
 ......
 --------------------
-The Reaper's
-here!
+O Reaper está
+aqui!
 --------------------
 Creepy!
 --------------------
 Black!
 --------------------
-Cool...
+Legal...
 --------------------
-The coin
-really moved!
+A moeda
+realmente se moveu!
 --------------------
-So, like...
+Então, tipo...
 --------------------
-We said,
-"if you're here,
-go to White."
+Nós dissemos,
+"se você está aqui,
+vá para White."
 --------------------
-But it went
-to Black.
+Mas foi
+para Black.
 --------------------
-Which means...
+O que significa...
 --------------------
-the Reaper's
-NOT here?
---------------------
-......
---------------------
-Nah, we SAW
-the coin move.
---------------------
-I think the
-Reaper's trying
-to pull a fast
-one.
---------------------
-The Gate!
---------------------
-Cool...
---------------------
-The coin
-really moved!
---------------------
-So, like...
---------------------
-We said,
-"if you're here,
-go to White."
---------------------
-But it went
-to the Gate.
---------------------
-Which means...
---------------------
-"Neither"?
+O Reaper não
+está aqui?
 --------------------
 ......
 --------------------
-Nah, we SAW
-the coin move.
+Não, nós vimos
+a moeda se mover.
 --------------------
-The Reaper
-just needs to
-make up his
-mind!
+Acho que
+o Reaper está
+tentando fazer
+um rápido.
 --------------------
-Can you
-believe it?
+O Portal!
+--------------------
+Legal...
+--------------------
+A moeda
+realmente se moveu!
+--------------------
+Então, tipo...
+--------------------
+Nós dissemos,
+"se você está aqui,
+vá para White."
+--------------------
+Mas foi
+para o Portão.
+--------------------
+O que significa...
+--------------------
+"Nem"?
+--------------------
+......
+--------------------
+Não, nós vimos
+a moeda se mover.
+--------------------
+O
+Reaper só
+precisa
+decidir!
+--------------------
+Dá para
+acreditar?
 --------------------
 Reapers
-really exist!
+realmente existe!
 --------------------
-That's right.
+Isso mesmo.
 --------------------
-And they
-can see right
-through a lie.
+E eles podem
+ver através
+de uma mentira.
 --------------------
-Scary!
+Assustador!
 --------------------
-All right,
+Certo,
 Mina.
 --------------------
-Next
-question.
+Próxima
+pergunta.
 --------------------
-What are you
-gonna ask?
+O que vai
+perguntar?
 --------------------
-Hmm...
+Hum...
 --------------------
-Why don't
-I ask about
-you?
+Por que
+não pergunto
+sobre você?
 --------------------
-About m-me?
-Why?
+- Sobre mim,
+por quê?
 --------------------
-Because I'm
-onto you,
-you tramp.
+Porque estou
+atrás de você,
+seu vagabundo.
 --------------------
-You and
-Makoto.
+Você
+e Makoto.
 --------------------
 Reaper...
 --------------------
 Creeper...
 --------------------
-If Mina has a
-boy she likes,
-go to White!
+Se Mina tem um
+garoto que ela gosta,
+vá para White!
 --------------------
-Does Mina have a crush?
+Mina tem uma queda?
 --------------------
-Mina has a
-crush on someone,
-doesn't she?
+Mina tem
+uma queda por
+alguém, não é?
 --------------------
-There it
-goes...
+Lá
+vai...
 --------------------
-It's gonna
-be White.
+Vai ser
+branco.
 --------------------
-Just
-watch.
+Apenas
+olhe.
 --------------------
-Nothing...
+Nada...
 --------------------
-Come on,
+Vamos,
 Reaper.
 --------------------
-Answer the
-question!
+Responda
+a pergunta!
 --------------------
-I knew it.
+Eu sabia.
 --------------------
-...What?
-Black?
+Preto?
+
 --------------------
-...What?
-The Gate?
+O
+Portão?
 --------------------
-Oh!
-Not White...
+Não
+branco...
 --------------------
-Oh!
-Not Black...
+Não é
+preto...
 --------------------
-Oh!
-Not the
-Gate...
+Não
+é o
+portão...
 --------------------
-Hmm...
-It's some kind
-of divination.
+É algum
+tipo de
+adivinhação.
 --------------------
-I think you
-have to move
-the coin to get
-an answer.
+Acho que você
+tem que mover
+a moeda para obter
+uma resposta.
 --------------------
 Waaah!
 --------------------
-Hey!!!
+Ei!
 Mina!
 --------------------
-Don't move
-the paper!
+Não mova
+o papel!
 --------------------
-I...
-I didn't!
+Eu...
+eu não fiz!
 --------------------
-Yeah, right.
-You can't
-fool me!
+É, certo, você
+não pode me
+enganar!
 --------------------
-Hey...Ai...
-What's gotten
-into you?
+Ei,
+o que deu
+em você?
 --------------------
 REAPER.
 --------------------
 CREEPER.
 --------------------
-Hey!!!
+Ei!
 Mina!
 --------------------
-Don't move
-the paper!
+Não mova
+o papel!
 --------------------
-I...
-I didn't!
+Eu...
+eu não fiz!
 --------------------
-Yeah, right.
-You can't
-fool me!
+É, certo, você
+não pode me
+enganar!
 --------------------
-Hey...Ai...
-What's gotten
-into you?
+Ei,
+o que deu
+em você?
 --------------------
-Am I really
-moving it that
-fast?
+Estou me
+movendo tão
+rápido assim?
 --------------------
-Try doing
-it more
-slooowly.
+Tente
+fazê-lo mais
+desleixado.
 --------------------
-We ladies
-require a delicate
-touch.
+Nós, senhoras,
+precisamos de um toque
+delicado.
 --------------------
 REAPER.
 --------------------
 CREEPER.
 --------------------
-Aha!
-White!
+Branco!
+
 --------------------
-Um, Ai<->
+Ai,Ai.<->
 --------------------
-White means
-YES.
+Branco significa
+sim.
 --------------------
-She's got
-a crush.
+Ela tem
+uma queda.
 --------------------
-And I saw
-her with him
-yesterday.
+E eu a vi
+com ele
+ontem.
 --------------------
-Her and
+Ela e
 Makoto...
-together!
+juntos!
 --------------------
-Black?
-WHAT!?
+Preto,
+o quê?
 --------------------
-Um, Ai<->
+Ai,Ai.<->
 --------------------
-Black
-means NO.
+Preto
+significa não.
 --------------------
-But that
-can't be true.
+Mas isso não
+pode ser verdade.
 --------------------
-I saw her
-with him
-yesterday.
+Eu a vi
+com ele
+ontem.
 --------------------
-Her and
+Ela e
 Makoto...
-together!
+juntos!
 --------------------
-The Gate?
-What is THAT!?
+O que
+é isso?
 --------------------
-Um, Ai<->
+Ai,Ai.<->
 --------------------
-The Gate means
-"neither."
+O Portão significa
+"nenhum".
 --------------------
-That makes
-zero sense!
+Isso não
+faz sentido!
 --------------------
-Whatever.
-I know she's
-lying.
+Sei que
+ela está
+mentindo.
 --------------------
-I saw her
-with him
-yesterday.
+Eu a vi
+com ele
+ontem.
 --------------------
-Her and
+Ela e
 Makoto...
-together!
+juntos!
 --------------------
-Next
-question!
+Próxima
+pergunta!
 --------------------
 Ai...
 --------------------
-This isn't
-like you.
+Isso não é
+como você.
 --------------------
 REAPER.
 --------------------
 CREEPER.
 --------------------
-If Mina has
-secrets that should
-be brought to light...
-go to White!
+Se Mina tem
+segredos que devem
+ser trazidos à luz...
+vá para White!
 --------------------
-Is Mina keeping secrets?
+Mina está guardando segredos?
 --------------------
-You're hiding
-something from
-me, aren't you!?
+Você está
+escondendo algo
+de mim, não está?
 --------------------
-There it
-goes...
+Lá
+vai...
 --------------------
-It's gonna
-be White.
+Vai ser
+branco.
 --------------------
-Just
-watch.
+Apenas
+olhe.
 --------------------
-Nothing...
+Nada...
 --------------------
-Come on,
+Vamos,
 Reaper.
 --------------------
-Answer the
-question!
+Responda
+a pergunta!
 --------------------
-I knew it.
+Eu sabia.
 --------------------
-...What?
-Black?
+Preto?
+
 --------------------
-...What?
-The Gate?
+O
+Portão?
 --------------------
-Oh!
-Not White...
+Não
+branco...
 --------------------
-Oh!
-Not Black...
+Não é
+preto...
 --------------------
-Oh!
-Not the
-Gate...
+Não
+é o
+portão...
 --------------------
-Hmm...
-It's some kind
-of divination.
+É algum
+tipo de
+adivinhação.
 --------------------
-I think you
-have to move
-the coin to get
-an answer.
+Acho que você
+tem que mover
+a moeda para obter
+uma resposta.
 --------------------
-HEY!!!
+EI!!!
 --------------------
-Mina!
-Stop moving
-the paper!
+Mina, pare
+de mover
+o papel!
 --------------------
-I...
-I didn't!
+Eu...
+eu não fiz!
 --------------------
-Stop interfering!
-This is
-IMPORTANT!
+Pare de interferir,
+isso é
+IMPORTANTE!
 --------------------
-Ahh...
-Please, Ai...
+Por
+favor, Ai...
 --------------------
-You're scaring me.
-Snap out of it...
---------------------
-REAPER.
---------------------
-CREEPER.
---------------------
-Mina!
-Stop moving
-the paper!
---------------------
-I...
-I didn't!
---------------------
-Stop interfering!
-This is
-IMPORTANT!
---------------------
-Ahh...
-Please, Ai...
---------------------
-You're scaring me.
-Snap out of it...
---------------------
-Am I really
-moving it that
-fast?
---------------------
-Try doing
-it more
-slooowly.
---------------------
-We ladies
-require a delicate
-touch.
+Você está me
+assustando.
 --------------------
 REAPER.
 --------------------
 CREEPER.
 --------------------
-Aha! See!
-White!
+Mina, pare
+de mover
+o papel!
 --------------------
-Please...
-Ai!
+Eu...
+eu não fiz!
 --------------------
-I knew you
-were hiding
-something!
+Pare de interferir,
+isso é
+IMPORTANTE!
 --------------------
-...What?
+Por
+favor, Ai...
 --------------------
-Why is it
-Black!?
+Você está me
+assustando.
 --------------------
-Please...
-Ai!
+Estou me
+movendo tão
+rápido assim?
 --------------------
-The Reaper
-is lying!
+Tente
+fazê-lo mais
+desleixado.
 --------------------
-I saw you!
---------------------
-...What?
---------------------
-...The Gate?
-That's ridiculous!
---------------------
-Quit messing
-around, Reaper!!!
---------------------
-Please...
-Ai!
---------------------
-I know
-the truth.
---------------------
-I saw you!
---------------------
-...What?
---------------------
-This is it, Mina!
-Last question!
---------------------
-Ai, please stop...
+Nós, senhoras,
+precisamos de um toque
+delicado.
 --------------------
 REAPER.
 --------------------
 CREEPER.
 --------------------
-Yesterday
-Mina met with
-Makoto.
+Olha,branco!
+
 --------------------
-And she LIED
-to me about it.
+Por favor,
+Ai!
 --------------------
-If I'm right...
-GO TO WHITE!
+Eu sabia que
+você estava
+escondendo algo!
 --------------------
-What?
-Ai, you knew
-about that?
+...Quê?
 --------------------
-Makoto's future
+Por que
+é preto?
 --------------------
-What should
-Makoto do with
-his future?
+Por favor,
+Ai!
 --------------------
-It moved!
+O Reaper está
+mentindo!
 --------------------
-Whoa!
+Eu vi você!
 --------------------
-Nuh-uh!
+...Quê?
 --------------------
-...Huh?
-It's not
-moving.
+Isso é
+ridículo!
 --------------------
-Hellooo?
+Pare de
+brincar, Reaper!!!
 --------------------
-...Nothing,
+Por favor,
+Ai!
 --------------------
-Is it White!?
+Eu sei
+a verdade.
 --------------------
-Is it Black?
+Eu vi você!
 --------------------
-The Gate!?
+...Quê?
 --------------------
-...Not White.
+É isso, Mina!
+ltima pergunta!
 --------------------
-...Not Black.
+Ai, por favor, pare...
 --------------------
-...Not the Gate.
+REAPER.
 --------------------
-Yo, I dunno if
-White or Black
-matters,
+CREEPER.
 --------------------
-so just pick
-one and move
-the coin.
+Ontem Mina
+se reuniu
+com Makoto.
 --------------------
-Gaaah!
+E ela mentiu
+para mim sobre isso.
 --------------------
-So quick!
-So decisive!
-That's my
+Se eu estiver certo...
+vá para o White!
+--------------------
+Ai, você
+sabia
+disso?
+--------------------
+O futuro de Makoto.
+--------------------
+O que Makoto
+deve fazer com
+seu futuro?
+--------------------
+Mexeu!
+--------------------
+Nossa!
+--------------------
+Nada feito!
+--------------------
+Não
+está se
+movendo.
+--------------------
+Ooooi?
+--------------------
+...Nada,
+--------------------
+É Branco!?
+--------------------
+É Preto?
+--------------------
+O Portal!?
+--------------------
+...Não é Branco.
+--------------------
+...Não é Preto.
+--------------------
+...Não é o Portal.
+--------------------
+Não sei se Branco ou
+Preto importa, se Branco
+ou Preto importa.
+--------------------
+Então escolha
+um e mova
+a moeda.
+--------------------
+Aaaah!
+--------------------
+Tão rápido,
+tão decisivo,
+esse é o meu
 Reaper!
 --------------------
-Marvelous!
+Maravilhoso!
 --------------------
-...Huh?
+...Hã?
 --------------------
-...Wait a sec.
+...Espera aí.
 --------------------
-Last time,
+ltima vez, a última vez,
 --------------------
-I'm pretty
-sure it moved
-more slowly.
+Tenho certeza
+que se moveu
+mais devagar.
 --------------------
-You know,
-I was so busy
-watching,
+Sabes,estavatãoocupado
+a
+ver,
 --------------------
-I probably
-just bumped it
-or something.
+Eu provavelmente
+só esbarrei nele
+ou algo assim.
 --------------------
-Hmm...
-Let's give this
-one more shot!
+Vamos
+dar mais
+uma chance!
 --------------------
-So quick!
-So decisive!
-Thadda boy,
+Thadda,
+garoto,
 Creepy!
+
 --------------------
-Marvelous!
+Maravilhoso!
 --------------------
-MARVELOUS!
+MARAVILHOSO!
 --------------------
-...Wait.
+...Espera.
 --------------------
-No, no, this is
-still all wrong.
+Não, isso ainda
+está errado.
 --------------------
-I swear it
-moved more
-slowly.
+Juro que se
+moveu mais
+devagar.
 --------------------
-OK, just one
-more time...
+Certo, só mais
+uma vez...
 --------------------
-This guy is
-pissing me off.
+Esse cara
+está me irritando.
 --------------------
-Yo, you
-suck at this,
-Phones...
+Você é
+péssimo nisso,
+Fones...
 --------------------
-Move it
-slooowly.
+Mova-se
+vagaroso.
 --------------------
 White!
 --------------------
-An answer,
-clear as day!
+Uma resposta
+clara como o dia!
 --------------------
-Nothing beats
-Reaper Creeper
-when you need
-answers.
+Nada bate Reaper
+Creeper quando
+você precisa de
+respostas.
 --------------------
-All right,
-White means...
+Certo, White
+quer dizer...
 --------------------
-Aha!
-That clears
-things right
-up.
+Isso
+esclarece
+as
+coisas.
 --------------------
 ......
 --------------------
-It...it does!?
+Ele... ele faz!
 --------------------
 Black!
 --------------------
-An answer,
-clear as day!
+Uma resposta
+clara como o dia!
 --------------------
-Nothing beats
-Reaper Creeper
-when you need
-answers.
+Nada bate Reaper
+Creeper quando
+você precisa de
+respostas.
 --------------------
-All right,
-Black means...
+Tudo bem,
+preto significa...
 --------------------
-Aha!
-That clears
-things right
-up.
---------------------
-......
---------------------
-It...it does!?
---------------------
-The Gate!
---------------------
-An answer,
-clear as day!
---------------------
-Nothing beats
-Reaper Creeper
-when you need
-answers.
---------------------
-All right, the
-Gate means...
---------------------
-Aha!
-That clears
-things right
-up.
+Isso
+esclarece
+as
+coisas.
 --------------------
 ......
 --------------------
-It...it does!?
+Ele... ele faz!
+--------------------
+O Portal!
+--------------------
+Uma resposta
+clara como o dia!
+--------------------
+Nada bate Reaper
+Creeper quando
+você precisa de
+respostas.
+--------------------
+Certo, o Portão
+significa...
+--------------------
+Isso
+esclarece
+as
+coisas.
+--------------------
+......
+--------------------
+Ele... ele faz!
 --------------------

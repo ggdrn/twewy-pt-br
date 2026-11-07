@@ -1,97 +1,95 @@
-Huh?
-What's this box?
+Hã? Que
+caixa é essa?
 --------------------
 ......
 --------------------
-Oh, snap!
+Ah, não acredito!
 --------------------
-Hey!
-Not so fast,
-son!
+Não
+tão rápido,
+filho!
 --------------------
-You forgot
-this.
+Você esqueceu
+isso.
 --------------------
-Huh?
+Hã?
 --------------------
-What on
-earth...
+Que
+diabos...?
 --------------------
-I'm sure you've
-got your share of
-headaches,
+Tenho certeza que você
+tem sua porção de dores de
+cabeça, dores de cabeça,
 --------------------
-but you hang in
-there, OK?
+Mas você fica
+aí, ok?
 --------------------
-Sure, um...
-thanks.
+Claro,
+obrigado.
 --------------------
-Don't tell
-me he's the
-one who<->
+Não me diga
+que é ele quem
+é quem.<->
 --------------------
 Urrrg...
 --------------------
 <red>......<black>
 --------------------
-<red>To right the
-countless wrongs
-of our day<-><black>
+<red>Para corrigir
+os inúmeros erros do
+nosso dia-a-dia.<-><black>
 --------------------
-Hey!
-Ramen Guy!
+Ramen
+Guy!
 --------------------
-Huh!?
-What just
-happened?
+O
+que
+aconteceu?
 --------------------
-This weird
-voice popped
-into my head...
+Essa voz
+estranha apareceu
+na minha cabeça...
 --------------------
-Whew, I need
-a vacation.
+Preciso
+de férias.
 --------------------
-Too much
-work!
+Muito
+trabalho!
 --------------------
-Hey, wait...
+Ei, espere...
 --------------------
 ......
 --------------------
-So all these
-boxes were from<->
-Nahhh.
+Então todas essas
+caixas eram de uma
+caixa.<-> Nahhh.
 --------------------
 Irasshai!
 --------------------
-Hey, kid,
-what's wrong?
-You look down.
+Ei, garoto,
+o que há
+de errado?
 --------------------
-Buck up!
-Have a bowl
-of ramen!
+Peguem
+uma tigela
+de ramen!
 --------------------
-           <-> Game 1 <->
-Reach 104.
+           <-> Jogo 1 <->
+Vá ao 104.
 
-Time: 60 minutes
-Cost of failure: 
-                    Expunction
+Tempo: 60 minutos
+Se falhar:
+                    Apagamento
 --------------------
-           <-> Game 1 <->
-Reach 104.
+           <-> Jogo 1 <->
+Vá ao 104.
 
-Time: 60 minutes
-Cost of failure: 
-                    Expunction
+Tempo: 60 minutos
+Se falhar:
+                    Apagamento
 --------------------
-P.S. This Game only has
-one Player. Best of luck.
---------------------
-
+P.S. Este jogo só tem
+um Jogador, boa sorte.
 --------------------
 
 --------------------
@@ -105,10 +103,12 @@ one Player. Best of luck.
 --------------------
 
 --------------------
-See you at Towa
+
+--------------------
+Vejo você no Towa
 Records.
 
-Key's in the box.
+A chave está na caixa.
 --------------------
 
 --------------------
@@ -126,149 +126,147 @@ Key's in the box.
 --------------------
 
 --------------------
-Konishi wields shadow and
-illusion. <red>You'll find only lies
-with the naked eye.<black>
-During battle, she <red>always
-hides in the white
-darkness<black>.
+Konishi empunha sombra e ilusão.
+<red>Você só encontrará mentiras
+a olho nu.<black> Durante
+a batalha, ela... <red>Sempre se
+esconde na escuridão
+branca.<black>.
 --------------------
-Begin by <red>casting Taboo
-Noise into the heart of
-chaos<black>.
+Comece por começar.
+<red>Lançando Taboo Noise no
+coração do caos.<black>.
 --------------------
-Then, once you find
-where she truly lurks,
-your real battle will begin.
+Então, uma vez que você encontre
+onde ela realmente se esconde,
+sua verdadeira batalha começará.
 --------------------
-P.S. Beware of <red>shadows<black>.
+P.S.Cuidado com <red>sombras<black>.
 --------------------
-See you in the
-Composer's chamber.
+Vejo você na
+câmara do Compositor.
 --------------------
 
 --------------------
-Le's head for
-the underpass,
-Phones!
+A cabeça de Le para
+a passagem inferior,
+Fones!
 --------------------
-Dontchu slow
-me down, yo!
+Não me
+atrase, você!
 --------------------
-Hey...
-Hold up!
+Ei,
+espere aí!
 --------------------
 ......
 --------------------
-Aight!
+Tudo bem, tudo bem.
 --------------------
-It's right
-through here.
-Move it, yo!
+É
+poraqui.
+
 --------------------
-WHAT'S
-right through
-here?
+O que
+há por
+aqui?
 --------------------
-Hey!!!
+Ei!!!
 --------------------
-Listen when
-people are talking
-to you...
+Ouça quando as
+pessoas estão falando
+com você...
 --------------------
-Time's runnin' out!
-Haul it to 104!
+O tempo está acabando,
+atirem para 104!
 --------------------
-I'm hauling!
+Estou carregando!
 --------------------
-Yo, she ran
-that way,
-Phones.
+Ela correu
+por ali,
+Fones.
 --------------------
-Toward 104.
+Rumo a 104.
 --------------------
-Don't let her
-get away, yo!
+Não a deixe
+escapar, você!
 --------------------
-I gotta get
-that pin back!
+Tenho que pegar
+o pin de volta!
 --------------------
-Come on out,
+Saia,
 Ironface!
 --------------------
-Where you at!?
+Onde você está?
 --------------------
-Not here,
-that's for
-sure.
+Não
+aqui, com
+certeza.
 --------------------
-Dammit, she
-gonna pay!
+Droga, ela
+vai pagar!
 --------------------
-Maybe she's
-somewhere up
-ahead.
+Talvez ela esteja
+em algum lugar
+à frente.
 --------------------
-Let's keep
-looking.
+Vamos continuar
+procurando.
 --------------------
-You ain't gettin'
-away, Ironface!
+Você não vai
+fugir, Ironface!
 --------------------
-She ran
-toward
+Ela correu
+para
 A-East.
 --------------------
-Aight, yo.
-Le's move it!
+Le,
+mexa-se!
 --------------------
-Heh heh!
-We got her
-now, man.
+Nós a
+pegamos
+agora, cara.
 --------------------
-Ironface gotta
-be somewhere in
-that building.
+Ironface tem que
+estar em algum lugar
+naquele prédio.
 --------------------
-JUS' YOU WAIT,
+ESPERE,
 IRONFACE!
 --------------------
-I be takin' that
-pin back, yo!
+Eu vou pegar aquele
+pin de volta, você!
 --------------------
-Yo, you
-hear that?
+Ouviu
+isso?
 --------------------
-The scream
-came from
-inside...
+O grito
+veio de
+dentro...
 --------------------
-Then whatchu
-waitin' for?
+Então o que
+tá esperando?
 --------------------
-All right!
-Just be careful
-in there...
+Apenas tenha
+cuidado lá
+dentro...
 --------------------
-Yo!
 Porcupine!
+
 --------------------
-You aight?
+Você tá bem?
 --------------------
-What she do
-to you!?
+O que ela faz
+com você?
 --------------------
 ......
 --------------------
-Man...
-What the hell's
-goin' on?
+Cara,
+o que diabos está
+acontecendo?
 --------------------
-C'mon.
-Let's look
-around.
---------------------
-TEMP
+Vamos
+dar uma
+olhada.
 --------------------
 TEMP
 --------------------
@@ -356,112 +354,114 @@ TEMP
 --------------------
 TEMP
 --------------------
-Time's a
-wastin', man.
+TEMP
 --------------------
-Le's finish
-this mission!
+O tempo é
+um desperdício, cara.
 --------------------
-You said it.
+Le's terminar
+esta missão!
 --------------------
-Yo!
+Você disse isso.
 --------------------
-This is
-perfect,
-man.
+Ei, você!
 --------------------
-Le's have
-that guy do the
-Reaper Creeper
-thing!
+Isso é
+perfeito,
+cara.
 --------------------
-That Reaper
-Creeper guy
-ain't down this
-way, man.
+Le tem que
+aquele cara fazer
+a coisa Reaper
+Creeper!
 --------------------
-Let's head
-back and check
-someplace else.
+Esse cara
+do Reaper
+Creeper não tá por
+aqui, cara.
 --------------------
-Where'd that
-guy go, man?
+Vamos voltar
+e verificar
+em outro lugar.
 --------------------
-We need him
-to play Reaper
+Para onde ele
+foi, cara?
+--------------------
+Precisamos que
+ele jogue Reaper
 Creeper.
 --------------------
 ......
 --------------------
-Well, for now,
-let's check the
-other areas.
+Bem, por enquanto,
+vamos verificar
+as outras áreas.
 --------------------
-Yo, Phones!
+Ei, Fones!
 --------------------
-We gotta
-chase after that
-guy!
+Temos que
+perseguir aquele
+cara!
 --------------------
-Right,
-but...
+Certo,
+mas...
 --------------------
-that
+Esse
 Reaper.
 --------------------
-What the heck
-is she doing?
+O que diabos ela
+está fazendo?
 --------------------
-Yo, Phones!
+Ei, Fones!
 --------------------
-The Reaper
-Creeper guy
-went down...
+O cara Reaper
+Creeper
+caiu...
 --------------------
 uhmmm...
 --------------------
-Mo' People
-Street.
+Rua do
+Muvucão.
 --------------------
-Le's go,
-man!
+Vamos,
+cara!
 --------------------
-"Mo' People
-Street"?
+"Rua do
+Muvucão"?
 --------------------
-Is that Beat-speak
-for Center Street?
+É assim que o Beat
+chama a Center Street?
 --------------------
-Phones!
+Fones!
 --------------------
-The guy was
-over by Tipsy
+O cara estava
+no Tipsy
 Tose Hall.
 --------------------
-Le's get him
-to do the Reaper
-Creeper thing.
+Le vai levá-lo
+a fazer a coisa
+Reaper Creeper.
 --------------------
-Yo, man.
+Ei, mano.
 --------------------
-This could be
-our chance.
+Essa pode ser
+nossa chance.
 --------------------
-Yeah.
+É.
 --------------------
-Let's see what
-he's up to.
+Vamos ver o que ele
+está fazendo.
 --------------------
-So that Noise
-was Rhyme...
+Então esse Ruído
+foi Rhyme...
 --------------------
-Tha's right.
+Isso mesmo.
 --------------------
-So we gotta
-find that Reaper
+Então bora achar
+aquele Reaper
 --------------------
-an' get her
-back, yo.
+e trazer ela
+de volta, mano.
 --------------------
 TEMP
 --------------------
@@ -647,107 +647,107 @@ TEMP
 --------------------
 TEMP
 --------------------
-Time's a
-wastin', man!
+O tempo é
+um desperdício, cara!
 --------------------
-Le's book it
-to Udagawa!
+Vamos correr
+para Udagawa!
 --------------------
-Wha's his
-deal, yo?
+Qual é o acordo
+dele, você?
 --------------------
-That Reaper's
-acting weird.
+Aquele Reaper está
+agindo estranho.
 --------------------
-Be careful.
+Tenha cuidado.
 --------------------
-Aight.
+Tudo bem.
 --------------------
-The whole
-town's acting
-weird...
+A cidade
+toda está
+estranha...
 --------------------
-Let's try
-scanning.
+Vamos tentar
+digitalizar.
 --------------------
 ......
 --------------------
-Mr. H
-can't be the
-Composer...
+Sr. H não
+pode ser o
+Compositor...
 --------------------
-Yo, Neku!
+Ei, Neku!
 --------------------
-It's not like
-I don't feel you,
-but, uh...
+Não é como se
+eu não te sentisse,
+mas...
 --------------------
-We ain't got
-time for boo-
-hoos, yo.
+Não temos
+tempo pra
+boo-hoos, mano.
 --------------------
-Udagawa's
-waitin'!
+Udagawa está
+esperando!
 --------------------
-What's with
-them all?
+O que há com
+todos eles?
 --------------------
-Yo, this is
-creepy.
+Ei, isso é
+assustador.
 --------------------
-Le's jus' sneak
-right past 'em,
-aight?
+Le's jus
+passou por
+eles, certo?
 --------------------
-What the
-hell, man...
+Que diabos,
+cara...
 --------------------
-The Reapers,
+O Reapers,
 Shibuya...
 --------------------
-Everybody's
-acting weird.
+Todo mundo está
+agindo estranho.
 --------------------
-Man...
+Cara...
 --------------------
-I better be
-wrong about
-what's causing
-it...
+É melhor eu estar
+errado sobre
+o que está causando
+isso...
 --------------------
-This wall was
-broken from
-the inside...
+Esta parede
+foi quebrada
+por dentro...
 --------------------
-Yo, a Lv. 4
-wall?
+Ei, uma parede
+Lv. 4?
 --------------------
-I know.
+Eu sei.
 --------------------
-Whatever
-did this must be
-ridiculous.
+O que quer
+que tenha feito isso
+deve ser ridículo.
 --------------------
-That wall was
-broken from
-the inside...
+Aquela parede
+foi quebrada
+por dentro...
 --------------------
-Man...
+Cara...
 --------------------
-Whatever
-did that must be
-ridiculous.
+O que quer
+que tenha feito isso
+deve ser ridículo.
 --------------------
-Mr. H...
+Sr. H...
 --------------------
-I can trust
-you, right?
+Posso confiar
+em você, certo?
 --------------------
 Neku!
 --------------------
-Le's hit
-Coffee Man's
-place, yo.
+Le bateu na
+casa do homem
+do café, mano.
 --------------------
 TEMP
 --------------------
@@ -817,48 +817,48 @@ TEMP
 --------------------
 TEMP
 --------------------
-Le's book it
-to Cat Street,
-man.
+Vamos correr
+para Cat Street,
+cara.
 --------------------
-Right!
+Certo!
 --------------------
-We've come
-this far.
+Chegamos
+até aqui.
 --------------------
-We may as
-well just ask
-Mr. H.
+Podemos pedir ao
+Sr. H. H. que pergunte
+ao Sr. H.
 --------------------
-Let's head
-for WildKat!
+Vamos para
+WildKat!
 --------------------
-Aight!
+Tudo bem, tudo bem.
 --------------------
-Aight, yo!
+Certo, você!
 --------------------
-We got us
-the keypin.
+Nós temos
+o chaveiro.
 --------------------
-This'll open
-the wall to the
-Shibuya River!
+Isso abrirá
+a parede para
+o rio Shibuya!
 --------------------
-Time to
-pound us some
-Composer!
+Hora de nos
+bater um pouco de
+Compositor!
 --------------------
-Mr. H...
+Sr. H...
 --------------------
-Yo, man,
+Ei, mano, mano, você tá bem?
 --------------------
-wha's that
-trash heap?
+O que é esse
+monte de lixo?
 --------------------
-It looks like
-one of...
+Parece
+um dos...
 --------------------
-No way!
+Não acredito!
 --------------------
 TEMP
 --------------------
@@ -954,127 +954,125 @@ TEMP
 --------------------
 TEMP
 --------------------
-Yo, man,
-this is really it.
+Cara, isso
+é mesmo isso.
 --------------------
-Right.
-Today we put
-an end to all
-this.
+Certo,
+hoje vamos
+acabar com tudo
+isso.
 --------------------
-Let's head
-for the Shibuya
-River!
+Vamos
+para o rio
+Shibuya!
 --------------------
-Aight!
+Tudo bem, tudo bem.
 --------------------
-C'mon, man!
+Vamos, cara!
 --------------------
-Le's get
-fired up!
+Le vai ser
+demitido!
 --------------------
 OK.
 --------------------
-First, let's
-take out the
-GM
+Primeiro,
+vamos tirar
+o GM GM.
 --------------------
-and get
-Rhyme back.
+E traga
+Rhyme de volta.
 --------------------
-After that<->
+Depois disso, depois disso.<->
 --------------------
-After that,
-we knock the
-Composer flat,
-yo!
+Depois disso,
+vamos derrubar
+o apartamento do
+Compositor, mano!
 --------------------
-Hang on,
+Espere,
 Rhyme...
 --------------------
-I'm almost
-there...
+Estou quase
+lá...
 --------------------
 ......
 --------------------
 Neku!
 --------------------
-Keep movin'!
+Continuem andando!
 --------------------
-All right!
+Tá bem!
 --------------------
-The
-Composer's
-really strong,
-right?
+O
+Compositor
+é muito forte,
+certo?
 --------------------
-Yeah.
+É.
 --------------------
-But we still
-have to do
-this.
+Mas ainda
+temos que
+fazer isso.
 --------------------
-I know!
+Eu sei, eu sei.
 --------------------
-Good thing
-we have each
-other.
+Ainda bem
+que temos um
+ao outro.
 --------------------
-You said it, yo.
-Together we
-gonna take back
-our lives.
+Juntos, vamos
+recuperar
+nossas
+vidas.
 --------------------
-C'mon!
+Vamos!
 --------------------
-That junk
-heap...
+Aquele monte
+de lixo...
 --------------------
-Let's check
-it out.
+Vamos dar
+uma olhada.
 --------------------
-And Pi-Face
-was so
-strong...
+E Pi-Face
+era tão
+forte...
 --------------------
-We're close,
-I can feel it.
+Estamos perto,
+eu posso sentir.
 --------------------
-You ready?
+Está pronto?
 --------------------
-The Beat-wagon's
-always ready, yo!
+A onda Beat tá
+sempre pronta, você!
 --------------------
-Talking about
-it won't get
-it done.
+Falar sobre
+isso não vai
+dar certo.
 --------------------
-Let's go!
+Vamos!
 --------------------
-Wow...
+Uau...
 --------------------
-What's a ritzy
-pad like this
-doing here?
+O que uma almofada
+ritzy como esta está
+fazendo aqui?
 --------------------
-Yo!
+Ei, você!
 --------------------
-We got
-company!
+Temos
+companhia!
 --------------------
-Where's the
-Composer?
+Onde está o
+Compositor?
 --------------------
-The River
-ends here.
-There's no place
-else to go...
+O rio termina
+aqui, não
+há mais lugar
+para ir...
 --------------------
-Better
-check this
-room over.
---------------------
-TEMP
+É melhor
+verificar
+este quarto.
 --------------------
 TEMP
 --------------------
@@ -1150,10 +1148,12 @@ TEMP
 --------------------
 TEMP
 --------------------
-I should check
-out that <red>Chapter
-Selection Menu<black> on
-my phone...
+TEMP
+--------------------
+Eu deveria verificar
+que <red>Menu de Seleção
+de Capítulos<black> no meu
+telefone...
 --------------------
 TEMP
 --------------------

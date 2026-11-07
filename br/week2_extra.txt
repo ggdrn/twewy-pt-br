@@ -1,31 +1,25 @@
-Huh?
-What's this box?
+Hã? Que
+caixa é essa?
 --------------------
 ......
 --------------------
-Oh, snap!
+Ah, não acredito!
 --------------------
-Game I:
-{015C} = 30 + 74
-{015D} = 60 min.
-Incompletes will be
-destroyed.
---------------------
-
---------------------
-
---------------------
-Game II:
-Acquire the {020E}3 Au pin.
-{015D} = 300 min.
-Incompletes will be
-destroyed.
+Jogo I:
+{015C} 30 + 74
+{015D} 60 min.
+Incompletos serão
+destruídos.
 --------------------
 
 --------------------
 
 --------------------
-
+Adquira o jogo
+II: Adquira o jogo II.
+{020E}3 au pin. {015D} 300
+min. Incompletos serão
+destruídos.
 --------------------
 
 --------------------
@@ -43,39 +37,41 @@ destroyed.
 --------------------
 
 --------------------
-Game VI:
-Beat the bosses of
-   2.2360679's 0 + 5.
-{015D} = 60 min.
-Incompletes will be
-destroyed.
+
 --------------------
 
 --------------------
 
 --------------------
-Game 7:
-Erase the Game Master at
-  Pork City.
-time = 600 minutes.
-Incompletes will be
-erased.
---------------------
-Game 7:
-Erase the Game Master at
-  Pork City.
-time = 600 minutes.
-Incompletes will be
-erased.
---------------------
-P.S. Have cow and mouse
-on hand.
+Jogo VI:
+Vença os patrões de
+   2.2360679 0 + 5. {015D} 60 min.
+Incompletos serão
+destruídos. Incompletos
+serão destruídos.
 --------------------
 
 --------------------
-......
+
 --------------------
-............
+Jogo 7:
+Apagar o Game Master
+  em Pork City.
+tempo 600 minutos.
+Incompletos serão
+apagados.
+--------------------
+Jogo 7:
+Apagar o Game Master
+  em Pork City.
+tempo 600 minutos.
+Incompletos serão
+apagados.
+--------------------
+P.S. Tenha vaca e rato
+na mão.
+--------------------
+
 --------------------
 ......
 --------------------
@@ -101,79 +97,81 @@ on hand.
 --------------------
 ............
 --------------------
-I need to
-outsell that
-sorry excuse for
-a ramen shop...
+......
 --------------------
-I need...
-something new.
+............
 --------------------
-Something
-fresh.
+Preciso vender
+mais do que essa
+desculpa para uma
+loja de ramen...
 --------------------
-Hmm, what
-would the kids
-like?
+Preciso
+de algo novo.
 --------------------
-What's hip?
+Algo
+fresco.
 --------------------
-I need...
+O que
+as crianças
+gostariam?
 --------------------
-something.
+O que é quadril?
 --------------------
-Ugh, it's
-no use...
+Eu preciso...
 --------------------
-Nothing's
-coming to me.
+Algo.
 --------------------
-So close, but...
-nope.
+Ugh, não
+adianta...
 --------------------
-Yes!
+Nada está
+vindo para mim.
 --------------------
-That's it!
+Tão perto,
+mas... não.
 --------------------
-Yes!
+Sim, sim.
 --------------------
-That's it!
+É isso aí!
+--------------------
+Sim, sim.
+--------------------
+É isso aí!
 --------------------
 ......
 --------------------
-Wait, no...
+Espere, não...
 --------------------
-That won't
-work.
+Isso não vai
+funcionar.
 --------------------
-Should I give some
-kinda hint? Like,
-"Brands rule here."
-You got Mus Rattus?
+Devo dar uma dica,
+tipo, "Regra das
+marcas aqui." Você
+tem Mus Rattus?
 --------------------
-Should I give some
-kinda hint? Like,
-"Brands rule here."
-You got D+B?
+Devo dar uma dica,
+tipo, "Regra
+das marcas aqui."
+Você tem D+B?
 --------------------
-Is there
-a problem,
+Tem algum
+problema,
 Neku?
 --------------------
-Forget where
-we're going
-already?
+Esquecer
+para onde
+estamos indo?
 --------------------
-I remember!
-104, geez.
+104, meu
+Deus.
 --------------------
-104, geez.
+104, meu Deus.
 --------------------
-Hee hee.
-Then let's
-go, hmm?
---------------------
-
+Então,
+vamos lá,
+hein?
 --------------------
 
 --------------------
@@ -181,129 +179,129 @@ go, hmm?
 --------------------
 
 --------------------
-You're not
-supposed to be
-able to scan
-other Players.
+
 --------------------
-But yesterday
-I saw...
+Você não
+deveria ser capaz
+de escanear
+outros Jogadores.
+--------------------
+Mas ontem
+eu vi...
 --------------------
 ......
 --------------------
-I should try
-it again.
+Eu deveria tentar
+de novo.
 --------------------
 ......
 --------------------
-He knows
-something.
+Ele sabe de
+alguma coisa.
 --------------------
 ...Hmm?
 --------------------
-Keep staring
-and you'll make
-me blush.
+Continue olhando
+e você vai me
+fazer corar.
 --------------------
-Route 3
-runs between
-Cadoi City and
-Molco.
+A rota 3
+corre entre
+Cadoi City
+e Molco.
 --------------------
-I heard you.
-Let's go.
+Eu ouvi você,
+vamos.
 --------------------
-Yes, sir!
+Sim, senhor!
 --------------------
-Eliminate the
-Noise possessing
-people here...
+Elimine o
+barulho que possui
+pessoas aqui...
 --------------------
-Well, they
-usually target
-folks who are
-negative.
+Bem, eles
+geralmente têm como
+alvo pessoas que
+são negativas.
 --------------------
 ......
 --------------------
-Wh-what!?
+O quê?
 --------------------
-Oh, nothing.
+Oh, nada.
 --------------------
-...I just hate
-negative people,
-don't you?
+Eu odeio pessoas
+negativas,
+não é?
 --------------------
-Yeah, and
-you're just a
-bundle of joy.
+Sim, e você
+é apenas um
+pacote de alegria.
 --------------------
-Look, let's
-just kill us
-some Noise.
+Olhe, vamos apenas
+nos matar um pouco
+de barulho.
 --------------------
-Why the hurry,
-Neku?
-Molco's just a few
-blocks away.
+O Molco está
+a poucos
+quarteirões de
+distância.
 --------------------
-We've got
-hours.
+Temos
+horas.
 --------------------
-You never know
-what'll happen.
+Você nunca sabe
+o que vai acontecer.
 --------------------
-Let's get
-this done.
+Vamos
+fazer isso.
 --------------------
-OK, OK...
+CERTO, CERTO...
 --------------------
-We don't have
-time to screw
-around.
+Não temos
+tempo para
+brincar.
 --------------------
-Let's get to
-Molco and finish
-the job.
+Vamos ao
+Molco e terminar
+o trabalho.
 --------------------
-Yes, sir!
+Sim, senhor!
 --------------------
-This is it.
+É aqui.
 --------------------
-They're holding
-the slam-off inside
-the store.
+Eles estão
+organizando o torneio
+dentro da loja.
 --------------------
-Dude, it's
-a Tin Pin
-slam-off!
+Cara, é
+um torneio
+Tin Pin!
 --------------------
-Those always
-rock.
+Aqueles sempre
+balançam.
 --------------------
-Looks like a
-popular event.
+Parece um
+evento popular.
 --------------------
-...And I've got
-to win it.
+E eu tenho
+que ganhar.
 --------------------
-Let's go.
+Vamos.
 --------------------
-Well, no more
-negative people
-around here...
+Bem, não há mais
+pessoas negativas
+por aqui...
 --------------------
-Nope, not
-a one.
-Just bright,
-cheery<->
+Não, não é
+um, apenas
+brilhante,
+alegre<->
 --------------------
-OK, OK.
-Let's go.
+Certo,
+vamos lá.
 --------------------
-Hee hee.
---------------------
-TEMP
+He, he.
 --------------------
 TEMP
 --------------------
@@ -387,288 +385,288 @@ TEMP
 --------------------
 TEMP
 --------------------
-We've only got
-fifteen minutes!
+TEMP
 --------------------
-We better
-haul ass!
+Só temos
+15 minutos!
 --------------------
-Definitely.
+É melhor irmos
+para o rabo!
 --------------------
-For Cat Street,
-we'd want
-Route 2.
+Definitivamente.
 --------------------
-From here to
-Cadoi City, then
-on past Towa
+Para Cat Street,
+queremos
+a Rota 2.
+--------------------
+Daqui para
+Cadoi City, depois
+para Towa
 Records.
 --------------------
-Rrgh!
-His timing
-sucks!
+O timing
+dele é uma
+droga!
 --------------------
-Hmm, sure does.
-Wonder what
-today's challenge
-will be.
+Me pergunto
+qual será
+o desafio
+de hoje.
 --------------------
-We can't waste
-time here!
+Não podemos perder
+tempo aqui!
 --------------------
-<red>Three<black> of the
-Noise symbols
-he showed us,
-right?
+<red>Três<black> dos símbolos
+de Ruído que
+ele nos mostrou,
+certo?
 --------------------
-Right.
-Let's do it!
+Certo,
+vamos fazer isso!
 --------------------
-All right!
+Tá bem!
 --------------------
-Let's sprint
-from here!
+Vamos correr a
+partir daqui!
 --------------------
-Oh, dear...
+Oh, querida...
 --------------------
-Feeling
-energetic today,
-isn't he?
+Sentindo-se
+energético hoje,
+não é?
 --------------------
-You run, too!
+Você corre, também!
 --------------------
-Coming, sir!
+Já vou, senhor!
 --------------------
-Rrgh, we need
-a specific pin!?
+Rrgh, precisamos
+de um pin específico!
 --------------------
-This could be
-a good time to
-<red>crank down our
-level<black>.
+Este pode ser um bom
+momento para <red>manivela
+para baixo nosso
+nível<black>..
 --------------------
-Taking on Noise
-in a <red>chain battle<black>
-may help, too.
+Tomar o Ruídonuma
+<red>batalha emcadeia<black> Pode
+ajudar, também.
 --------------------
 Augh!
 --------------------
-You must love
-jerking people
-around.
+Você deve
+amar masturbar
+as pessoas.
 --------------------
-There there,
+Ali,
 Neku.
 --------------------
-Just be grateful
-this wasn't a real
-mission.
+Seja grato por não
+ter sido uma missão
+de verdade.
 --------------------
-If it were,
-you'd be erased.
-You took forever
-getting here.
+Se fosse,
+você seria apagado,
+você demorou muito
+para chegar aqui.
 --------------------
-Hey, I...
-Why are you
-doing this!?
+Ei, por
+que está
+fazendo isso?
 --------------------
-I felt like
-coffee.
+Eu me senti como
+um café.
 --------------------
-Cat Street has
-a lovely café.
+Cat Street tem
+um lindo café.
 --------------------
-Care to
-join me?
+Quer se
+juntar a mim?
 --------------------
-...So.
+...Então..
 --------------------
-What are we
-looking for with
-that thing?
+O que estamos
+procurando com
+essa coisa?
 --------------------
-Hee hee...
+He, he...
 --------------------
-What, indeed?
+O que, de fato?
 --------------------
-We'll know it
-when we see
-it, silly.
+Saberemos
+quando virmos,
+bobagem.
 --------------------
-Gee,
-thanks for
-confiding!
+Nossa,
+obrigado
+por confiar!
 --------------------
-So how do
-you use that
-thing?
+Então,
+como você usa
+essa coisa?
 --------------------
-Well, we just
-walk around
-with it.
+Bem, nós apenas
+andamos por
+aí com ele.
 --------------------
-It'll tell us
-when it picks
-something up.
+Nos dirá
+quando
+pegar algo.
 --------------------
-Well?
+Bem, então?
 --------------------
-Hmm...
+Hum...
 --------------------
-The signal's
-pretty weak.
+O sinal está
+muito fraco.
 --------------------
-Looks like
-we're headed
-the wrong way.
+Parece que
+estamos indo para
+o caminho errado.
 --------------------
-Let's go back
-to the scramble
-crossing.
+Vamos voltar
+para a passagem
+de pedestres.
 --------------------
-Well?
+Bem, então?
 --------------------
-Hmm...
+Hum...
 --------------------
-It's coming
-through.
+Está
+passando.
 --------------------
-Let's look
-for a stronger
-signal.
+Vamos procurar
+um sinal mais
+forte.
 --------------------
-Well, Neku?
+Bem, Neku?
 --------------------
-That ramen
-shop seems to be
-the source.
+Aquela loja
+de ramen parece
+ser a fonte.
 --------------------
-Let's start
-there, hmm?
+Vamos começar
+por aí, hmm?
 --------------------
-What's that
-guy's beef with
-the new place?
+O que esse
+cara tem a ver
+com o novo lugar?
 --------------------
-Who can say?
+Quem pode dizer?
 --------------------
-Hmm...
-Let's try getting
-rid of the Noise
-around him.
+Vamos
+tentar nos livrar
+do barulho ao
+redor dele.
 --------------------
-Uhh, Neku?
+Neku?
 --------------------
-The signal's
-coming from
+O sinal está
+vindo de
 Dogenzaka.
 --------------------
-If we could
-go back there,
-that'd be
-lovely.
+Se pudéssemos
+voltar lá,
+seria
+adorável.
 --------------------
-He went back
-into his shop.
+Ele voltou
+para sua loja.
 --------------------
-Perfect.
+Perfeito.
 --------------------
-We can talk
-to him there.
+Podemos falar
+com ele lá.
 --------------------
-They're doing
-something at that
-ramen shop.
+Eles estão
+fazendo algo naquela
+loja de ramen.
 --------------------
-Let's go
-take a look.
+Vamos dar
+uma olhada.
 --------------------
-...What exactly
-is a spicy tuna
-roll?
+O que exatamente
+é um atum
+picante?
 --------------------
-The Dogenzaka
-Ramen Wars...
+As Guerras de
+Dogenzaka Ramen...
 --------------------
-Hee hee.
+He, he.
 --------------------
-This is quite
-a happening.
+Isso é um grande
+acontecimento.
 --------------------
 ......
 --------------------
-Let's
-investigate!
+Vamos
+investigar!
 --------------------
-Sounds like
-a fight...
+Parece uma
+briga...
 --------------------
-That promoter's
-chewing out
-Spicy Tuna Roll.
+Esse promotor está
+mastigando o
+rolo de atum picante.
 --------------------
-...Spicy what?
+...Spicy o quê?
 --------------------
 Oh, uh...
-never mind.
+não importa.
 --------------------
-Let's go see
-what's up.
+Vamos ver o que
+está acontecendo.
 --------------------
-It was
-all staged?
-Ugh!
+Foi
+tudo
+encenado?
 --------------------
-Easy, tiger.
+Calma, tigre.
 --------------------
-The Prince
-seems ready
-to turn over a
-new leaf,
+O príncipe
+parece pronto
+para virar uma
+nova folha,
 --------------------
-so let's get
-rid of the Noise
-bugging him.
+Então vamos nos
+livrar do barulho
+que o incomoda.
 --------------------
-Whoa!
+Nossa!
 --------------------
-Dude ran back
-into his shop
-in a hurry.
+O cara correu de
+volta pra a loja
+com pressa.
 --------------------
-Inspiration
-must have
-struck.
+A inspiração
+deve ter
+atingido.
 --------------------
-Let's see what
-he cooks up.
+Vamos ver o que
+ele cozinha.
 --------------------
-Whew...
+Ufa...
 --------------------
-Done!
+Pronto!
 --------------------
-Done!
-That should
-take care of
-the wall.
+Isso
+deve
+cuidar da
+parede.
 --------------------
-Let's go get
-it cleared.
+Vamos limpar
+isso.
 --------------------
-Nice work,
+Bom trabalho,
 Neku.
 --------------------
-You got
-today's magic
-pin.
+Você tem
+o pin mágico
+de hoje.
 --------------------
-Right...
-Let's just get
-the wall
-cleared.
---------------------
-
+Certo,
+vamos
+limpar
+a parede.
 --------------------
 
 --------------------
@@ -700,415 +698,417 @@ cleared.
 --------------------
 
 --------------------
-Signal's coming
-from Udagawa?
+
 --------------------
-Yup. Right up
-Center Street
-and past Tipsy
+O sinal está vindo
+de Udagawa?
+--------------------
+Bem na Rua
+Center e
+depois Tipsy
 Tose Hall.
 --------------------
 Udagawa...
 --------------------
-What happened
-to me there?
+O que aconteceu
+comigo lá?
 --------------------
-A four-round
-chain battle...
+Uma batalha em cadeia
+de quatro rodadas...
 --------------------
-Nervous, Neku?
+Nervoso, Neku?
 --------------------
-You can
-always <red>tone the
-difficulty down<black>
-if it's too much
-for you.
+Você sempre
+pode. <red>diminuir
+adificuldade<black>
+Se é demais
+para você.
 --------------------
-...Did I ask
-for advice?
+Pedi um
+conselho?
 --------------------
-Are you lost,
+Você está perdido,
 Neku?
 --------------------
-Udagawa is up
-past Tipsy
+Udagawa está
+acima Tipsy
 Tose Hall.
 --------------------
-I know
-where it is.
+Eu sei
+onde está.
 --------------------
-What could've
-happened to
-them?
+O que poderia
+ter acontecido
+com eles?
 --------------------
-I don't even
-want to know.
+Eu nem
+quero saber.
 --------------------
-Let's just
-slip on by.
+Vamos passar
+por aqui.
 --------------------
-Crap!
+Merda!
 --------------------
-Crap, they
-closed off the
-road to
-Udagawa.
+Droga,
+eles fecharam
+a estrada
+para Udagawa.
 --------------------
-Then I suppose
-we're stuck.
+Então acho que
+estamos presos.
 --------------------
-May as well
-hear them out.
+Pode
+ouvi-los.
 --------------------
-Ugh, this is
-so not our
-problem...
+Isso não é
+problema
+nosso...
 --------------------
-Well then!
-Let's begin,
+Vamos
+começar,
 hmm?
 --------------------
-We'll start
-by gathering
-testimony.
+Começaremos
+reunindo
+testemunhos.
 --------------------
-Let's ask 777
-for more info.
+Vamos pedir 777
+para mais informações.
 --------------------
-He's enjoying
-this.
+Ele está gostando
+disso.
 --------------------
-The little weirdo
-is enjoying this.
+O esquisito está
+gostando disso.
 --------------------
-Enjoy the
-moment...
-I guess?
+Aproveite
+o momento...
+eu acho?
 --------------------
-Next up, the
-bandmates.
+Em seguida, os
+companheiros de banda.
 --------------------
-The one in
-black, BJ, went
-to A-East.
---------------------
-The one in red,
-Tenho, is back
-by Molco.
---------------------
-Fine.
-Let's go talk
-to them.
---------------------
-We still have
-questioning
-to do.
---------------------
-The one in
-black, BJ, is at
-the scramble
-crossing.
---------------------
-The one in red,
-Tenho, is back
-by Molco.
---------------------
-Let's go
-for BJ next,
-hmm?
---------------------
-We still have
-questioning
-to do.
---------------------
-The one in
-black, BJ, is
-at A-East.
---------------------
-The one in red,
-Tenho, is on
-Spain Hill.
---------------------
-Let's start
-with Tenho.
---------------------
-We still have
-questioning
-to do.
---------------------
-The one in
-black, BJ, is at
-the scramble
-crossing.
---------------------
-The one in red,
-Tenho, is on
-Spain Hill.
---------------------
-Now that we
-know where they
-are, let's go talk
-to them.
---------------------
-We still have
-questioning
-to do.
---------------------
-We've
-already talked
-to Tenho.
---------------------
-That leaves BJ
-at the scramble
-crossing.
---------------------
-Let's hear what
-he has to say.
---------------------
-We still have
-questioning
-to do.
---------------------
-We've heard
-from BJ for the
-time being.
---------------------
-Let's speak
-with Tenho over
-on Spain Hill.
---------------------
-BJ is hiding
-something...
---------------------
-Maybe talking
-to Tenho will
-illuminate the
-situation.
---------------------
-Something went
-down in that
-phone booth.
---------------------
-Right. Let's
-have a look.
---------------------
-Hee hee...
---------------------
-BJ can clam up
-all he likes.
---------------------
-This photo is
-bound to make
-him crack.
---------------------
-I can't
-hardly wait.
-Uwee hee...
---------------------
-......
---------------------
-Is it weird
-that I feel
-like the bad
-guy here?
---------------------
-Well, we've
-heard from
-everybody.
---------------------
-Yes, it would
-seem our profile
-is complete.
---------------------
-Uhh...what?
---------------------
-Hee hee.
---------------------
-You'll see.
-Let's head back
-to Tipsy Tose
-Hall.
---------------------
-Looks like
-they're all
-here.
---------------------
-Hee hee...
-The stage is
-set.
---------------------
-Excellent.
---------------------
-Let's close
-this case.
---------------------
-Well,
-the road
-is open.
---------------------
-Let's leave them
-to their fishing
-through rubble.
---------------------
-We have a date
-in Udagawa.
---------------------
-...Right.
---------------------
-We can get
-through to
-Udagawa now.
---------------------
-...About time.
---------------------
-About time
-is right.
---------------------
-Now I can
-find out what
-that memory's
-all about.
---------------------
-The signal's
-coming from
-further back.
---------------------
-Shall we?
---------------------
-......
---------------------
-......
---------------------
-I need to
-know.
---------------------
-Gotta scan
-him...
---------------------
-What is he
-thinking?
---------------------
-......
---------------------
-Hmm,
-BJ's still not
-talking.
---------------------
-Looks like
-it'll take a bit
-more to make
-him crack.
---------------------
-He's definitely
-hiding something.
---------------------
-All right.
---------------------
-All right.
-Let's go check
-out the scene.
---------------------
-What scene?
---------------------
-The scene of
-the crime<->
---------------------
-the one spot
-BJ swears he
-hasn't been.
---------------------
-Another
-facile task.
---------------------
-I wonder how
-they come up
-with them.
---------------------
-The conditions?
-Probably just
-on a whim.
---------------------
-Anyway, let's
-find the Noise
-with that pin.
---------------------
-We've taken
-care of BJ.
---------------------
-Poor guy.
---------------------
-That leaves
-Tenho.
---------------------
-I didn't see
-him back at
-Molco.
---------------------
-He can't have
-gone too far.
---------------------
-Let's check
-the adjoining
-areas.
---------------------
-We've been
-to the scene
-and talked
-to BJ.
---------------------
-That leaves...
---------------------
-Tenho's side
-of things.
-He's on Spain
-Hill.
---------------------
-We've got
-our pin.
---------------------
-Let's get
-the wall
-cleared.
---------------------
-Aww...
-see, Neku?
-That wasn't
-so hard.
---------------------
-All you had to
-do is put your
-mind to it.
---------------------
-......
---------------------
-Hee hee.
---------------------
-What, would
-you like a pat
-on the head?
---------------------
-Rrgh...
---------------------
-How 'bout we
-just get the
-wall cleared?
---------------------
-That takes
-care of Tenho's
-testimony.
---------------------
-Let's see
-what BJ has
-to say.
---------------------
-......
---------------------
-He should
-be back at
+O de preto,
+BJ, foi para
 A-East.
 --------------------
-Let's mosey
-on that way.
+O de vermelho, Tenho,
+está de volta
+por Molco.
+--------------------
+Certo,
+vamos falar
+com eles.
+--------------------
+Ainda temos
+perguntas
+para fazer.
+--------------------
+O de preto,
+BJ, está na
+passagem de
+pedestres.
+--------------------
+O de vermelho, Tenho,
+está de volta
+por Molco.
+--------------------
+Vamos para
+o BJ a seguir,
+hein?
+--------------------
+Ainda temos
+perguntas
+para fazer.
+--------------------
+O de preto,
+BJ, está no
+A-East.
+--------------------
+O de vermelho,
+Tenho, está no
+Spain Hill.
+--------------------
+Vamos começar
+com Tenho.
+--------------------
+Ainda temos
+perguntas
+para fazer.
+--------------------
+O de preto,
+BJ, está na
+passagem de
+pedestres.
+--------------------
+O de vermelho,
+Tenho, está no
+Spain Hill.
+--------------------
+Agora que
+sabemos onde eles
+estão, vamos falar
+com eles.
+--------------------
+Ainda temos
+perguntas
+para fazer.
+--------------------
+Nós já
+conversamos
+com Tenho.
+--------------------
+Isso deixa BJ
+na passagem de
+pedestres.
+--------------------
+Vamos ouvir o que
+ele tem a dizer.
+--------------------
+Ainda temos
+perguntas
+para fazer.
+--------------------
+Ouvimos
+de BJ por
+enquanto.
+--------------------
+Vamos falar
+com Tenho sobre
+Spain Hill.
+--------------------
+BJ está
+escondendo algo...
+--------------------
+Talvez falar
+com Tenho
+ilumine a
+situação.
+--------------------
+Algo aconteceu
+naquela cabine
+telefônica.
+--------------------
+Certo, vamos
+dar uma olhada.
+--------------------
+He, he...
+--------------------
+BJ pode fazer tudo
+o que quiser.
+--------------------
+Esta foto é
+destinada a fazê-lo
+quebrar.
+--------------------
+Eu mal
+posso
+esperar.
+--------------------
+......
+--------------------
+É estranho
+eu me sentir
+como o cara
+mau aqui?
+--------------------
+Bem,
+ouvimos
+de todos.
+--------------------
+Sim, parece
+que nosso perfil
+está completo.
+--------------------
+Uhh... o que?
+--------------------
+He, he.
+--------------------
+Vamos
+voltar para
+Tipsy Tose
+Hall.
+--------------------
+Parece que
+estão todos
+aqui.
+--------------------
+O palco
+está
+pronto.
+--------------------
+Excelente.
+--------------------
+Vamos fechar
+este caso.
+--------------------
+Bem,
+a estrada
+está aberta.
+--------------------
+Vamos deixá-los
+pescar através
+de escombros.
+--------------------
+Temos um encontro
+em Udagawa.
+--------------------
+...É.
+--------------------
+Podemos
+chegar a
+Udagawa agora.
+--------------------
+...quase na hora.
+--------------------
+Já era
+hora.
+--------------------
+Agora eu
+posso descobrir
+o que é essa
+memória.
+--------------------
+O sinal está
+vindo de mais
+para trás.
+--------------------
+Vamos?
+--------------------
+......
+--------------------
+......
+--------------------
+Eu preciso
+saber.
+--------------------
+Tenho que
+escaneá-lo...
+--------------------
+O que ele está
+pensando?
+--------------------
+......
+--------------------
+BJ ainda
+não está
+falando.
+--------------------
+Parece que
+vai demorar um pouco
+mais para fazê-lo
+quebrar.
+--------------------
+Ele definitivamente
+está escondendo algo.
+--------------------
+Tá bom.
+--------------------
+Certo,
+vamos ver
+a cena.
+--------------------
+Que cena?
+--------------------
+A cena do crime é
+a cena do crime.<->
+--------------------
+O único lugar
+que BJ jura
+que não foi.
+--------------------
+Outra
+tarefa fácil.
+--------------------
+Eu me pergunto
+como eles vêm
+com eles.
+--------------------
+As condições,
+provavelmente só
+por capricho.
+--------------------
+De qualquer forma,
+vamos achar o Ruído
+com aquele pin.
+--------------------
+Nós cuidamos
+do BJ.
+--------------------
+Pobre cara.
+--------------------
+Isso deixa
+Tenho.
+--------------------
+Eu não o vi
+de volta
+no Molco.
+--------------------
+Ele não pode ter
+ido longe demais.
+--------------------
+Vamos verificar
+as áreas
+adjacentes.
+--------------------
+Fomos ao
+local e
+conversamos
+com BJ.
+--------------------
+Isso deixa...
+--------------------
+O lado
+do Tenho,
+ele está no
+Spain Hill.
+--------------------
+Temos
+nosso pin.
+--------------------
+Vamos
+limpar
+a parede.
+--------------------
+Não foi
+tão difícil,
+não foi tão
+difícil.
+--------------------
+Tudo que você tinha
+que fazer era colocar
+sua mente nisso.
+--------------------
+......
+--------------------
+He, he.
+--------------------
+O que, você
+gostaria de um
+tapinha na cabeça?
+--------------------
+Argh...
+--------------------
+Que tal
+limparmos
+a parede?
+--------------------
+Isso cuida
+do testemunho
+de Tenho.
+--------------------
+Vamos ver
+o que BJ tem
+a dizer.
+--------------------
+......
+--------------------
+Ele deve
+estar de volta
+no A-East.
+--------------------
+Vamos seguir
+por esse caminho.
 --------------------
 
 --------------------
@@ -1124,341 +1124,339 @@ on that way.
 --------------------
 ......
 --------------------
-Well, Neku?
+Bem, Neku?
 --------------------
-Let's go see
-Mr. H.
+Vamos ver
+oSr. H.
 --------------------
-I hope you
-haven't forgotten
-the way.
+Espero que
+não tenha esquecido
+o caminho.
 --------------------
-Let me
-help you.
+Deixe-me
+ajudá-lo.
 --------------------
-His café is
-on Cat Street.
-That's<->
+O café dele
+está na Cat
+Street.<->
 --------------------
-Past Cadoi
-City and Towa
+Passado Cadoi
+City e Towa
 Records.
 --------------------
-Very good,
-Neku! Oh, I'm
-so proud.
+Muito
+bem,
+Neku!
 --------------------
 ......
 --------------------
-So get
-moving.
+Então
+se mova.
 --------------------
-Dammit!
+Droga!
 --------------------
-Dammit, what
-did they want?
+Droga, o que
+eles queriam?
 --------------------
-My guess is
-they've set up
-walls along
-Route 2...
+Meu palpite é
+que eles montaram
+paredes ao longo
+da Rota 2...
 --------------------
-all the way to
-Cat Street.
+Até a Cat
+Street.
 --------------------
-There's no
-mission!
+Não há
+missão!
 --------------------
-Why screw
-us over?
+Por que nos
+ferrar?
 --------------------
-Oh, well.
+Oh, bem.
 --------------------
-We'll just have
-to play along.
+Vamos ter que
+jogar junto.
 --------------------
-Make it
-number one?
+Tornar
+o número um?
 --------------------
-You seem a
-little lost.
+Você parece
+um pouco perdido.
 --------------------
-I am not.
+Eu não sou.
 --------------------
-We just gotta
-<red>wear D+B pins
-and items into
-combat<black>.
+Nós só temos
+que <red>usar pins
+D+B e itens em
+combate<black>..
 --------------------
-Wow, I'm...
-I'm a little
-surprised.
+Estou
+um pouco
+surpreso.
 --------------------
-I didn't think
-fashion was
-your area.
+Não achei que
+a moda fosse
+sua área.
 --------------------
-Shiki taught
-me.
+Shiki me
+ensinou.
 --------------------
-I see...
-Well, let's take
-care of this.
+Bem,
+vamos cuidar
+disso.
 --------------------
-He wants
-ramen?
+Ele quer
+Ramen?
 --------------------
-Hmm...
-There was the
-guy's shop on
+Havia
+a loja
+do cara em
 Dogenzaka.
 --------------------
-What's the bit
-about the sea,
-though?
+Mas qual
+é a parte
+do mar?
 --------------------
-Hee hee.
+He, he.
 --------------------
-Have you ever
-been to the
-beach, Neku?
+Você já foi
+à praia,
+Neku?
 --------------------
-...Yes.
+...Sim.
 --------------------
-If you got a
-mouthful of
-ocean, it would
-taste...
+Se você tem
+uma boca cheia
+de oceano, ele iria
+provar...
 --------------------
-Uhh...
-salty?
+Salgado?
+
 --------------------
-Very good!
-So, which flavor
-of ramen is
-salty?
+Então,
+qual sabor
+de ramen é
+salgado?
 --------------------
 Ahh...
-Got it.
+entendi.
 --------------------
-Ugh, and we
-were just there!
+Ugh, e nós
+estávamos lá!
 --------------------
-Remember...
-C'mon, remember!
+Lembrem-se...
+vamos, lembrem-se!
 --------------------
-Hmm...
+Hum...
 --------------------
-Well, no sense
-beating your head
-against a wall.
+Bem, não faz
+sentido bater a cabeça
+contra uma parede.
 --------------------
-Let's just go
-back for another
-bowl of that...
-unique ramen.
+Vamos voltar
+para outra tigela
+daquele...
+Ramen único.
 --------------------
-Mus Rattus, huh?
+Mus Rattus, hein?
 --------------------
-That's the
-bargain brand
-that's branched
-out all over
-Shibuya.
+Essa é
+a marca de
+barganha que está
+ramificada
+em Shibuya.
 --------------------
-Sounds like
-you'll have to
-<red>deck yourself
-out in it<black>, Neku.
+Parece que
+você terá
+que <red>deck-se
+nele<black>, Neku.
 --------------------
-Me?
-Wear that?
+- Eu
+uso isso?
 --------------------
-Ugh, I hate
-these walls...
+Odeio essas
+paredes...
 --------------------
-He wants to
-play Tin Pin?
+Ele quer
+jogar Tin Pin?
 --------------------
-That's his
-big demand?
+Essa é a grande
+demanda dele?
 --------------------
-Aww, indulge
-the poor man.
+Aww, condescende
+com o pobre homem.
 --------------------
-Let's see
-those moves from
-the slam-off.
+Vamos ver
+esses movimentos
+do torneio.
 --------------------
 ......
 --------------------
-Take a deep
-breath?
+Respire
+fundo?
 --------------------
-What's THAT
-supposed to
-mean?
+O que
+isso quer
+dizer?
 --------------------
-Hee hee...
+He, he...
 --------------------
-It means some
-pins react to
-curious things.
+Significa que
+alguns pins reagem
+a coisas curiosas.
 --------------------
-What the
-hell was all
-that about?
+O que
+diabos foi
+tudo isso?
 --------------------
-Who knows.
+Quem sabe.
 --------------------
-Anyway, the
-road's open.
+De qualquer forma,
+a estrada está aberta.
 --------------------
-Let's go see
-Mr. H.
+Vamos ver
+oSr. H.
 --------------------
-Hmm...
-He won't break
-easily...
+Ele não
+vai quebrar
+facilmente...
 --------------------
-What's the
-holdup, Neku?
+Qual é o
+problema, Neku?
 --------------------
-We've got
-a signal to
-follow.
+Temos
+um sinal
+a seguir.
 --------------------
-It's coming
-from the scramble
-crossing.
+Está vindo
+da passagem de
+pedestres.
 --------------------
 Beat...
 --------------------
-Such a
-bother.
+Que
+chatice.
 --------------------
-Ah, well.
-Let's keep
-moving.
+Vamos
+continuar
+andando.
 --------------------
-So Mr. H is CAT.
-What a relief...
+Então o Sr. H é
+o CAT, que alívio...
 --------------------
 ......
 --------------------
-What about
-this kid, though?
-Is he really
-planning a coup?
+Ele está
+planejando
+um golpe
+de Estado?
 --------------------
-Count me out.
+Conte comigo.
 --------------------
-It's too risky.
+É muito arriscado.
 --------------------
-I can't put
-Shiki on the
-line.
+Não posso
+colocar Shiki
+na linha.
 --------------------
 Umm, Neku?
 --------------------
-I thought
-we were going
-to the station
-underpass.
+Pensei que
+íamos para
+a estação
+por baixo.
 --------------------
-We will.
+Vamos.
 --------------------
-You don't have
-to worry.
+Não precisa se
+preocupar.
 --------------------
-All we're doing
-is locating the
-Shibuya River.
+Tudo o que estamos
+fazendo é localizar
+o rio Shibuya.
 --------------------
-Good, the
-signal is coming
-in stronger.
+Bom, o sinal
+está vindo
+mais forte.
 --------------------
-We're heading
-in the right
-direction.
+Estamos indo
+na direção
+certa.
 --------------------
 ......
 --------------------
-And here
-we are.
+E aqui
+estamos nós.
 --------------------
-So the river
-is up ahead?
+Então o rio
+está à frente?
 --------------------
-This is where the
-Composer is?
+É aqui que o
+Compositor está?
 --------------------
-Hee hee.
+He, he.
 --------------------
-We shall
-see.
+Vamos
+ver.
 --------------------
-A way through
-that wall?
+Um caminho através
+dessa parede?
 --------------------
-How the
-heck does he
-plan on finding
-THAT out?
+Como diabos
+ele planeja
+descobrir
+isso?
 --------------------
 OK.
 --------------------
-D+B's on top
-of the charts.
+D+B está no
+topo das paradas.
 --------------------
 ......
 --------------------
-Uhh...
+Hum...
 --------------------
-What's with all
-the bleach-blond
-scenesters?
+O que há com todos
+os scenesters de loiro
+de alvejante?
 --------------------
-Hee hee.
+He, he.
 --------------------
-Behold,
-the power
-of trends.
+Veja, o
+poder das
+tendências.
 --------------------
-Now, let's
-get that wall
-cleared,
+Agora,vamoslimparessaparede.
+
+
 --------------------
-before the
-rankings change
-again.
+antes que
+o ranking mude
+de novo.
 --------------------
-All right,
-I'm a walking
-ball of Rat.
+Tudo bem, eu
+sou uma bola
+de rato.
 --------------------
-Can we
-get that wall
-cleared now?
+Podemos
+limpar a
+parede agora?
 --------------------
 Pfft...
 --------------------
 Snrrk!
 --------------------
-Can I
-help you?
+Posso
+ajudá-lo?
 --------------------
-Oh, no.
-I'm just fine.
+Não, estou
+bem, estou bem.
 --------------------
-Ready to
-go...
+Pronto
+para ir...
 --------------------
-Ratty
-McRatterson?
---------------------
-TEMP
+Ratolino
+dos Ratões?
 --------------------
 TEMP
 --------------------
@@ -1474,108 +1472,108 @@ TEMP
 --------------------
 TEMP
 --------------------
-The bosses
-of 2.2360679's
-0 + 5...
+TEMP
 --------------------
-Even I'm at
-a bit of a loss
-today...
+Os patrões
+do 0+5 de
+2.2360679...
 --------------------
-Let's begin
-with a check of
-which areas
-are open.
+Até eu estou
+um pouco perdido
+hoje...
 --------------------
-Since when do
-Noise instigate
-fights?
+Vamos começar
+com uma verificação
+de quais áreas
+estão abertas.
 --------------------
-Yeah, weird.
+Desde quando
+o Noise instiga
+lutas?
 --------------------
-Looks like
-today may be
-eventful.
+É, estranho.
 --------------------
-Let's watch
-our backs.
+Parece que
+hoje pode ser
+agitado.
 --------------------
-We don't
-have any time
-to waste.
+Vamos cuidar das
+nossas costas.
 --------------------
-Let's hurry.
+Não temos
+tempo a
+perder.
 --------------------
-A wise
-choice.
+Vamos nos apressar.
 --------------------
-Man...
+Uma escolha
+sábia.
 --------------------
-What ARE
-those things?
+Cara...
 --------------------
-It looks like
-the Reapers are
-having a time
-of it, too.
+O que são
+essas coisas?
 --------------------
-Whatever they
-are, they're not
-stopping me.
+Parece que
+o Reapers também
+está tendo
+um tempo.
 --------------------
-We've gotta
-bust through
-'em!
+O que quer que
+sejam, não vão
+me impedir.
+--------------------
+Temos que
+passar por
+eles!
 --------------------
 ......
 --------------------
-You shouldn't
-feel bad, Neku.
+Você não deve se
+sentir mal, Neku.
 --------------------
-You didn't
-know him.
-Plus, he was
-a Reaper.
+Além
+disso,
+ele era
+um Reaper.
 --------------------
-But...!
+Mas...!
 --------------------
 ......
 --------------------
-Now let's
-get going.
+Agora vamos
+andando.
 --------------------
-Let's go.
+Vamos.
 --------------------
-It's up to us
-to clear today's
-mission.
+Cabe a nós
+limpar a missão
+de hoje.
 --------------------
-Hee hee...
+He, he...
 --------------------
-Hee hee.
-Certainly looks
-that way.
+Certamente
+parece que
+assim.
 --------------------
-For Sota
-and Nao...
+Para Sota
+e Nao...
 --------------------
-For all
-the other
-Players...
+Para todos
+os outros
+Jogadores...
 --------------------
-We have to
-win this!
+Temos que
+vencer isso!
 --------------------
-All that remains
-is the boss of
+Tudo o que resta
+é o chefe de
 Udagawa.
 --------------------
-Let's move.
+Bora.
 --------------------
-We're ending
-this now.
---------------------
-TEMP
+Vamos acabar com
+isso agora.
 --------------------
 TEMP
 --------------------
@@ -1659,126 +1657,128 @@ TEMP
 --------------------
 TEMP
 --------------------
-Today we put
-the Grim Heaper
-to sleep.
+TEMP
 --------------------
-He's in Pork
-City, just past
+Hoje colocamos
+o Grim Heaper
+para dormir.
+--------------------
+Ele está no Pork
+City, passando por
 Dogenzaka.
 --------------------
-Hee hee...
+He, he...
 --------------------
-How very like
-him to hole up
-there.
+Como ele
+gosta de se
+esconder lá.
 --------------------
-Cow and
-mouse?
+Vaca
+e rato?
 --------------------
-What's that
-about?
+O que é
+isso?
 --------------------
-Hee hee...
+He, he...
 --------------------
-Hee hee.
-Neku, out of
-curiosity...
+Neku,
+por
+curiosidade...
 --------------------
-do you
-know what <red>D+B<black>
-stands for?
+Você sabe
+o que quer dizer?
+<red>D+B<black> - Significa?
 --------------------
-<red>Dangerous
-Buffalo<black>.
+<red>Búfalo
+perigoso<black>......
 --------------------
-Pfft...
-Seriously?
+Pfft,
+sério?
 --------------------
-Another fun
+Outrodivertido
 trivia tidbit<->
 --------------------
-<red>Mus Rattus<black> is
-Latin for rat.
+<red>Mus Rattus<black> é
+latim para rato.
 --------------------
-So, <red>D+B<black> and
-<red>Mus Rattus<black>...
+Então, então...
+<red>D+B<black> e <red>Mus Rattus<black>...
 --------------------
-I need to be
-brand-conscious?
+Eu preciso ser
+consciente da marca?
 --------------------
-Hee hee...
+He, he...
 --------------------
-Have you
-checked this
-place's brand
-chart?
+Você verificou
+o gráfico
+da marca deste
+lugar?
 --------------------
-Hmm...
+Hum...
 --------------------
-Don't ask me
-why, but...
+Não me pergunte
+por que, mas...
 --------------------
-Apparently,
-something about
-this building
+Aparentemente,
+algo sobre
+este prédio.
 --------------------
-restricts the
-psychs we
-can use.
+restringe o
+psychs que
+podemos usar.
 --------------------
-We'll be fine
-as long as we
-use the <red>right
-brand's pins<black>.
+Ficaremos bem
+contanto que usemos
+o sistema. <red>pins
+damarcadireita<black>.
 --------------------
-Looks like a
-clear shot up
-to the roof.
+Parece
+um tiro no
+telhado.
 --------------------
-If I can just
-beat him...
+Se eu puder
+vencê-lo...
 --------------------
-I'll learn
-the truth about
-my death.
+Vou aprender
+a verdade sobre
+minha morte.
 --------------------
-Oh, by the
-way...
+Oh, a
+propósito...
 --------------------
-The brand
-restrictions aren't
-likely to reach
-that far.
+As restrições
+da marca provavelmente
+não chegarão tão
+longe.
 --------------------
-I recommend
-you wear the
-pins you like
-best, Neku.
+Eu recomendo que
+você use os pins
+que você mais
+gosta, Neku.
 --------------------
-It seems he's
-at the top of
-Pork City.
+Parece que ele
+está no topo
+do Pork City.
 --------------------
-If I can just
-beat him...
+Se eu puder
+vencê-lo...
 --------------------
-I'll learn
-the truth about
-my death.
+Vou aprender
+a verdade sobre
+minha morte.
 --------------------
-Oh, by the
-way...
+Oh, a
+propósito...
 --------------------
-The brand
-restrictions aren't
-likely to reach
-that far.
+As restrições
+da marca provavelmente
+não chegarão tão
+longe.
 --------------------
-I recommend
-you wear the
-pins you like
-best, Neku.
+Eu recomendo que
+você use os pins
+que você mais
+gosta, Neku.
 --------------------
 TEMP
 --------------------

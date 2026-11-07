@@ -1,85 +1,85 @@
-Back
+Voltar
 --------------------
-Communication Error!
-You won't be able to join this match.
-Touch "Back" to go back and try again.
+Erro de comunicação! Você não
+poderá participar desta partida. Toque em
+"Voltar" para voltar e tentar novamente.
 --------------------
-Communication Error!
-You won't be able to join this match.
-Touch "Back" to go back and try again.
+Erro de comunicação! Você não
+poderá participar desta partida. Toque em
+"Voltar" para voltar e tentar novamente.
 --------------------
-Communication Error!
+Erro de comunicação!
 
-The connection has been lost.
-Press the A Button to
-return to the main game.
+A conexão foi perdida.
+Pressione o botão A para
+voltar ao jogo principal.
 --------------------
-Unable to use DS Wireless Communications.
+Não foi possível usar o DS Wireless Communications.
 --------------------
-Host a match and go pin-to-pin
-with up to three other players,
-or join somebody else's match!
+Faça uma partida e vá pin-to-pin
+com até três outros Jogadores, ou
+junte-se à partida de outra pessoa!
 --------------------
-Host a Match
+Criar partida
 --------------------
-Join a Match
+Entrar numa partida
 --------------------
-Practice
+Treinar
 --------------------
-Which match do you
-want to join?
+Qual jogo você quer
+se juntar?
 --------------------
-Waiting for the
-other players...
+Esperando pelos
+outros Jogadores...
 --------------------
-Once you have all
-your players, touch the
-"Start" panel to begin.
+Depois de ter todos os seus
+Jogadores, toque no painel
+"Iniciar" para começar.
 --------------------
-Start
+Iniciar
 --------------------
-Setting up the match.
-Please wait...
+Por favor, espere...
+espere...
 --------------------
-Select a stage.
+Selecione uma etapa.
 --------------------
-The host is selecting a stage.
-Please wait...
+O apresentador está selecionando
+um palco, por favor, espere...
 --------------------
-TABLES
+QUADROS
 --------------------
-ISLANDS
+ILHAS
 --------------------
-SPACE
+ESPA O
 --------------------
-The Ring
+O Anel Anel
 --------------------
-The Peanut
+O Peanutut
 --------------------
-Hide 'n' Slam
+Ocultar 'n' Slam Slam
 --------------------
-Last Resort
+Último Resort
 --------------------
-Teleporter
+Teleportador
 --------------------
-Pin Gym
+Ginásio Pin
 --------------------
-Slider
+Controle deslizante
 --------------------
-The Aerie
+O Aerie Aerie
 --------------------
-Ice Scream
+Grito de Gelo
 --------------------
-Play again
+Jogue de novo.
 --------------------
-Slam over!
+Fim da partida!
 --------------------
-The host is making a selection.
-Please wait...
+O anfitrião está fazendo uma seleção,
+por favor, espere...
 --------------------
-Exit
+Sair
 --------------------
-Disconnecting...
+Desconectando...
 --------------------
 Neku
 --------------------
@@ -93,7 +93,7 @@ Challenger B
 --------------------
 Higashizawa
 --------------------
-Tutorial Guy
+Cara do Tutorial
 --------------------
 Rhyme
 --------------------
@@ -101,7 +101,7 @@ Uzuki
 --------------------
 Kariya
 --------------------
-Mrs. K
+Sra. K. K.
 --------------------
 Kitaniji
 --------------------
@@ -109,13 +109,13 @@ Mina
 --------------------
 Ai
 --------------------
-Nao-Nao
+Nao-Nao-Nao-Nao-Nao-Nao-Nao-Nao
 --------------------
-The Prince
+OPríncipe
 --------------------
-Pin Prof
+Professor dos Pins
 --------------------
-"Shrimp"
+"Smimp"
 --------------------
 Futoshi
 --------------------
@@ -127,1094 +127,1094 @@ Yammer
 --------------------
 777
 --------------------
-Shooter
+Atirador
 --------------------
-Wizard of Slam
+O Mágico de Slam.
 --------------------
-Vice Wizard of Slam
+Vice-feiticeiro de Slam.
 --------------------
 Joshua
 --------------------
-The Don
+O Don Don.
 --------------------
 Az
 --------------------
-Nori
+Nori.
 --------------------
 Yo'
 --------------------
-BLGL
+BBLGL
 --------------------
-Neff
+Neffff
 --------------------
-J-mo
+J-momo-mo-o.
 --------------------
 Tenho
 --------------------
-BJ
+BJJJ
 --------------------
-<red>Slash vertically up on empty space<black> to form an icicle.
-Inflicts damage on contact.
+<red>Slash verticalmente no espaço vazio<black> para formar um
+gelo. Inflige danos no contato.
 --------------------
-<red>Slash vertically up on empty space<black> to form three
-icicles. Inflicts damage on contact.
+<red>Slash verticalmente no espaço vazio<black> para formar
+três gelos. Inflige danos no contato.
 --------------------
-<red>Rapidly tap empty space<black> to form an icicle.
-Inflicts damage on contact.
+<red>Rapidamente, toque em espaço vazio<black>
+para formar um icículo.
 --------------------
-<red>Rapidly tap empty space<black> to form three icicles.
-Inflicts damage on contact.
+<red>Rapidamente, toque em espaço vazio<black> para
+formar três icículos.
 --------------------
-<red>Scratch empty space<black> to cause a tremor.
-Inflicts damage and sometimes <red>Immobilizes<black> enemies.
+<red>Arranhar espaço vazio<black> para causar um
+tremor. Inflige danos e às vezes <red>Imobiliza inimigos<black>.
 --------------------
-<red>Drag obstacles<black> like cars and signs around.
-Inflicts damage on contact.
+<red>Arraste obstáculos<black> como carros
+e placas ao redor.
 --------------------
-<red>Drag obstacles<black> like cars and signs around.
-Inflicts damage on contact.
+<red>Arraste obstáculos<black> como carros
+e placas ao redor.
 --------------------
-<red>Drag enemies or obstacles<black> like cars and signs around.
-Inflicts damage on contact. (Some enemies cannot be
-dragged.)
+<red>Arraste inimigos ou obstáculos<black> como carros e placas ao
+redor. Inflige danos no contato. (Alguns inimigos não
+podem ser arrastados.)
 --------------------
-Greatly extends the duration of <red>Immobility's<black> negative
-effects on enemies.
+Estende-se muito a duração da duração do tempo. <red>Imobiliária
+é a mobilidade.<black> efeitos negativos sobre os inimigos.
 --------------------
-<red>Automatically restores HP<black> when they are half depleted.
+<red>automaticamente restaura HP<black> quando eles estão meio esgotados.
 --------------------
-Increases the <red>Attack<black> of any <green>D+B<black> pins Neku is wearing.
+Aumenta o <red>Ataque<black> de qualquer <green>D+B<black> pins Neku está usando.
 --------------------
-<red>Slash across Neku<black> to fire a <red>penetrating bullet<black> in that
-direction. Inflicts damage on contact.
+<red>Cortar em Neku<black> para disparar um fogo a um fogo
+<red>balapenetrante<black> nessa direção, causa danos no contato.
 --------------------
-<red>Slash across Neku<black> to fire a <red>three-way bullet<black> in that
-direction. Inflicts damage on contact.
+<red>Slash através de Neku<black> para disparar uma bala <red>de três
+vias<black> nessa direção. Inflige danos no contato.
 --------------------
-<red>Slash across Neku<black> to fire a <red>burst of three-way bullets<black>
-in that direction. Inflicts damage on contact.
+<red>Cortar em Neku<black> para disparar um fogo a um fogo <red>Explosão de
+balas de três vias.<black> nessa direção, causa danos no contato.
 --------------------
-<red>Slash across Neku<black> to fire a <red>fragmenting bullet<black> in that
-direction. Inflicts damage on contact.
+<red>Cortar em Neku<black> para disparar um fogo a um fogo <red>bala
+fragmentária<black> nessa direção, causa danos no contato.
 --------------------
-<red>Slash across Neku<black> to fire a <red>three-way penetrating
-bullet<black> in that direction. Inflicts damage on contact.
+<red>Atirar em Neku<black> para disparar uma bala penetrante
+<red>de três vias<black> nessa direção. Inflige danos no contato.
 --------------------
-<red>Slash across Neku<black> to fire a <red>burst of three-way
-penetrating bullets<black> in that direction. Inflicts damage
-on contact.
+<red>Cortar em Neku<black> para disparar um fogo a um fogo <red>Explosão
+de balas penetrantes de três vias.<black> nessa direção, causa
+danos no contato.
 --------------------
-<red>Slash across Neku<black> to <red>spray penetrating bullets<black> in that
-direction. Inflicts damage on contact.
+<red>Atirar através de Neku<black> a <red>pulverizar balas penetrantes<black>
+nessa direção. Inflige danos no contato.
 --------------------
-<red>Slash across Neku<black> to fire a slow-moving <red>bullet<black> in that
-direction. <red>Slash the bullet<black> mid-flight to <red>alter its
-course<black>.
+<red>Cortar em Neku<black> paradisparar ummovimentolento <red>bala bala de
+bala.<black> nessa direção. <red>Atire a bala na bala.<black> no meio do voo
+para o meio do vôo. <red>alterar o seucurso<black>.
 --------------------
-<red>Slash across Neku<black> to fire a <red>bullet<black> in that direction.
-Inflicts damage and sometimes <red>HP Drain<black> on contact.
+<red>Cortar em Neku<black> para disparar um fogo a um fogo <red>bala bala de bala.<black> Inflige
+danos e às vezes, às vezes, danos. <red>Drenagem de HP Drain<black> em contato.
 --------------------
-<red>Slash across Neku<black> to fire a <red>cluster shot<black> in that
-direction. Inflicts damage on contact.
+<red>Cortar em Neku<black> para disparar um fogo a um fogo <red>tiro
+de cluster<black> nessa direção, causa danos no contato.
 --------------------
-<red>Touch empty space<black> to fire a <red>bullet<black> in that direction.
-Inflicts damage on contact. Limited range.
+<red>Toque num espaço vazio<black> para disparar um fogo a um fogo <red>bala bala de bala.<black>
+nessa direção, causa danos no contato, alcance limitado, alcance limitado...
 --------------------
-<red>Touch empty space<black> to fire a <red>bullet<black> in that direction.
-Inflicts damage on contact.
+<red>Toque num espaço vazio<black> para disparar um fogo a um fogo <red>bala
+bala de bala.<black> nessa direção, causa danos no contato.
 --------------------
-<red>Touch empty space<black> to fire a <red>bullet<black> in that direction.
-Inflicts damage on contact.
+<red>Toque num espaço vazio<black> para disparar um fogo a um fogo <red>bala
+bala de bala.<black> nessa direção, causa danos no contato.
 --------------------
-<red>Touch empty space<black> to fire a <red>penetrating bullet<black> in that
-direction. Inflicts damage on contact.
+<red>Toque num espaço vazio<black> para disparar um fogo a um fogo
+<red>balapenetrante<black> nessa direção, causa danos no contato.
 --------------------
-<red>Touch empty space<black> to fire a <red>penetrating bullet<black> in that
-direction. Inflicts damage on contact.
+<red>Toque num espaço vazio<black> para disparar um fogo a um fogo
+<red>balapenetrante<black> nessa direção, causa danos no contato.
 --------------------
-<red>Touch empty space<black> to fire a <red>fragmenting bullet<black> in that
-direction. Inflicts damage on contact.
+<red>Toque num espaço vazio<black> para disparar um fogo a um fogo <red>bala
+fragmentária<black> nessa direção, causa danos no contato.
 --------------------
-<red>Touch empty space<black> to <red>spray penetrating bullets<black> in
-that direction. Inflicts damage on contact.
+<red>Toque em espaço vazio<black> para <red>pulverizar balas penetrantes<black>
+nessa direção. Inflige danos no contato.
 --------------------
-<red>Touch empty space<black> to fire a <red>penetrating boomerang<black> in
-that direction. Inflicts damage on contact.
+<red>Toque num espaço vazio<black> para disparar um fogo a um fogo <red>penetrante
+boomerangangang.<black> nessa direção, causa danos no contato.
 --------------------
-<red>Touch empty space<black> to fire a <red>penetrating boomerang<black> in
-that direction. Inflicts damage on contact.
+<red>Toque num espaço vazio<black> para disparar um fogo a um fogo <red>penetrante
+boomerangangang.<black> nessa direção, causa danos no contato.
 --------------------
-<red>Slash empty space<black> to stretch a chain along that line
-and impede enemy progress. Inflicts damage and
-sometimes <red>Defense Break<black> on contact.
+<red>Espalhe o espaço vazio<black> para esticar uma corrente ao
+longo dessa linha e impedir o progresso do inimigo.
+Inflige danos e às vezes <red>Defence Break<black> em contato.
 --------------------
-<red>Slash empty space<black> to stretch a chain along that line
-and impede enemy progress. Inflicts damage and
-sometimes <red>Defense Break<black> on contact.
+<red>Espalhe o espaço vazio<black> para esticar uma corrente ao
+longo dessa linha e impedir o progresso do inimigo.
+Inflige danos e às vezes <red>Defence Break<black> em contato.
 --------------------
-<red>Slash empty space<black> to stretch a chain along that line
-and impede enemy progress. Inflicts damage and
-sometimes <red>Defense Break<black> on contact.
+<red>Espalhe o espaço vazio<black> para esticar uma corrente ao
+longo dessa linha e impedir o progresso do inimigo.
+Inflige danos e às vezes <red>Defence Break<black> em contato.
 --------------------
-Increases the <red>Attack<black> of any <green>Natural Puppy<black> pins Neku is
-wearing.
+Aumenta o <red>Ataque<black> de qualquer <green>Natural Puppy<black> pins Neku
+está usando.
 --------------------
-<red>Blow into the microphone<black> to start a whirlwind.
-Inflicts damage on all enemies and always <red>Immobilizes<black>
-them. (Some enemies may be immune.)
+<red>Sopre no microfone<black> para iniciar um turbilhão. Inflige
+dano em todos os inimigos e sempre <red>Imobiliza<black> eles.
+(Alguns inimigos podem estar imunes.)
 --------------------
-<red>Drag Neku<black> into a dash and he will vanish, rendering
-himself <red>impervious<black> to enemy attack.
+<red>Arraste Neku<black> em um traço e ele desaparecerá,
+tornando-se <red>impermeável<black> ao ataque inimigo.
 --------------------
-<red>Touch empty space<black> and Neku will <red>teleport<black> to that
-location.
+<red>Toque em espaço vazio<black> e Neku vai <red>teletransportar<black>
+para esse local.
 --------------------
-<red>Touch empty space<black> and Neku will <red>teleport<black> to that
-location.
+<red>Toque em espaço vazio<black> e Neku vai <red>teletransportar<black>
+para esse local.
 --------------------
-<red>Press an obstacle<black> to turn it into a bomb that <red>explodes
-on enemy contact<black>. Inflicts damage.
+<red>Pressione um obstáculo<black> paratransformá-lo emumabomba que
+<red>explode no contato inimigo.<black>Inflige danos.
 --------------------
-<red>Touch empty space<black> to drop a <red>boulder<black> on that position.
-Inflicts damage on contact. Rapidly tap to rain more
-stones down.
+<red>Toque num espaço vazio<black> parasoltaruma <red>boulders<black> nessa
+posição, causa danos no contato, rapidamente se aproveita
+para chover mais pedras.
 --------------------
-<red>Touch empty space<black> to drop <red>two boulders<black> on that
-position. Inflicts damage on contact. Rapidly tap to
-rain more stones down.
+<red>Toque em espaço vazio<black> para soltar <red>duas pedras<black> nessa
+posição. Inflige danos no contato. Rapidamente toque
+para chover mais pedras.
 --------------------
-<red>Touch empty space<black> to drop <red>five boulders<black> on that
-position. Inflicts damage on contact. Rapidly tap to
-rain more stones down.
+<red>Toque em espaço vazio<black> para soltar <red>cinco pedregulhos<black>
+nessa posição. Inflige danos no contato. Rapidamente
+toque para chover mais pedras.
 --------------------
-Extends the duration of <red>HP Drain's<black> negative effects
-on enemies.
+Estende a duração da duração de duração. <red>HP Drain's Drenagem
+de HP<black> efeitos negativos sobre os inimigos.
 --------------------
-Extends the duration of <red>Attack Break's<black> negative
-effects on enemies.
+Estende a duração da duração de duração. <red>Attack Break's
+Break é um ataque.<black> efeitos negativos sobre os inimigos.
 --------------------
-Extends the duration of <red>Defense Break's<black> negative
-effects on enemies.
+Estende a duração da duração de duração. <red>Quebra deDefesa<black>
+efeitos negativos sobre os inimigos.
 --------------------
-Extends the duration of <red>Immobility's<black> negative effects
-on enemies.
+Estende a duração da duração de duração. <red>Imobiliária é a
+mobilidade.<black> efeitos negativos sobre os inimigos.
 --------------------
-Sometimes inflicts <red>HP Drain<black> on enemies at the start of
-battle.
+s vezes inflige <red>HP Drenagem<black> em inimigos no início da
+batalha.
 --------------------
-Sometimes inflicts <red>Attack Break<black> on enemies at the
-start of battle.
+s vezes, inflige <red>Ataque Quebra<black> em inimigos no
+início da batalha.
 --------------------
-Sometimes inflicts <red>Defense Break<black> on enemies at the
-start of battle.
+s vezes, inflige <red>Defence Break<black> aos inimigos no
+início da batalha.
 --------------------
-Sometimes <red>Immobilizes<black> enemies at the start of battle.
+s vezes <red>Imobiliza<black> inimigos no início da batalha.
 --------------------
-Always inflicts <red>Attack Break<black> on enemies at the start
-of battle. (Some enemies may be immune.)
+Sempre inflige <red>Ataque Quebra<black> em inimigos no início da
+batalha. (Alguns inimigos podem estar imunes.)
 --------------------
-<red>Increases the amount of HP restored<black> by HP recovery
-pins.
+<red>Aumenta a quantidade de HP restaurada.<black> por pins de
+recuperação HP.
 --------------------
-<red>Automatically uses any HP recovery pins<black> Neku is wearing
-to heal whenever HP are half depleted.
+<red>Usa automaticamente qualquer pin de recuperação HP<black> Neku
+está usando para curar sempre que HP está meio esgotado.
 --------------------
-<red>Automatically restores HP<black> when they are low.
+<red>Restaura automaticamente HP<black> quando eles estão baixos.
 --------------------
-<red>Reduces<black> the rate at which <red>pin gauges are depleted<black>.
+<red>Reduz<black> a taxa na qual <red>calibres de pin estão esgotados<black>...
 --------------------
-Makes pins <red>reboot faster<black>.
+Faz pins <red>reiniciar mais rápido<black>..
 --------------------
-<red>Adds extra uses<black> to pins with a limited number of uses
-(those with numbers displayed next to them in battle).
+<red>Adiciona usos extras<black> a pins com um número limitado de usos
+(aqueles com números exibidos ao lado deles em batalha).
 --------------------
-Usually inflicts <red>HP Drain<black> on enemies at the start of
-battle.
+Normalmente inflige <red>HP Drenagem<black> em inimigos no início
+da batalha.
 --------------------
-Increases the <red>Attack<black> of any <green>Pavo Real<black> pins Neku is
-wearing.
+Aumenta o <red>Ataque<black> de qualquer <green>Pavo Real<black> pins Neku
+está usando.
 --------------------
-<red>Draw a circle in empty space<black> to create an electric
-charge that <red>revolves around Neku<black>. Inflicts damage on
-contact.
+<red>Desenhe um círculo no espaço vazio.<black> paracriarumacargaelétrica
+que <red>gira em torno de Nekuku.<black>Inflige danos no
+contato.
 --------------------
-<red>Draw a circle in empty space<black> to create an electric
-charge that <red>moves around the screen<black>. Inflicts damage
-on contact.
+<red>Desenhe um círculo no espaço vazio<black> para criar uma
+carga elétrica que <red>se move ao redor da tela<black>. Inflige
+danos no contato.
 --------------------
-<red>Slash across Neku<black> to launch a flame orb in that
-direction. Inflicts damage on contact. Orbs <red>rebound off
-walls and enemies<black>.
+<red>Slash através de Neku<black> para lançar uma esfera de chama
+nessa direção. Inflige danos no contato. Orbs <red>rebote fora
+paredes e inimigos<black>...
 --------------------
-<red>Slash across Neku<black> to launch a large flame orb in that
-direction. Inflicts damage on contact. Orbs <red>rebound off
-walls and enemies<black>.
+<red>Slash através de Neku<black> para lançar uma grande esfera de
+chama nessa direção. Inflige danos no contato. Orbs <red>rebote
+fora paredes e inimigos<black>...
 --------------------
-<red>Slash across Neku<black> to launch a small flame orb in that
-direction. Inflicts damage on contact. Orbs <red>rebound off
-walls and enemies<black>.
+<red>Slash através de Neku<black> para lançar uma pequena esfera de
+chama nessa direção. Inflige danos no contato. Orbs <red>rebote
+fora paredes e inimigos<black>...
 --------------------
-<red>Touch empty space<black> to create a stationary orb of
-water. Orbs inflict damage on contact and then
-<red>rebound<black>.
+<red>Toque num espaço vazio<black> Os orbes causam danos no contato
+e, em seguida, causam danos ao contato e depois criam
+uma esfera estacionária de água. <red>rebote<black>.
 --------------------
-<red>Touch empty space<black> to create a large, stationary orb
-of water. Orbs inflict damage on contact and then
-<red>rebound a short distance<black>.
+<red>Toque num espaço vazio<black> Orbs causam danos no contato e
+depois causam danos ao contato e, em seguida, causam
+danos ao contato. <red>rebote aumacurtadistância<black>.
 --------------------
-<red>Touch empty space<black> to create a small, stationary orb
-of water. Orbs inflict damage on contact and then
-<red>rebound a good distance<black>.
+<red>Toque em espaço vazio<black> para criar uma pequena esfera
+estacionária de água. Orbs infligir danos ao contato e,
+em seguida, <red>recuperar uma boa distância<black>...
 --------------------
-<red>Keep the stylus trained on an enemy<black> to focus light
-upon them. Inflicts continuous damage and sometimes
-<red>Attack Break<black>.
+<red>Mantenha a caneta treinada em um inimigo<black> para focalizar
+a luz sobre eles. Inflige dano contínuo e às vezes
+<red>Ataque Quebra<black>..
 --------------------
-<red>Drag across empty space<black> to create a path of flame.
-Inflicts damage on contact.
+<red>Atraia o espaço vazio<black> para criar
+um caminho de chama.
 --------------------
-<red>Press empty space<black> to <red>spray a wide radius with sparks<black>.
-Inflicts damage on contact.
+<red>Pressione o espaço vazio<black> para <red>pulverizar um raio com
+faíscas<black>. Inflige danos no contato.
 --------------------
-<red>Slash an enemy<black> any distance away and Neku will move in
-for a horizontal swipe. <red>Keep slashing<black> for a finisher
-that <red>knocks the enemy back<black>.
+<red>Risque um inimigo<black> A qualquer distância e Neku se moverá
+para um passe horizontal. <red>Continue cortando e cortando.<black>
+para um finalizador que <red>bate o inimigo de volta.<black>.
 --------------------
-<red>Slash across obstacles<black> like cars and signs to fling them
-in that direction. Inflicts damage on contact.
+<red>Embarque em obstáculos<black> como carros e sinais
+para lançá-los nessa direção.
 --------------------
-<red>Touch empty space<black> to drop a <red>boulder<black> on that position.
-Inflicts damage on contact. Rapidly tap to rain more
-stones down.
+<red>Toque num espaço vazio<black> parasoltaruma <red>boulders<black> nessa
+posição, causa danos no contato, rapidamente se aproveita
+para chover mais pedras.
 --------------------
-<red>Touch an enemy<black> to strike it with lightning.
-<red>Touch additional enemies<black> while the lightning flashes for
-a <red>combo<black>.
+<red>Toque em um inimigo<black> para atacá-lo com um raio.
+<red>Toque em inimigos adicionais<black> enquanto o raio pisca para uma
+combinação <red><black>...
 --------------------
-<red>Touch empty space<black> and Neku will launch <red>two bolts of
-lightning<black> in that direction. Inflicts damage on contact.
+<red>Toque em espaço vazio<black> e Neku lançará <red>dois
+raios<black> nessa direção. Inflige danos no contato.
 --------------------
-<red>Drag Neku<black> into a dash and he will vanish, rendering
-himself <red>impervious<black> to enemy attack.
+<red>Arraste Neku<black> em um traço e ele desaparecerá,
+tornando-se <red>impermeável<black> ao ataque inimigo.
 --------------------
-<red>Shout into the microphone<black> to create a shock
-wave. Inflicts continuous damage on all enemies as well
-as <red>Defense Break<black>. (Some enemies may be immune.)
+<red>Grite no microfone<black> para criar uma onda de choque.
+Inflige dano contínuo em todos os inimigos, bem como
+<red>Defense Break<black>. (Alguns inimigos podem estar imunes.)
 --------------------
-<red>Adds extra uses<black> to pins with a limited number of uses
-(those with numbers displayed next to them in battle).
+<red>Adiciona usos extras<black> a pins com um número limitado de usos
+(aqueles com números exibidos ao lado deles em batalha).
 --------------------
-Always <red>Immobilizes<black> enemies at the start of battle.
-(Some enemies may be immune.)
+Sempre. <red>Imobiliza-se.<black> inimigos no início da batalha.
+(Alguns inimigos podem estar imunes.)
 --------------------
-Increases the <red>Attack<black> of any <green>Mus Rattus<black> pins Neku is
-wearing.
+Aumenta o <red>Ataque<black> de qualquer <green>Mus Rattus<black> pins Neku
+está usando.
 --------------------
-<red>Slash an enemy<black> any distance away and Neku will move in
-for a horizontal swipe. <red>Keep slashing<black> for a finisher
-that <red>knocks the enemy back<black>.
+<red>Risque um inimigo<black> A qualquer distância e Neku se moverá
+para um passe horizontal. <red>Continue cortando e cortando.<black>
+para um finalizador que <red>bate o inimigo de volta.<black>.
 --------------------
-<red>Slash an enemy<black> any distance away and Neku will move in
-for a horizontal swipe. <red>Keep slashing<black> for a finisher
-that <red>knocks the enemy back<black>.
+<red>Risque um inimigo<black> A qualquer distância e Neku se moverá
+para um passe horizontal. <red>Continue cortando e cortando.<black>
+para um finalizador que <red>bate o inimigo de volta.<black>.
 --------------------
-<red>Slash an enemy<black> any distance away and Neku will move in
-for a horizontal swipe. <red>Keep slashing<black> for a finisher
-that <red>knocks the enemy back<black>.
+<red>Risque um inimigo<black> A qualquer distância e Neku se moverá
+para um passe horizontal. <red>Continue cortando e cortando.<black>
+para um finalizador que <red>bate o inimigo de volta.<black>.
 --------------------
-<red>Slash an enemy<black> any distance away and Neku will move in
-for a horizontal swipe. <red>Keep slashing<black> for a finisher
-that <red>knocks the enemy back<black>.
+<red>Risque um inimigo<black> A qualquer distância e Neku se moverá
+para um passe horizontal. <red>Continue cortando e cortando.<black>
+para um finalizador que <red>bate o inimigo de volta.<black>.
 --------------------
-<red>Slash an enemy<black> any distance away and Neku will move in
-for a horizontal swipe. <red>Keep slashing<black> for a finisher
-that <red>knocks the enemy back<black>.
+<red>Risque um inimigo<black> A qualquer distância e Neku se moverá
+para um passe horizontal. <red>Continue cortando e cortando.<black>
+para um finalizador que <red>bate o inimigo de volta.<black>.
 --------------------
-<red>Slash an enemy<black> any distance away and Neku will move in
-for a horizontal swipe. <red>Keep slashing<black> for a finisher
-that <red>knocks the enemy back<black>.
+<red>Risque um inimigo<black> A qualquer distância e Neku se moverá
+para um passe horizontal. <red>Continue cortando e cortando.<black>
+para um finalizador que <red>bate o inimigo de volta.<black>.
 --------------------
-<red>Touch an enemy<black> any distance away and Neku will move in
-for a quick thrust. <red>Knocks enemies back.<black>
+<red>Toque num inimigo<black> A qualquer distância e Neku se moverá
+para um impulso rápido. <red>Bate os inimigos de volta.<black>
 --------------------
-<red>Touch an enemy<black> any distance away and Neku will move in
-for a quick thrust. <red>Knocks enemies back.<black>
+<red>Toque num inimigo<black> A qualquer distância e Neku se moverá
+para um impulso rápido. <red>Bate os inimigos de volta.<black>
 --------------------
-<red>Touch an enemy<black> any distance away and Neku will move in
-for a quick thrust. <red>Knocks enemies back.<black>
+<red>Toque num inimigo<black> A qualquer distância e Neku se moverá
+para um impulso rápido. <red>Bate os inimigos de volta.<black>
 --------------------
-<red>Touch an enemy<black> any distance away and Neku will move in
-for a quick thrust. <red>Knocks enemies back.<black>
+<red>Toque num inimigo<black> A qualquer distância e Neku se moverá
+para um impulso rápido. <red>Bate os inimigos de volta.<black>
 --------------------
-<red>Rapidly tap an enemy<black> any distance away and Neku will
-move in for a <red>flurry of jabs<black>.
+<red>Rapidamente toque em um inimigo<black> a qualquer distância e
+Neku irá se mover para uma <red>enxurrada de jabs<black>..
 --------------------
-<red>Rapidly tap an enemy<black> any distance away and Neku will
-move in for a <red>flurry of jabs<black>.
+<red>Rapidamente toque em um inimigo<black> a qualquer distância e
+Neku irá se mover para uma <red>enxurrada de jabs<black>..
 --------------------
-<red>Slash vertically up on an enemy<black> any distance away and
-Neku will move in and attack in a <red>rising arc<black>.
+<red>Slash verticalmente em cima de um inimigo em um inimigo.<black> a qualquer distância
+e Neku se moverá e atacará em um ataque em um local distante. <red>arcoascendente<black>.
 --------------------
-<red>Slash vertically up on an enemy<black> any distance away and
-Neku will move in and attack in a <red>rising arc<black>.
+<red>Slash verticalmente em cima de um inimigo em um inimigo.<black> a qualquer distância
+e Neku se moverá e atacará em um ataque em um local distante. <red>arcoascendente<black>.
 --------------------
-<red>Slash vertically up on an enemy<black> any distance away and
-Neku will move in and attack in a <red>rising arc<black>.
+<red>Slash verticalmente em cima de um inimigo em um inimigo.<black> a qualquer distância
+e Neku se moverá e atacará em um ataque em um local distante. <red>arcoascendente<black>.
 --------------------
-<red>Slash vertically down on an enemy<black> and Neku will teleport
-above it and attack with a <red>downward stab<black>.
+<red>Slash verticalmente para baixo em um inimigo<black> e Neku se
+teletransportará acima dele e atacará com uma facada <red>para baixo<black>..
 --------------------
-<red>Slash across Neku<black> and he will <red>rocket-charge<black> in that
-direction, mowing down enemies in his path.
-Inflicts damage on contact.
+<red>Slash através de Neku<black> e ele vai <red>foguete-carregar<black>
+nessa direção, abatendo inimigos em seu caminho.
+Inflige danos no contato.
 --------------------
-<red>Draw a circle in empty space<black> and Neku will attack with a
-<red>spinning slash<black>. Inflicts damage on surrounding enemies.
+<red>Desenhe um círculo no espaço vazio.<black> e Neku atacará com um ataque
+com um ataque. <red>cortegiratório<black>Inflige dano nos inimigos ao redor.
 --------------------
-<red>Drag across empty space<black> to create a path of tall
-flames. Inflicts damage on contact.
+<red>Arraste pelo espaço vazio<black> para criar um caminho
+de chamas altas. Inflige danos no contato.
 --------------------
-<red>Shout into the microphone<black> to create a shock wave.
-Inflicts continuous damage on all enemies and
-sometimes <red>HP Drain<black>.
+<red>Grite no microfone<black> para criar uma onda de choque.
+Inflige dano contínuo em todos os inimigos
+e às vezes <red>HP Dren<black>..
 --------------------
-<red>Touch the pin<black> to <red>restore HP<black>.
+<red>Toque no pin<black> Para ir para a casa de banho. <red>restaurar HP HP restaurar HP<black>.
 --------------------
-<red>Touch the pin<black> to <red>restore a small amount of HP<black> and cure
-<red>Immobility<black>.
+<red>Toque no pin<black> para <red>restaurar uma pequena quantidade de HP<black>
+e curar <red>Imobilidade<black>..
 --------------------
-Increases the <red>Attack<black> of any <green>Jupiter of the Monkey<black>
-pins Neku is wearing.
+Aumenta o <red>Ataque<black> dos pins da <green>Jupiter of the Monkey<black>
+que Neku estiver usando.
 --------------------
-<red>Touch an enemy<black> to encase it in stones and stop it
-from moving. (Some enemies may not be affected.)
+<red>Toque em um inimigo<black> para envolvê-lo em pedras e impedi-lo
+de se mover. (Alguns inimigos podem não ser afetados.)
 --------------------
-<red>Press an enemy<black> to encase it in ice and stop it from
-moving. (Some enemies may not be affected.)
+<red>Pressione um inimigo<black> para colocá-lo no gelo e impedi-lo
+de se mover. (Alguns inimigos podem não ser afetados.)
 --------------------
-<red>Press an enemy<black> to encase it in ice and stop it from
-moving. (Some enemies may not be affected.)
+<red>Pressione um inimigo<black> para colocá-lo no gelo e impedi-lo
+de se mover. (Alguns inimigos podem não ser afetados.)
 --------------------
-<red>Keep the stylus trained on an enemy<black> to focus light
-upon them. Inflicts continuous damage and sometimes
-<red>Attack Break<black>.
+<red>Mantenha a caneta treinada em um inimigo<black> para focalizar
+a luz sobre eles. Inflige dano contínuo e às vezes
+<red>Ataque Quebra<black>..
 --------------------
-<red>Keep the stylus trained on an enemy<black> to focus light
-upon them. Inflicts continuous damage and sometimes
-<red>Attack Break<black>.
+<red>Mantenha a caneta treinada em um inimigo<black> para focalizar
+a luz sobre eles. Inflige dano contínuo e às vezes
+<red>Ataque Quebra<black>..
 --------------------
-<red>Keep scratching an enemy<black> to set it on fire.
-Inflicts continuous damage and sometimes <red>HP Drain<black>.
+<red>Continue coçando um inimigo<black> para incendiá-lo.
+Inflige dano contínuo e às vezes <red>HP Dren<black>..
 --------------------
-<red>Keep scratching an enemy<black> to set it on fire.
-Inflicts continuous damage and sometimes <red>HP Drain<black>.
+<red>Continue coçando um inimigo<black> para incendiá-lo.
+Inflige dano contínuo e às vezes <red>HP Dren<black>..
 --------------------
-<red>Rapidly tap an enemy<black> to freeze it.
-Inflicts continuous damage and sometimes <red>Immobilizes<black>
-the enemy.
+<red>Toque rapidamente em um inimigo<black> para
+congelá-lo. Inflige dano contínuo e às vezes <red>Imobiliza<black>
+o inimigo.
 --------------------
-<red>Rapidly tap an enemy<black> to freeze it.
-Inflicts continuous damage and sometimes <red>Immobilizes<black>
-the enemy.
+<red>Toque rapidamente em um inimigo<black> para
+congelá-lo. Inflige dano contínuo e às vezes <red>Imobiliza<black>
+o inimigo.
 --------------------
-Start on empty space and <red>drag across one or more
-enemies<black> to lock on, then <red>lift the stylus<black> to strike
-targets with lightning bolts. Inflicts damage.
+Comece no espaço vazio e <red>arraste um ou
+mais inimigos<black> para travar, depois <red>levante
+a caneta<black> para atingir alvos com raios.
 --------------------
-Start on empty space and <red>drag across one or more
-enemies<black> to lock on, then <red>lift the stylus<black> to strike
-targets with lightning bolts. Inflicts damage.
+Comece no espaço vazio e <red>arraste um ou
+mais inimigos<black> para travar, depois <red>levante
+a caneta<black> para atingir alvos com raios.
 --------------------
-Start on empty space and <red>drag across one or more
-enemies<black> to lock on, then <red>lift the stylus<black> to strike
-targets with lightning bolts. Inflicts damage.
+Comece no espaço vazio e <red>arraste um ou
+mais inimigos<black> para travar, depois <red>levante
+a caneta<black> para atingir alvos com raios.
 --------------------
-Greatly extends the duration of <red>HP Drain's<black> negative
-effects on enemies.
+Estende-se muito a duração da duração do tempo. <red>HP Drain's
+Drenagem de HP<black> efeitos negativos sobre os inimigos.
 --------------------
-Increases the <red>Attack<black> of any <green>Hip Snake<black> pins Neku is
-wearing.
+Aumenta o <red>Ataque<black> de qualquer <green>Hip Snake<black> pins Neku
+está usando.
 --------------------
-<red>Press empty space<black> to form a black hole that <red>draws
-enemies toward it<black>. (Some enemies may not be
-affected.)
+<red>Pressione um espaço vazio<black> paraformar umburaconegro
+que <red>atrai inimigos em direção a ele.<black>(Alguns inimigos
+podem não ser afetados.)
 --------------------
-<red>Press empty space<black> to form a black hole that <red>draws
-enemies toward it<black>. (Some enemies may not be
-affected.)
+<red>Pressione um espaço vazio<black> paraformar umburaconegro
+que <red>atrai inimigos em direção a ele.<black>(Alguns inimigos
+podem não ser afetados.)
 --------------------
-<red>Press empty space<black> to form a black hole that <red>draws
-enemies toward it<black>. (Some enemies may not be
-affected.)
+<red>Pressione um espaço vazio<black> paraformar umburaconegro
+que <red>atrai inimigos em direção a ele.<black>(Alguns inimigos
+podem não ser afetados.)
 --------------------
-<red>Draw a circle in empty space<black> to form a black hole that
-<red>sucks enemies in<black>. No EXP received. (Some enemies may
-not be affected.)
+<red>Desenhe um círculo no espaço vazio<black> para formar um buraco
+negro que <red>suga inimigos em<black>. Nenhum EXP recebido. (Alguns
+inimigos podem não ser afetados.)
 --------------------
-<red>Draw a circle in empty space<black> to form a black hole that
-<red>sucks enemies in<black>. No EXP received. (Some enemies may
-not be affected.)
+<red>Desenhe um círculo no espaço vazio<black> para formar um buraco
+negro que <red>suga inimigos em<black>. Nenhum EXP recebido. (Alguns
+inimigos podem não ser afetados.)
 --------------------
-<red>Draw a circle in empty space<black> to form a black hole that
-<red>sucks enemies in<black>. No EXP received. (Some enemies may
-not be affected.)
+<red>Desenhe um círculo no espaço vazio<black> para formar um buraco
+negro que <red>suga inimigos em<black>. Nenhum EXP recebido. (Alguns
+inimigos podem não ser afetados.)
 --------------------
-<red>Press Neku<black> and remain stationary to create a flame
-barrier that <red>wards off enemy attacks<black> and <red>harms
-enemies<black> on contact.
+<red>Pressione o Neku<black> e permaneça parado para criar uma
+barreira de chama que... <red>afastaataquesinimigos<black> e
+<red>prejudicainimigos<black> em contato.
 --------------------
-<red>Press Neku<black> and remain stationary to create a water
-barrier that <red>wards off enemy attacks<black> and <red>gradually
-restores HP<black>.
+<red>Pressione Neku<black> e permaneça parado para criar uma
+barreira de água que <red>afasta ataques inimigos<black> e <red>restaura
+gradualmente HP<black>.
 --------------------
-<red>Press Neku<red> to create a dark barrier that <red>wards off
-attacks<black>, <red>gradually restores HP<black>, and <red>harms enemies on
-contact<black>. Neku can move while the barrier is up.
+<red>Pressione Neku <red>para criar uma barreira escura que <red>afasta
+ataques<black>, <red>restaura gradualmente HP<black> e <red>prejudica os inimigos no
+contato<black>. Neku pode se mover enquanto a barreira está levantada.
 --------------------
-<red>Touch empty space<black> and Neku will <red>teleport<black> to that
-location.
+<red>Toque em espaço vazio<black> e Neku vai <red>teletransportar<black>
+para esse local.
 --------------------
-<red>Touch the pin<black> to <red>restore HP<black>.
+<red>Toque no pin<black> Para ir para a casa de banho. <red>restaurar HP HP restaurar HP<black>.
 --------------------
-<red>Touch the pin<black> to <red>restore HP<black>.
-Lower recovery, but also leaves Neku less open to
-attack.
+<red>Toque no pin<black> para <red>restaurar HP<black>.
+Recuperação mais baixa, mas também deixa Neku menos
+aberto ao ataque.
 --------------------
-<red>Touch the pin<black> to <red>restore HP<black>.
-Higher recovery, but also leaves Neku more open to
-attack.
+<red>Toque no pin<black> para <red>restaurar HP<black>.
+Maior recuperação, mas também deixa Neku mais aberto
+ao ataque.
 --------------------
-<red>Touch the pin<black> to <red>restore a small amount of HP<black> and cure
-<red>Immobility<black>.
+<red>Toque no pin<black> para <red>restaurar uma pequena quantidade de HP<black>
+e curar <red>Imobilidade<black>..
 --------------------
-<red>Touch the pin<black> to <red>restore a small amount of HP<black> and cure
-<red>HP Drain<black>.
+<red>Toque no pin<black> para <red>restaurar uma pequena quantidade de HP<black>
+e curar <red>HP Dren<black>..
 --------------------
-<red>Touch the pin<black> to <red>restore a small amount of HP<black> and cure
-<red>Attack or Defense Breaks<black>.
+<red>Toque no pin<black> para <red>restaurar uma pequena quantidade de HP<black>
+e curar <red>Ataque ou quebra de defesa<black>..
 --------------------
-<red>Touch the pin<black> to <red>restore a tiny amount of HP<black> and cure
-<red>all negative statuses<black>.
+<red>Toque no pin<black> para <red>restaurar uma pequena quantidade de HP<black>
+e curar <red>todos os status negativos<black>..
 --------------------
-<red>Greatly increases the amount of HP restored<black> by
-HP recovery pins.
+<red>Muito aumenta a quantidade de HP restaurada.<black> por
+pins de recuperação HP.
 --------------------
-<red>Automatically uses any HP recovery pins<black> Neku is wearing
-to heal whenever HP are low.
+<red>Automaticamente usa qualquer pin de recuperação HP<black> Neku está
+usando para curar sempre que HP estão baixos.
 --------------------
-Increases the <red>Attack<black> of any <green>Sheep Heavenly<black> pins Neku
-is wearing.
+Aumenta o <red>Ataque<black> de qualquer <green>Sheep Heavenly<black> pins Neku
+está usando.
 --------------------
-<red>Scratch empty space<black> to generate electricity.
-Inflicts damage on contact. Keep scratching to <red>extend
-range<black>.
+<red>Arranhão espaço vazio<black> para gerar eletricidade.
+Inflige danos no contato. Continue coçando até <red>estender
+o alcance<black>...
 --------------------
-<red>Drag Neku<black> into a dash and <red>smash<black> him into enemies.
-Inflicts damage.
+<red>Arraste Neku<black> em um traço e <red>esmague<black> ele em inimigos.
+Inflige dano.
 --------------------
-<red>Drag Neku<black> into a dash and <red>smash<black> him into enemies.
-Inflicts damage and knocks enemies into other enemies
-for <red>chain damage<black>.
+<red>Arraste Neku<black> em um traço e <red>esmague<black> ele em inimigos.
+Inflige dano e derruba inimigos em outros inimigos por
+<red>dano em cadeia<black>..
 --------------------
-<red>Press empty space<black> to <red>spray a wide radius with sparks<black>.
-Inflicts damage on contact.
+<red>Pressione o espaço vazio<black> para <red>pulverizar um raio com
+faíscas<black>. Inflige danos no contato.
 --------------------
-<red>Slash across Neku<black> and he will <red>charge<black> in that direction,
-mowing down enemies in his path. Inflicts damage on
-contact.
+<red>Slash através de Neku<black> e ele vai <red>cobrar<black> nessa direção,
+abatendo inimigos em seu caminho. Inflige danos no
+contato.
 --------------------
-<red>Slash across Neku<black> and he will <red>quickly charge<black> in that
-direction, mowing down enemies in his path.
-Inflicts damage on contact.
+<red>Slash através de Neku<black> e ele vai <red>rapidamente carregar<black>
+nessa direção, cortando inimigos em seu caminho.
+Inflige danos no contato.
 --------------------
-<red>Blow into the microphone<black> and Neku will attack with a
-<red>spinning slash<black>. Inflicts damage on surrounding enemies.
+<red>Sopre para o microfone.<black> e Neku atacará com um ataque com
+um ataque. <red>cortegiratório<black>Inflige dano nos inimigos ao redor.
 --------------------
-<red>Blow into the microphone<black> and Neku will attack with a
-<red>spinning slash<black>. Inflicts damage on surrounding enemies.
+<red>Sopre para o microfone.<black> e Neku atacará com um ataque com
+um ataque. <red>cortegiratório<black>Inflige dano nos inimigos ao redor.
 --------------------
-<red>Shout into the microphone<black> to create a shock wave.
-Inflicts continuous damage on all enemies and always
-<red>Immobilizes<black> them. (Some enemies may be immune.)
+<red>Grite no microfone<black> para criar uma onda de choque.
+Inflige dano contínuo em todos os inimigos e sempre
+<red>Imobiliza<black> eles. (Alguns inimigos podem estar imunes.)
 --------------------
-<red>Touch the pin<black> to <red>restore HP<black>.
+<red>Toque no pin<black> Para ir para a casa de banho. <red>restaurar HP HP restaurar HP<black>.
 --------------------
-<red>Touch the pin<black> to <red>restore a small amount of HP<black> and cure
-<red>HP Drain<black>.
+<red>Toque no pin<black> para <red>restaurar uma pequena quantidade de HP<black>
+e curar <red>HP Dren<black>..
 --------------------
-Greatly extends the duration of <red>Attack Break's<black>
-negative effects on enemies.
+Estende-se muito a duração da duração do tempo. <red>Attack Break's
+Break é um ataque.<black> efeitos negativos sobre os inimigos.
 --------------------
-Increases the <red>Attack<black> of any <green>Tigre Punks<black> pins Neku is
-wearing.
+Aumenta o <red>Ataque<black> de qualquer <green>Tigre Punks<black> pins Neku
+está usando.
 --------------------
-<red>Press empty space<black> to launch a bullet in that direction
-which <red>fragments on enemy collision<black>. The fragments also
-inflict damage on contact.
+<red>Pressione o espaço vazio<black> para lançar uma bala naquela
+direção que <red>fragmenta na colisão inimiga<black> Os fragmentos
+também causam danos no contato.
 --------------------
-<red>Press empty space<black> to launch a bullet in that direction
-which <red>fragments on enemy collision<black>. The fragments also
-inflict damage on contact.
+<red>Pressione o espaço vazio<black> para lançar uma bala naquela
+direção que <red>fragmenta na colisão inimiga<black> Os fragmentos
+também causam danos no contato.
 --------------------
-<red>Press empty space<black> to launch a bullet in that direction
-which <red>fragments on enemy collision<black>. The fragments also
-inflict damage on contact.
+<red>Pressione o espaço vazio<black> para lançar uma bala naquela
+direção que <red>fragmenta na colisão inimiga<black> Os fragmentos
+também causam danos no contato.
 --------------------
-<red>Rapidly tap empty space<black> to spray a wide radius with
-electric charges. Inflicts damage on contact.
-Keep tapping for <red>more charges<black>.
+<red>Toque rapidamente em espaço vazio<black> para pulverizar um
+raio amplo com cargas elétricas. Inflige danos no
+contato. Continue tocando por <red>mais cargas<black>...
 --------------------
-<red>Drag across empty space<black> to create a path of flame.
-Inflicts damage on contact.
+<red>Atraia o espaço vazio<black> para criar
+um caminho de chama.
 --------------------
-<red>Drag across empty space<black> to create a path of tall
-flames. Inflicts damage on contact.
+<red>Arraste pelo espaço vazio<black> para criar um caminho
+de chamas altas. Inflige danos no contato.
 --------------------
-<red>Drag across empty space<black> to create a path of tall
-flames that <red>scatter<black> from their course. Inflicts damage
-on contact.
+<red>Arraste pelo espaço vazio<black> para criar um caminho de
+chamas altas que <red>se espalham<black> de seu curso. Inflige danos
+no contato.
 --------------------
-<red>Press empty space<black> to create a pillar of fire.
-Inflicts damage and sometimes <red>HP Drain<black> on contact.
+<red>Pressione o espaço vazio<black> para criar um pilar
+de fogo. Inflige danos e às vezes <red>HP Dren<black> em contato.
 --------------------
-<red>Touch one or more obstacles<black> like cars and signs, then
-<red>touch empty space<black> to hurl them. Inflicts damage on
-contact.
+<red>Toque em um ou mais obstáculos<black> como carros e sinais,
+então <red>toque em espaço vazio<black> para lançá-los. Inflige
+danos no contato.
 --------------------
-<red>Touch one or more obstacles<black> like cars and signs, then
-<red>touch empty space<black> to hurl them. Inflicts damage on
-contact.
+<red>Toque em um ou mais obstáculos<black> como carros e sinais,
+então <red>toque em espaço vazio<black> para lançá-los. Inflige
+danos no contato.
 --------------------
-<red>Touch one or more enemies or obstacles<black> like cars and
-signs, then <red>touch empty space<black> to hurl them.
-(Some enemies cannot be thrown.)
+<red>Toque em um ou mais inimigos ou obstáculos<black> como carros
+e sinais, então <red>toque em espaço vazio<black> para lançá-los.
+(Alguns inimigos não podem ser jogados.)
 --------------------
-<red>Press empty space<black> to create a ring and lock on to
-enemies that enter it, then <red>lift the stylus to<black> strike
-targets with lightning bolts.
+<red>Pressione um espaço vazio<black> paracriar umanel etravar
+eminimigos queentramnele,então <red>Levante a caneta até a
+caneta.<black> Atingir alvos com relâmpagos.
 --------------------
-<red>Press empty space<black> to create a ring and lock on to
-enemies that enter it, then <red>lift the stylus to<black> strike
-targets with lightning bolts.
+<red>Pressione um espaço vazio<black> paracriar umanel etravar
+eminimigos queentramnele,então <red>Levante a caneta até a
+caneta.<black> Atingir alvos com relâmpagos.
 --------------------
-<red>Press empty space<black> to create a ring and lock on to
-enemies that enter it, then <red>lift the stylus to<black> strike
-targets with lightning bolts.
+<red>Pressione um espaço vazio<black> paracriar umanel etravar
+eminimigos queentramnele,então <red>Levante a caneta até a
+caneta.<black> Atingir alvos com relâmpagos.
 --------------------
-Increases the <red>Attack<black> of any <green>Dragon Couture<black> pins Neku
-is wearing.
+Aumenta o <red>Ataque<black> de qualquer <green>Dragon Couture<black> pins Neku
+está usando.
 --------------------
-<red>Touch empty space<black> to fire a slow-moving <red>bullet<black> in that
-direction. <red>Touch empty space<black> mid-flight to <red>alter its
-course<black>.
+<red>Toque num espaço vazio<black> paradisparar ummovimentolento <red>bala bala
+de bala.<black> nessa direção. <red>Toque num espaço vazio<black> no meio do voo
+para o meio do vôo. <red>alterar o seucurso<black>.
 --------------------
-<red>Touch empty space<black> to fire a <red>bullet<black> in that direction.
-Inflicts damage and sometimes <red>Defense Break<black> on
-contact.
+<red>Toque num espaço vazio<black> para disparar um fogo a um fogo <red>bala
+bala de bala.<black> Inflige danos e às vezes, às vezes, danos.
+<red>Quebra deDefesa<black> em contato.
 --------------------
-<red>Press empty space<black> to launch a bullet in that direction
-which <red>fragments on enemy collision<black>. The fragments also
-inflict damage on contact.
+<red>Pressione o espaço vazio<black> para lançar uma bala naquela
+direção que <red>fragmenta na colisão inimiga<black> Os fragmentos
+também causam danos no contato.
 --------------------
-<red>Rapidly tap an enemy<black> any distance away and Neku will
-move in for a <red>flurry of jabs<black>.
+<red>Rapidamente toque em um inimigo<black> a qualquer distância e
+Neku irá se mover para uma <red>enxurrada de jabs<black>..
 --------------------
-<red>Rapidly tap an enemy<black> any distance away and Neku will
-move in for a <red>flurry of jabs<black>.
+<red>Rapidamente toque em um inimigo<black> a qualquer distância e
+Neku irá se mover para uma <red>enxurrada de jabs<black>..
 --------------------
-<red>Touch an enemy<black> to strike it with lightning.
-<red>Touch additional enemies<black> while the lightning flashes for
-a <red>combo<black>.
+<red>Toque em um inimigo<black> para atacá-lo com um raio.
+<red>Toque em inimigos adicionais<black> enquanto o raio pisca para uma
+combinação <red><black>...
 --------------------
-<red>Touch an enemy<black> to strike it with lightning.
-<red>Touch additional enemies<black> while the lightning flashes for
-a <red>combo<black>.
+<red>Toque em um inimigo<black> para atacá-lo com um raio.
+<red>Toque em inimigos adicionais<black> enquanto o raio pisca para uma
+combinação <red><black>...
 --------------------
-<red>Touch an enemy<black> to strike it with lightning.
-<red>Touch additional enemies<black> while the lightning flashes for
-a <red>combo<black>.
+<red>Toque em um inimigo<black> para atacá-lo com um raio.
+<red>Toque em inimigos adicionais<black> enquanto o raio pisca para uma
+combinação <red><black>...
 --------------------
-<red>Shout into the microphone<black> to create a shock
-wave. Inflicts continuous damage on all enemies as well
-as <red>Defense Break<black>. (Some enemies may be immune.)
+<red>Grite no microfone<black> para criar uma onda de choque.
+Inflige dano contínuo em todos os inimigos, bem como
+<red>Defense Break<black>. (Alguns inimigos podem estar imunes.)
 --------------------
-<red>Touch empty space<black> to drop <red>three boulders<black> on that
-position. Inflicts damage on contact. Rapidly tap to
-rain more stones down.
+<red>Toque em espaço vazio<black> para soltar <red>três pedregulhos<black>
+nessa posição. Inflige danos no contato. Rapidamente
+toque para chover mais pedras.
 --------------------
-<red>Touch the pin<black> to <red>restore HP<black>.
+<red>Toque no pin<black> Para ir para a casa de banho. <red>restaurar HP HP restaurar HP<black>.
 --------------------
-<red>Touch the pin<black> to <red>restore a small amount of HP<black> and cure
-<red>Attack or Defense Breaks<black>.
+<red>Toque no pin<black> para <red>restaurar uma pequena quantidade de HP<black>
+e curar <red>Ataque ou quebra de defesa<black>..
 --------------------
-Always inflicts <red>Defense Break<black> on enemies at the start
-of battle. (Some enemies may be immune.)
+Sempre inflige <red>Defence Break<black> em inimigos no início da
+batalha. (Alguns inimigos podem estar imunes.)
 --------------------
-Increases the <red>Attack<black> of any <green>Lapin Angelique<black> pins Neku
-is wearing.
+Aumenta o <red>Ataque<black> de qualquer <green>Lapin Angelique<black> pins Neku
+está usando.
 --------------------
-<red>Draw a circle in empty space<black> to create an electric
-charge that <red>zigzags around the screen<black>. Inflicts damage
-on contact.
+<red>Desenhe um círculo no espaço vazio<black> para criar uma carga
+elétrica que <red>ziguezague ao redor da tela<black>. Inflige danos
+no contato.
 --------------------
-<red>Draw a circle in empty space<black> to create an electric
-charge that flies toward the <red>nearest enemy<black>.
-Inflicts damage on contact.
+<red>Desenhe um círculo no espaço vazio<black> para criar uma
+carga elétrica que voa em direção ao inimigo <red>mais
+próximo<black>. Inflige danos no contato.
 --------------------
-<red>Touch empty space<black> to create a stationary orb of
-water. Orbs inflict damage on contact and then
-<red>rebound<black>.
+<red>Toque num espaço vazio<black> Os orbes causam danos no contato
+e, em seguida, causam danos ao contato e depois criam
+uma esfera estacionária de água. <red>rebote<black>.
 --------------------
-<red>Slash across Neku<black> to fire a <red>penetrating boomerang<black> in
-that direction. Inflicts damage on contact.
+<red>Cortar em Neku<black> para disparar um fogo a um fogo <red>penetrante
+boomerangangang.<black> nessa direção, causa danos no contato.
 --------------------
-<red>Slash across Neku<black> to fire a <red>two-way penetrating
-boomerang<black> in that direction. Inflicts damage on
-contact.
+<red>Cortar em Neku<black> para disparar um fogo a um fogo
+<red>bidirecional penetrante bumerangangue bumerangue.<black>
+nessa direção, causa danos no contato.
 --------------------
-<red>Slash empty space<black> to send a bolt of lightning along
-that line. Inflicts damage on contact. <red>Keep slashing<black> to
-create <red>multiple bolts<black>.
+<red>Abra espaço vazio<black> para enviar um raio ao longo dessa
+linha. Inflige danos no contato. <red>Continue cortando<black> para
+criar <red>vários parafusos<black>..
 --------------------
-<red>Slash empty space<black> to send a bolt of lightning along
-that line. Inflicts damage on contact. <red>Keep slashing<black> to
-create <red>multiple bolts<black>.
+<red>Abra espaço vazio<black> para enviar um raio ao longo dessa
+linha. Inflige danos no contato. <red>Continue cortando<black> para
+criar <red>vários parafusos<black>..
 --------------------
-<red>Touch empty space<black> and Neku will fire lightning in that
-direction. Inflicts damage on contact.
+<red>Toque em espaço vazio<black> e Neku irá
+disparar raios nessa direção.
 --------------------
-<red>Touch empty space<black> and Neku will fire lightning in that
-direction. Inflicts damage on contact.
+<red>Toque em espaço vazio<black> e Neku irá
+disparar raios nessa direção.
 --------------------
-<red>Slash across obstacles<black> like cars and signs to fling them
-in that direction. Inflicts damage on contact.
+<red>Embarque em obstáculos<black> como carros e sinais
+para lançá-los nessa direção.
 --------------------
-<red>Slash across obstacles<black> like cars and signs to fling them
-in that direction. Inflicts damage on contact.
+<red>Embarque em obstáculos<black> como carros e sinais
+para lançá-los nessa direção.
 --------------------
-<red>Slash across enemies or obstacles<black> like cars and signs
-to fling them in that direction. (Some enemies cannot
-be thrown.)
+<red>Atire contra inimigos ou obstáculos<black> como carros e sinais
+para lançá-los nessa direção. (Alguns inimigos não podem
+ser jogados.)
 --------------------
-<red>Greatly reduces<black> the rate at which <red>pin gauges are
-depleted<black>.
+<red>Muito reduz<black> a taxa na qual <red>calibres de pin estão
+esgotados<black>..
 --------------------
-Increases the <red>Attack<black> of any <green>Pegaso<black> pins Neku is
-wearing.
+Aumenta o <red>Ataque<black> de qualquer <green>Pegaso<black> pins Neku
+está usando.
 --------------------
-<red>Touch empty space<black> to place a bomb in that location
-which <red>explodes after a set amount of time<black>.
+<red>Toque num espaço vazio<black> para colocar uma bomba naquele local em
+que lugar... <red>explode depois de um determinado período de tempo.<black>.
 --------------------
-<red>Press empty space<black> to <red>spray a wide radius with sparks<black>.
-Inflicts damage on contact.
+<red>Pressione o espaço vazio<black> para <red>pulverizar um raio com
+faíscas<black>. Inflige danos no contato.
 --------------------
-<red>Press empty space<black> to <red>spray a wide radius with sparks<black>.
-Inflicts damage on contact.
+<red>Pressione o espaço vazio<black> para <red>pulverizar um raio com
+faíscas<black>. Inflige danos no contato.
 --------------------
-<red>Press Neku and release<black> to unleash a <red>vicious slicing
-attack<black>. Neku will be unable to move mid-press, but
-<red>longer presses yield more power<black>.
+<red>Pressione Neku e solte Neku.<black> paralibertaruma <red>ataque decorte
+vicioso<black>Nekuseráincapaz demover aimprensa central,mas
+<red>prensas mais longas produzem mais potência.<black>.
 --------------------
-<red>Press Neku and release<black> to unleash a <red>vicious slicing
-attack<black>. Neku will be unable to move mid-press, but
-<red>longer presses yield more power<black>.
+<red>Pressione Neku e solte Neku.<black> paralibertaruma <red>ataque decorte
+vicioso<black>Nekuseráincapaz demover aimprensa central,mas
+<red>prensas mais longas produzem mais potência.<black>.
 --------------------
-<red>Press Neku and release<black> to unleash a <red>vicious slicing
-attack<black>. Neku will be unable to move mid-press, but
-<red>longer presses yield more power<black>.
+<red>Pressione Neku e solte Neku.<black> paralibertaruma <red>ataque decorte
+vicioso<black>Nekuseráincapaz demover aimprensa central,mas
+<red>prensas mais longas produzem mais potência.<black>.
 --------------------
-<red>Slash vertically down on an enemy<black> and Neku will teleport
-above it and attack with a <red>downward stab<black>.
+<red>Slash verticalmente para baixo em um inimigo<black> e Neku se
+teletransportará acima dele e atacará com uma facada <red>para baixo<black>..
 --------------------
-<red>Slash vertically down on an enemy<black> and Neku will teleport
-above it and attack with a <red>downward stab<black>.
+<red>Slash verticalmente para baixo em um inimigo<black> e Neku se
+teletransportará acima dele e atacará com uma facada <red>para baixo<black>..
 --------------------
-<red>Draw a circle in empty space<black> to strike that location
-with a <red>meteor<black> that shatters on impact. Inflicts damage
-<red>before and after<black> shattering.
+<red>Desenhe um círculo no espaço vazio.<black> para atingir aquele local
+com um local com um <red>meteoro<black> Isso quebra o impacto, causa danos
+ao impacto. <red>Antes e depois.<black> Quebrando.
 --------------------
-<red>Draw a circle in empty space<black> to strike that location
-with a <red>meteor<black> that shatters on impact. Inflicts damage
-<red>before and after<black> shattering.
+<red>Desenhe um círculo no espaço vazio.<black> para atingir aquele local
+com um local com um <red>meteoro<black> Isso quebra o impacto, causa danos
+ao impacto. <red>Antes e depois.<black> Quebrando.
 --------------------
-<red>Draw a circle in empty space<black> to strike that location
-with a <red>meteor<black> that shatters on impact. Inflicts damage
-<red>before and after<black> shattering.
+<red>Desenhe um círculo no espaço vazio.<black> para atingir aquele local
+com um local com um <red>meteoro<black> Isso quebra o impacto, causa danos
+ao impacto. <red>Antes e depois.<black> Quebrando.
 --------------------
-Greatly extends the duration of <red>Defense Break's<black>
-negative effects on enemies.
+Estende-se muito a duração da duração do tempo. <red>Quebra
+deDefesa<black> efeitos negativos sobre os inimigos.
 --------------------
-Increases the <red>Attack<black> of any <green>Wild Boar<black> pins Neku is
-wearing.
+Aumenta o <red>Ataque<black> de qualquer <green>Wild Boar<black> pins Neku
+está usando.
 --------------------
-By itself, this pin exhibits no power. It reads:
-"The joys of a <red>universe made and unmade<black>, friends
-across time, shall be your ray of light."
+Por si só, este pin não exibe nenhum poder.
+<red>universo feito e desfeito, e não feito.<black>, amigos
+através do tempo, será seu raio de luz."
 --------------------
-By itself, this pin exhibits no power. It reads:
-"The joys of a <red>universe made and unmade<black>, friends
-across time, shall be your ray of light."
+Por si só, este pin não exibe nenhum poder.
+<red>universo feito e desfeito, e não feito.<black>, amigos
+através do tempo, será seu raio de luz."
 --------------------
-By itself, this pin exhibits no power. It reads:
-"Wind, wood, flame, and mount: <red>so must you be<black> if you
-would roam the fields of war."
+Por si só, este pin não exibe nenhum poder. Ele diz:
+"Vento, madeira, chama e montar: <red>assim você deve ser<black>
+se você vaguear pelos campos de guerra."
 --------------------
-By itself, this pin exhibits no power. It reads:
-"Wind, wood, flame, and mount: <red>so must you be<black> if you
-would roam the fields of war."
+Por si só, este pin não exibe nenhum poder. Ele diz:
+"Vento, madeira, chama e montar: <red>assim você deve ser<black>
+se você vaguear pelos campos de guerra."
 --------------------
-By itself, this pin exhibits no power. It reads:
-"Wind, wood, flame, and mount: <red>so must you be<black> if you
-would roam the fields of war."
+Por si só, este pin não exibe nenhum poder. Ele diz:
+"Vento, madeira, chama e montar: <red>assim você deve ser<black>
+se você vaguear pelos campos de guerra."
 --------------------
-By itself, this pin exhibits no power. It reads:
-"Wind, wood, flame, and mount: <red>so must you be<black> if you
-would roam the fields of war."
+Por si só, este pin não exibe nenhum poder. Ele diz:
+"Vento, madeira, chama e montar: <red>assim você deve ser<black>
+se você vaguear pelos campos de guerra."
 --------------------
-<red>Drag across empty space<black> to create a path of tall
-flames. Inflicts damage on contact. The pin says:
-"When <red>six darklit planets<black> align..."
+<red>Arraste pelo espaço vazio<black> para criar um caminho de chamas
+altas. Inflige danos no contato. O pin diz: "Quando <red>seis
+planetas iluminados pela escuridão<black> se alinham..."
 --------------------
-<red>Slash empty space<black> to send a bolt of lightning along
-that line. Inflicts damage on contact. The pin says:
-"When <red>six darklit planets<black> align..."
+<red>Espalhe o espaço vazio<black> para enviar um raio ao longo dessa
+linha. Inflige danos no contato. O pin diz: "Quando <red>seis
+planetas iluminados pela escuridão<black> se alinham..."
 --------------------
-<red>Slash vertically up on empty space<black> to form an icicle.
-Inflicts damage on contact. The pin says:
-"When <red>six darklit planets<black> align..."
+<red>Slash verticalmente no espaço vazio<black> para formar um gelo.
+Inflige danos no contato. O pin diz: "Quando <red>seis
+planetas iluminados por luz escura<black> se alinham..."
 --------------------
-<red>Touch empty space<black> to fire a <red>bullet<black> in that direction.
-Inflicts damage on contact. The pin says:
-"When <red>six darklit planets<black> align..."
+<red>Toque num espaço vazio<black> para disparar um fogo a um fogo <red>bala bala de
+bala.<black> O pin diz: "Quando o contato é danificado, o pin diz: 'Quando
+o contato for atingido'". <red>seisplanetasescuros<black> alinhar..."..."
 --------------------
-<red>Press Neku<black> to create a dark barrier that <red>restores HP
-and harms enemies<black>. Movement OK. The pin says:
-"When <red>six darklit planets<black> align..."
+<red>Pressione o Neku<black> paracriarumabarreiraescura que <red>restaura
+HP e prejudica inimigos inimigos.<black>.Movimento OK. O
+pindiz: "Quando <red>seisplanetasescuros<black> alinhar..."..."
 --------------------
-<red>Touch empty space<black> to create a stationary orb of
-water. Orbs rebound on contact. The pin says:
-"When <red>six darklit planets<black> align..."
+<red>Toque em espaço vazio<black> para criar uma esfera estacionária
+de água. Orbs rebote no contato. O pin diz: "Quando
+<red>seis planetas iluminados pela escuridão<black> alinhar..."
 --------------------
-By itself, this pin exhibits no power. It reads:
-"Merciless power, when wielded with wisdom and
-courage, shall surely break the <red>gods' spell over all<black>."
+Por si só, este pin não exibe nenhum poder. Diz: "Poder
+misericordioso, quando exercido com sabedoria e coragem, certamente
+quebrará o poder misericordioso. <red>ofeitiçodosdeuses sobretudo<black>."
 --------------------
-By itself, this pin exhibits no power. It reads:
-"Fierce courage, when joined by wisdom and power,
-shall surely break the <red>gods' spell over all<black>."
+Por si só, este pin não exibe nenhum poder. Diz: "Coragem
+feroz, quando unida pela sabedoria e poder, certamente
+quebrará o poder... <red>ofeitiçodosdeuses sobretudo<black>."
 --------------------
-By itself, this pin exhibits no power. It reads:
-"Sinister wisdom, with power and courage in hand, shall
-surely break the <red>gods' spell over all<black>."
+Por si só, este pin não exibe nenhum poder.
+Lê-se: "Asabedoria sinistra, compoder ecoragem
+namão,certamentequebrará o <red>ofeitiçodosdeuses sobretudo<black>."
 --------------------
-The pin reads: "A lamenting goddess left this prophecy
-for the five warring kingdoms below: that their world
-would end in blackest sun-fire."
+O pin diz: "Uma deusa lamentando deixou esta profecia
+para os cinco reinos em guerra abaixo: que seu mundo
+terminaria no mais negro fogo do sol."
 --------------------
-The pin reads: "Yet her prophecy held hope.
-The goddess promised to all living things, great and
-small, a <red>saving Light to ward off their doom<black>."
+O pin diz: "No entanto, sua profecia tinha esperança. A deusa prometeu
+a todas as coisas vivas, grandes e pequenas, uma deusa prometida a
+todos os seres vivos. <red>salvando a Luz para afastar o seu destino.<black>."
 --------------------
-The pin reads: "But the five kings would not believe
-her. So one sought strength and found futility; so
-another sank in mindless wisdom."
+O pin diz: "Mas os cinco reis não acreditariam nela,
+então um buscou força e encontrou futilidade, e outro
+afundou em sabedoria sem sentido."
 --------------------
-The pin reads: "In the end, the kings' delusions led
-them to a chamber of reckoning, where their unspent
-chaos brought fear and woe to all."
+No final, os delírios dos reis os levaram a uma
+câmara de contagem, onde seu caos não gasto
+trouxe medo e desgraça a todos.
 --------------------
-The pin reads: "Now, as the boy stands before Eden,
-the <red>five kings in his wake<black>, the goddess rewards his
-balanced judgment with her Light."
+O pindiz: "Agora,como omeninoestádiante do Éden, o <red>Cinco
+reis em seu despertar acordaram.<black>A deusa recompensa seu
+julgamento equilibrado com sua Luz."
 --------------------
-<red>Automatically restores all HP<black> when they are low, and
-<red>cures negative statuses<black> when necessary.
+<red>automaticamente restaura todo HP<black> quando eles estão
+baixos, e <red>cura estados negativos<black> quando necessário.
 --------------------
-<red>Slows down<black> Neku's movement.
+<red>Abranda a velocidade.<black> Movimento de Neku.
 --------------------
-Increases the <red>Attack<black> of any <green>Gatito<black> pins Neku is
-wearing.
+Aumenta o <red>Ataque<black> de qualquer <green>Gatito<black> pins Neku
+está usando.
 --------------------
-A special Tin Pin used in slam-offs. This one was
-designed for Tin Pin Slammer beginners. <red>Keep scratching
-an enemy<black> to activate its psych.
+Um Tin Pin especial usado em slam-offs. Este foi
+projetado para iniciantes em Tin Pin Slammer. <red>Continue
+coçando um inimigo<black> para ativar seu psych.
 --------------------
-A special Tin Pin used in slam-offs. Modded pins like this
-one are banned from official play. <red>Press empty space<black>
-to activate the pin's psych.
+Um pin especial usado em slam-offs. Pins modificados como
+este estão proibidos de jogar. <red>Pressione um espaço vazio<black>
+Para ativar a psicologia do pin.
 --------------------
-A special Tin Pin used in slam-offs. Yammer made this
-by further modding the TP Custom. <red>Slash across Neku<black>
-to activate the pin's psych.
+Um Tin Pin especial usado em slam-offs. Yammer fez isso
+modificando ainda mais o TP Custom. <red>Slash através de
+Neku<black> para ativar o psych do pin.
 --------------------
-A special Tin Pin used in slam-offs. Yammer considers
-this TP Wind mod his magnum opus. <red>Blow into the
-microphone<black> to activate its psych.
+Um Tin Pin especial usado em slam-offs. Yammer
+considera este TP Wind mod sua magnum opus. <red>Sopre
+no microfone<black> para ativar seu psych.
 --------------------
-A special Tin Pin used in slam-offs. It takes its motif
-from wheeled warriors and slammin' rides. <red>Drag Neku<black> to
-activate the pin's psych.
+Um pin especial usado em slam-offs. Tira o motivo de
+guerreiros de rodas e passeios de choque. <red>Arraste o Neku<black>
+Para ativar a psicologia do pin.
 --------------------
-A special Tin Pin used in slam-offs. The American champ
-uses the same kind of pin. <red>Drag Neku<black> to activate the
-pin's psych.
+Um pin de lata especial usado em slam-offs. O campeão
+americano usa o mesmo tipo de pin. <red>Arraste o Neku<black> Para
+ativar a psicologia do pin.
 --------------------
-A Tin Pin with a nature motif. Places the wearer in
-<red>mortal peril<black> at the start of battle, but boosts
-<red>Attack<black> and <red>EXP earned<black> while in that state.
+Um Pin de Estanho com um motivo da natureza. <red>perigo
+mortal<black> no início da batalha, mas aumenta o impulso.
+<red>Ataque<black> e <red>EXP ganhada.<black> enquanto naquele estado.
 --------------------
-A special Tin Pin used in slam-offs. This one was
-designed by the inventor of the Solid Slammer.
-<red>Slash across Neku<black> to activate the pin's psych.
+Um Tin Pin especial usado em slam-offs. Este foi
+projetado pelo inventor do Solid Slammer. <red>Slash
+através de Neku<black> para ativar o psych do pin.
 --------------------
-A special Tin Pin used in slam-offs. This one was
-designed by the inventor of the Solid Slammer.
-<red>Press empty space<black> to activate the pin's psych.
+Um pin especial usado em slam-offs. Este foi projetado
+pelo inventor do Solid Slammer. <red>Pressione um
+espaço vazio<black> Para ativar a psicologia do pin.
 --------------------
-A special Tin Pin used in slam-offs. Def M{0191}rch
-devotees were the first to own this tie-in swag.
-<red>Shout into the microphone<black> to activate its psych.
+Um pin de lata especial usado em slam-offs.{0191}Os devotos
+de rch foram os primeiros a possuir essa gravata.
+<red>Grite para o microfone.<black> para ativar sua psique.
 --------------------
-A special Tin Pin used in slam-offs. This rare design was
-<red>never meant to hit store shelves<black>. <red>Slash empty space<black>
-to activate the pin's psych.
+Um pin de lata especial usado em slam-offs. <red>Nunca foi para
+chegar às prateleiras das lojas.<black>. <red>Risque um espaço vazio<black>
+Para ativar a psicologia do pin.
 --------------------
-A special Tin Pin used in slam-offs. The original store
-packaging read: <red>"Manufactured by Evil."<black> <red>Drag across
-empty space<black> to activate its psych.
+Um pin de lata especial usado em slam-offs. A embalagem
+original da loja dizia: <red>"Fabricado pelo mal."<black> <red>Arraste
+através do espaço vazio.<black> para ativar sua psique.
 --------------------
-A powerful, top-class Tin Pin bearing the image of a
-divine beast with dominion over flame. <red>Touch empty
-space<black> to activate his psych.
+Um poderoso estanho de primeira classe, com a imagem
+de uma besta divina com domínio sobre chama. <red>Toque num
+espaço vazio<black> para ativar a psicologia dele.
 --------------------
-A powerful, top-class Tin Pin with a cool design worthy
-of its namesake, the Ice Queen. <red>Rapidly tap empty
-space<black> to activate her psych.
+Um poderoso Tin Pin de primeira classe com um design legal
+digno de seu homônimo, a Rainha do Gelo. <red>Rapidamente toque
+em espaço vazio<black> para ativar seu psych.
 --------------------
-<red>Aka the "Hero Pin."<black> Too bad people can't see past the
-toy; this baby is made of real gold. <red>Scratch empty
-space<black> to activate the pin's psych.
+<red>Aka o "Hero Pin."<black> Pessoas ruins não podem ver além do
+brinquedo, este bebê é feito de ouro real. <red>Raspe um
+espaço vazio<black> Para ativar a psicologia do pin.
 --------------------
-The ultimate Tin Pin, that of the <red>Wyrmking<black>.
-<red>Press empty space<black> to activate his psych, which
-Reapers fearfully call <red>"Mega Flare"<black>.
+O Tin Pin final, o do <red>Wyrmking<black>. <red>Pressione
+espaço vazio<black> para ativar seu psych, que Reapers
+chama temerosamente <red>"Mega Flare"<black>.
 --------------------
-Cash this in for <red>$1<black>.
-Drag pins to the trash can to exchange them for
-money.
+Pegue isso por <red>$1<black> Arraste
+os pins para a lata de lixo para trocá-los por
+dinheiro.
 --------------------
-Cash this in for <red>$5<black>.
-Drag pins to the trash can to exchange them for
-money.
+Pegue isto por <red>$5<black> Arraste
+os pins para a lata de lixo para trocá-los por
+dinheiro.
 --------------------
-Cash this in for <red>$10<black>.
-Drag pins to the trash can to exchange them for
-money.
+Embolse isso por <red>$10<black> Arraste
+os pins para a lata de lixo para trocá-los por
+dinheiro.
 --------------------
-Cash this in for <red>$50<black>.
-Drag pins to the trash can to exchange them for
-money.
+Pegue isto por <red>$50<black> Arraste
+os pins para a lata de lixo para trocá-los por
+dinheiro.
 --------------------
-Cash this in for <red>$100<black>.
-Drag pins to the trash can to exchange them for
-money.
+Pegue isto por <red>$100<black> Arraste
+os pins para a lata de lixo para trocá-los por
+dinheiro.
 --------------------
-Cash this in for <red>$500<black>.
-Drag pins to the trash can to exchange them for
-money.
+Pegue isso por <red>$500<black> Arraste
+os pins para a lata de lixo para trocá-los por
+dinheiro.
 --------------------
-Cash this in for <red>$1,000<black>.
-Drag pins to the trash can to exchange them for
-money.
+Pegue isto por <red>$1,000<black> Arraste
+os pins para a lata de lixo para trocá-los por
+dinheiro.
 --------------------
-Cash this in for <red>$5,000<black>.
-Drag pins to the trash can to exchange them for
-money.
+Embolse isso por <red>$5,000<black> Arraste
+os pins para a lata de lixo para trocá-los por
+dinheiro.
 --------------------
-Cash this in for <red>$10,000<black>.
-Drag pins to the trash can to exchange them for
-money.
+Troque este pin por <red>$10.000<black>.
+Arraste pins até a lixeira para trocá-los
+por dinheiro.
 --------------------
-A pin inlaid with a red gemstone.
-Certain shop quests let you trade this in for an <red>item
-crucial to character growth<black>.
+Um pin incrustado com uma pedra preciosa vermelha, certas
+missões na loja permitem que troque isso por uma pedra preciosa
+vermelha. <red>item crucial para o crescimento do caráter.<black>.
 --------------------
-A pin inlaid with amber gemstones.
-Certain shop quests let you trade this in for <red>some kind
-of item<black>.
+Certos pedidos de compras
+permitem que você troque isso por <red>algum tipo
+de item<black>..
 --------------------
-A pin inlaid with yellow gemstones.
-Certain shop quests let you trade this in for a <red>decent
-item<black>.
+Um pin incrustado de pedras preciosas amarelas, certas
+missões na loja permitem que troque isso por um pin com pedras
+preciosas amarelas. <red>itemdecente<black>.
 --------------------
-A pin inlaid with green gemstones.
-Certain shop quests let you trade this in for a <red>good
-item<black>.
+Certos pedidos de compras
+permitem que você troque isso por um item
+<red>bom<black>..
 --------------------
-A pin inlaid with sky blue gemstones.
-Certain shop quests let you trade this in for an
-<red>amazing item<black>.
+Um pin incrustado de pedras preciosas azuis do céu, certas
+missões na loja permitem que troque isso por uma troca por
+um pin com pedras preciosas azuis. <red>itemincrível<black>.
 --------------------
-A pin inlaid with azure gemstones.
-Certain shop quests let you trade this in for a <red>rare
-item<black>.
+Um pin incrustado de pedras preciosas azuis, certas
+missões na loja permitem que troque isso por um pin com
+pedras preciosas azuis. <red>item raro.<black>.
 --------------------
-A pin inlaid with purple gemstones.
-Certain shop quests let you trade this in for a <red>super-
-rare item<black>.
+Um pin incrustado de pedras preciosas roxas, certas
+missões na loja permitem que troque isso por um pin com pedras
+preciosas roxas. <red>item super-raro<black>.
 --------------------
-<red>Touch empty space<black> to summon Rhyme's squirrel Noise
-to that location, where she will attack any enemies
-present.
+<red>Toque num espaço vazio<black> Para chamar o esquilo de Rhyme,
+Ruído, para aquele local, onde ela atacará qualquer
+inimigo presente.
 --------------------
-Concert swag sold during a show by epic rock trio
-Def M{0191}rch. Fetches <red>$20,000<black> at market. Trade it in at
-a shop for <red>one heck of an item<black>.
+Brinde vendido num show do lendário trio de rock
+Def M{0191}rch. Vale <red>$20.000<black> no mercado. Troque-o
+numa loja por <red>um item incrível<black>.
 --------------------
-Online swag from Eiji Oji's princely serial comic "Pigsty
-Fabulous." Fetches <red>$50,000<black> at market. Trade it in at a
-shop for <red>one heck of an item<black>.
+Brinde digital de "Pigsty Fabulous", a HQ do Prince,
+Eiji Oji. Vale <red>$50.000<black> no mercado. Troque-o
+numa loja por <red>um item incrível<black>.
 --------------------
-This is Sato-chan, lovable stuffed mascot of Bella
-Donna's pharmacy. Fetches <red>$80,000<black> at market.
-Trade it in at a shop for <red>one heck of an item<black>.
+Este é Sato-chan, o simpático mascote de pelúcia
+da farmácia Bella Donna. Vale <red>$80.000<black> no mercado.
+Troque-o numa loja por <red>um item incrível<black>.
 --------------------
-<red>Drag across empty space<black> to create a path of flame.
-Inflicts damage on contact.
+<red>Atraia o espaço vazio<black> para criar
+um caminho de chama.
 --------------------
-<red>Slash an enemy<black> any distance away and Neku will move in
-for a horizontal swipe. <red>Keep slashing<black> for a finisher
-that <red>knocks the enemy back<black>.
+<red>Risque um inimigo<black> A qualquer distância e Neku se moverá
+para um passe horizontal. <red>Continue cortando e cortando.<black>
+para um finalizador que <red>bate o inimigo de volta.<black>.
 --------------------
-<red>Touch the pin<black> to <red>restore HP<black>.
+<red>Toque no pin<black> Para ir para a casa de banho. <red>restaurar HP HP restaurar HP<black>.
 --------------------
-<red>Touch empty space<black> to fire a <red>bullet<black> in that direction.
-Inflicts damage on contact. Limited range.
+<red>Toque num espaço vazio<black> para disparar um fogo a um fogo <red>bala bala de bala.<black>
+nessa direção, causa danos no contato, alcance limitado, alcance limitado...
 --------------------
-<red>Slash across obstacles<black> like cars and signs to fling them
-in that direction. Inflicts damage on contact.
+<red>Embarque em obstáculos<black> como carros e sinais
+para lançá-los nessa direção.
 --------------------
-<red>Touch an enemy<black> to strike it with lightning.
-<red>Touch additional enemies<black> while the lightning flashes for
-a <red>combo<black>.
+<red>Toque em um inimigo<black> para atacá-lo com um raio.
+<red>Toque em inimigos adicionais<black> enquanto o raio pisca para uma
+combinação <red><black>...
 --------------------
-A rare pin often seen changing hands among lady
-Reapers. Wear it to win another's heart. <red>Rapidly tap an
-enemy<black> to activate the pin's psych.
+Um pin raro, muitas vezes visto trocando de mãos entre a
+senhora Reapers. Use-o para ganhar o coração de outro. <red>Toque
+rapidamente em um inimigo<black> para ativar o psych do pin.
 --------------------
-A pin designed by a Reaper with a constant jones for
-curry 'n' rice. Wear it and you'll always have room for
-more. <red>Touch the pin<black> to restore HP.
+Um pin projetado por um Reaper com um jones constante
+para curry 'n' arroz. Use-o e você sempre terá espaço
+para mais. <red>Toque no pin<black> para restaurar HP..
 --------------------
-A pin crafted by a Reaper who loves a good stroll.
-Wear this and life becomes a walk in the park.
-<red>Drag Neku<black> to activate the pin's psych.
+Um pin feito por um Reaper que adora um bom passeio.
+Use isso e a vida se torna um passeio no parque.
+<red>Arraste o Neku<black> Para ativar a psicologia do pin.
 --------------------
-"I'm not antisocial. I'm introspective," muses this pin's
-Reaper designer. <red>Press empty space<black> to activate the
-pin's psych.
+"Eu não sou antissocial, sou introspectivo", reflete o
+designer do Reaper. <red>Pressione um espaço vazio<black> Para ativar
+a psicologia do pin.
 --------------------
-A pin themed after majestic "Fuji Yama,"  Japan's
-tallest and oft-misnomered mountain. <red>Rapidly tap empty
-space<black> to activate its psych.
+Um pin temático após o majestoso "Fuji Yama", a montanha
+mais alta e muitas vezes desconcertada do Japão. <red>Rapidamente
+toque em espaço vazio<black> para ativar seu psych.
 --------------------
-A pin themed after the roly-poly Daruma, a traditional
-Japanese wish doll. <red>Draw a circle in empty space<black> to
-activate its psych.
+Um pin temático depois do roly-poly Daruma, uma boneca
+tradicional japonesa. <red>Desenhe um círculo no espaço vazio.<black>
+para ativar sua psique.
 --------------------
-A pin themed after sushi, that traditional Japanese
-marriage of raw fish 'n' rice. Mmm! <red>Rapidly tap an enemy<black>
-to activate its psych.
+Um pin com tema de sushi, o casamento tradicional
+japonês de peixe cru e arroz. <red>Toque rápido num inimigo<black>
+para ativar sua psique.
 --------------------
-A pin themed around the traditional Japanese
-character meaning "deadly ninja awesomeness."
-<red>Slash across Neku<black> to activate its psych.
+Um pin temático em torno do personagem tradicional
+japonês que significa "impressionante ninja mortal."
+<red>Slash através de Neku<black> para ativar seu psych.
 --------------------
-<red>Rapidly tap empty space<black> to form three icicles.
-Inflicts damage on contact.
+<red>Rapidamente, toque em espaço vazio<black> para
+formar três icículos.
 --------------------
-<red>Press empty space<black> to launch a bullet in that direction
-which <red>fragments on enemy collision<black>. The fragments also
-inflict damage on contact.
+<red>Pressione o espaço vazio<black> para lançar uma bala naquela
+direção que <red>fragmenta na colisão inimiga<black> Os fragmentos
+também causam danos no contato.
 --------------------
-<red>Scratch empty space<black> to generate electricity.
-Inflicts damage on contact. Keep scratching to <red>extend
-range<black>.
+<red>Arranhão espaço vazio<black> para gerar eletricidade.
+Inflige danos no contato. Continue coçando até <red>estender
+o alcance<black>...
 --------------------
-<red>Draw a circle in empty space<black> to form a black hole that
-<red>sucks enemies in<black>. No EXP received. (Some enemies may
-not be affected.)
+<red>Desenhe um círculo no espaço vazio<black> para formar um buraco
+negro que <red>suga inimigos em<black>. Nenhum EXP recebido. (Alguns
+inimigos podem não ser afetados.)
 --------------------
-<red>Touch empty space<black> and Neku will <red>teleport<black> to that
-location.
+<red>Toque em espaço vazio<black> e Neku vai <red>teletransportar<black>
+para esse local.
 --------------------
-<red>Touch an enemy<black> to strike it with lightning.
-<red>Touch additional enemies<black> while the lightning flashes for
-a <red>combo<black>.
+<red>Toque em um inimigo<black> para atacá-lo com um raio.
+<red>Toque em inimigos adicionais<black> enquanto o raio pisca para uma
+combinação <red><black>...
 --------------------
-<red>Touch empty space<black> to drop <red>five boulders<black> on that
-position. Inflicts damage on contact. Rapidly tap to
-rain more stones down.
+<red>Toque em espaço vazio<black> para soltar <red>cinco pedregulhos<black>
+nessa posição. Inflige danos no contato. Rapidamente
+toque para chover mais pedras.
 --------------------
-<red>Touch empty space<black> to fire a <red>penetrating bullet<black> in that
-direction. Inflicts damage on contact.
+<red>Toque num espaço vazio<black> para disparar um fogo a um fogo
+<red>balapenetrante<black> nessa direção, causa danos no contato.
 --------------------
-<red>Touch empty space<black> to fire a <red>penetrating boomerang<black> in
-that direction. Inflicts damage on contact.
+<red>Toque num espaço vazio<black> para disparar um fogo a um fogo <red>penetrante
+boomerangangang.<black> nessa direção, causa danos no contato.
 --------------------
-<red>Blow into the microphone<black> to start a whirlwind.
-Inflicts damage on all enemies and always <red>Immobilizes<black>
-them. (Some enemies may be immune.)
+<red>Sopre no microfone<black> para iniciar um turbilhão. Inflige
+dano em todos os inimigos e sempre <red>Imobiliza<black> eles.
+(Alguns inimigos podem estar imunes.)
 --------------------
-<red>Slash vertically down on an enemy<black> and Neku will teleport
-above it and attack with a <red>downward stab<black>.
+<red>Slash verticalmente para baixo em um inimigo<black> e Neku se
+teletransportará acima dele e atacará com uma facada <red>para baixo<black>..
 --------------------
-<red>Press an enemy<black> to encase it in ice and stop it from
-moving. (Some enemies may not be affected.)
+<red>Pressione um inimigo<black> para colocá-lo no gelo e impedi-lo
+de se mover. (Alguns inimigos podem não ser afetados.)
 --------------------
-<red>Slash across Neku<black> to launch a small flame orb in that
-direction. Inflicts damage on contact. Orbs <red>rebound off
-walls and enemies<black>.
+<red>Slash através de Neku<black> para lançar uma pequena esfera de
+chama nessa direção. Inflige danos no contato. Orbs <red>rebote
+fora paredes e inimigos<black>...
 --------------------
-<red>Slash across Neku<black> to fire a <red>two-way penetrating
-boomerang<black> in that direction. Inflicts damage on
-contact.
+<red>Cortar em Neku<black> para disparar um fogo a um fogo
+<red>bidirecional penetrante bumerangangue bumerangue.<black>
+nessa direção, causa danos no contato.
 --------------------
-<red>Press Neku and release<black> to unleash a <red>vicious slicing
-attack<black>. Neku will be unable to move mid-press, but
-<red>longer presses yield more power<black>.
+<red>Pressione Neku e solte Neku.<black> paralibertaruma <red>ataque decorte
+vicioso<black>Nekuseráincapaz demover aimprensa central,mas
+<red>prensas mais longas produzem mais potência.<black>.
 --------------------
-<red>Touch empty space<black> to place a bomb in that location
-which <red>explodes after a set amount of time<black>.
+<red>Toque num espaço vazio<black> para colocar uma bomba naquele local em
+que lugar... <red>explode depois de um determinado período de tempo.<black>.
 --------------------
-<red>Scratch empty space<black> to cause a tremor.
-Inflicts damage and sometimes <red>Immobilizes<black> enemies.
+<red>Arranhar espaço vazio<black> para causar um
+tremor. Inflige danos e às vezes <red>Imobiliza inimigos<black>.
 --------------------
-<red>Drag obstacles<black> like cars and signs around.
-Inflicts damage on contact.
+<red>Arraste obstáculos<black> como carros
+e placas ao redor.
 --------------------
-<red>Press empty space<black> to create a pillar of fire.
-Inflicts damage and sometimes <red>HP Drain<black> on contact.
+<red>Pressione o espaço vazio<black> para criar um pilar
+de fogo. Inflige danos e às vezes <red>HP Dren<black> em contato.
 --------------------
-<red>Press empty space<black> to fire a <red>powerful,
-penetrating beam<black> in that direction. Inflicts heavy
-damage on contact.
+<red>Pressione um espaço vazio<black> para disparar um fogo a um
+fogo <red>poderoso, penetrante feixe de feixe<black> nessa direção,
+causa danos pesados ao contato.
 --------------------
-<red>Greatly increases your drop rate<black>, but in exchange you
-stop receiving EXP and PP.
+<red>Muito aumenta a sua taxa de pins.<black>Mas em troca você
+para de receber EXP e PP.
 --------------------
-<red>Press Neku<black> and remain stationary to create a flame
-barrier that <red>wards off enemy attacks<black> and <red>harms
-enemies<black> on contact.
+<red>Pressione o Neku<black> e permaneça parado para criar uma
+barreira de chama que... <red>afastaataquesinimigos<black> e
+<red>prejudicainimigos<black> em contato.
 --------------------
-<red>Shout into the microphone<black> to create a shock wave.
-Inflicts continuous damage on all enemies and
-sometimes <red>HP Drain<black>.
+<red>Grite no microfone<black> para criar uma onda de choque.
+Inflige dano contínuo em todos os inimigos
+e às vezes <red>HP Dren<black>..
 --------------------
-<red>Drag Neku<black> into a dash and <red>smash<black> him into enemies.
-Inflicts damage.
+<red>Arraste Neku<black> em um traço e <red>esmague<black> ele em inimigos.
+Inflige dano.
 --------------------
-<red>Touch empty space<black> to create a small, stationary orb
-of water. Orbs inflict damage on contact and then
-<red>rebound a good distance<black>.
+<red>Toque em espaço vazio<black> para criar uma pequena esfera
+estacionária de água. Orbs infligir danos ao contato e,
+em seguida, <red>recuperar uma boa distância<black>...
 --------------------

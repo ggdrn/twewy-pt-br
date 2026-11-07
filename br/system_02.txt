@@ -1,573 +1,573 @@
-Increases your <red>drop rate<black> by 1.
+Aumenta em 1 a <red>taxa de pins<black>.
 --------------------
-Increases your <red>drop rate<black> by 3.
+Aumenta em 3 a <red>taxa de pins<black>.
 --------------------
-Increases your <red>drop rate<black> by 5.
+Aumenta em 5 a <red>taxa de pins<black>.
 --------------------
-Increases your <red>drop rate<black> by 7.
+Aumenta em 7 a <red>taxa de pins<black>.
 --------------------
-Increases your <red>drop rate<black> by 9.
+Aumenta em 9 a <red>taxa de pins<black>.
 --------------------
-Increases your <red>drop rate<black> by 11.
+Aumenta em 11 a <red>taxa de pins<black>.
 --------------------
-Increases your <red>drop rate<black> by 13.
+Aumenta em 13 a <red>taxa de pins<black>.
 --------------------
-Increases your <red>drop rate<black> by 15.
+Aumenta em 15 a <red>taxa de pins<black>.
 --------------------
-Increases your <red>drop rate<black> by 17.
+Aumenta em 17 a <red>taxa de pins<black>.
 --------------------
-Increases your <red>drop rate<black> by 20.
+Aumenta em 20 a <red>taxa de pins<black>.
 --------------------
-Increases your <red>drop rate<black> by 23.
+Aumenta em 23 a <red>taxa de pins<black>.
 --------------------
-Increases your <red>drop rate<black> by 26.
+Aumenta em 26 a <red>taxa de pins<black>.
 --------------------
-Increases your <red>drop rate<black> by 30.
+Aumenta em 30 a <red>taxa de pins<black>.
 --------------------
-Increases your <red>drop rate<black> by 2.
+Aumenta em 2 a <red>taxa de pins<black>.
 --------------------
-Displays the amount of <red>time<black> elapsed during battle.
+Exibe o <red>tempo<black> decorrido durante a batalha.
 --------------------
-When <blue>Neku<black> wears this, <red>no obstacles appear<black> on the
-battlefield.
+Quando <blue>Neku<black> equipa este item, <red>nenhum obstáculo
+aparece<black> na batalha.
 --------------------
-Changes the background music.
+Muda a música de fundo.
 --------------------
-When <blue>Shiki<black> wears this, she receives <red>1 free Fusion {0140}<black> as
-soon as she enters a battle.
+Com este item, <blue>Shiki<black> ganha <red>1 {0140} de Fusão grátis<black>
+no início da batalha.
 --------------------
-When <blue>Shiki<black> wears this, she receives <red>2 free Fusion {0140}s<black>
-as soon as she enters a battle.
+Com este item, <blue>Shiki<black> ganha <red>2 {0140}s de Fusão
+grátis<black> no início da batalha.
 --------------------
-When <blue>Joshua<black> wears this, he receives <red>1 free Fusion {0140}<black>
-as soon as he enters a battle.
+Com este item, <blue>Joshua<black> ganha <red>1 {0140} de Fusão
+grátis<black> no início da batalha.
 --------------------
-When <blue>Joshua<black> wears this, he receives <red>2 free Fusion {0140}s<black>
-as soon as he enters a battle.
+Com este item, <blue>Joshua<black> ganha <red>2 {0140}s de Fusão
+grátis<black> no início da batalha.
 --------------------
-When <blue>Joshua<black> wears this, he receives <red>3 free Fusion {0140}s<black>
-as soon as he enters a battle.
+Com este item, <blue>Joshua<black> ganha <red>3 {0140}s de Fusão
+grátis<black> no início da batalha.
 --------------------
-When <blue>Beat<black> wears this, he receives <red>1 free Fusion {0140}<black> as
-soon as he enters a battle.
+Com este item, <blue>Beat<black> ganha <red>1 {0140} de Fusão grátis<black>
+no início da batalha.
 --------------------
-When <blue>Beat<black> wears this, he receives <red>2 free Fusion {0140}s<black> as
-soon as he enters a battle.
+Com este item, <blue>Beat<black> ganha <red>2 {0140}s de Fusão grátis<black>
+no início da batalha.
 --------------------
-When <blue>Beat<black> wears this, he receives <red>3 free Fusion {0140}s<black> as
-soon as he enters a battle.
+Com este item, <blue>Beat<black> ganha <red>3 {0140}s de Fusão grátis<black>
+no início da batalha.
 --------------------
-When <blue>Beat<black> wears this, he receives <red>4 free Fusion {0140}s<black> as
-soon as he enters a battle.
+Com este item, <blue>Beat<black> ganha <red>4 {0140}s de Fusão grátis<black>
+no início da batalha.
 --------------------
-When <blue>Shiki<black> wears this, she receives <red>3 free Fusion {0140}s<black>
-as soon as she enters a battle.
+Com este item, <blue>Shiki<black> ganha <red>3 {0140}s de Fusão
+grátis<black> no início da batalha.
 --------------------
-When <blue>your partner<black> wears this, the number of combo
-panels <red>increases by 1<black>.
+Quando <blue>seu parceiro<black> usa isso, o número de painéis
+combinados <red>aumenta em 1<black>...
 --------------------
-When <blue>your partner<black> wears this, the number of combo
-panels <red>increases by 2<black>.
+Quando? <blue>o seuparceiro<black> Usa isso, o número de painéis
+combinados. <red>aumenta em 2 por 2 aumentos.<black>.
 --------------------
-When <blue>your partner<black> wears this, the number of combo
-panels <red>decreases by 1<black>.
+Quando <blue>seu parceiro<black> usa isso, o número de painéis
+combinados <red>diminui em 1<black>..
 --------------------
-When <blue>Beat<black> wears this, his ground combo map changes
-to the shape of a <red>staff<black>.
+Com este item, o mapa de combos de <blue>Beat<black> no chão
+fica no formato de <red>cajado<black>.
 --------------------
-When <blue>Shiki<black> wears this, her ground combo map changes
-to the shape of a <red>club<black>.
+Com este item, o mapa de combos de <blue>Shiki<black> no chão
+fica no formato de <red>porrete<black>.
 --------------------
-When <blue>Joshua<black> wears this, his ground combo map changes
-to the shape of a <red>dagger<black>.
+Com este item, o mapa de combos de <blue>Joshua<black> no chão
+fica no formato de <red>adaga<black>.
 --------------------
-When <blue>Shiki<black> wears this, her ground combo map changes
-to the shape of a <red>lance<black>.
+Com este item, o mapa de combos de <blue>Shiki<black> no chão
+fica no formato de <red>lança<black>.
 --------------------
-When <blue>Shiki<black> wears this, her ground combo map changes
-to the shape of a <red>saber<black>.
+Com este item, o mapa de combos de <blue>Shiki<black> no chão
+fica no formato de <red>sabre<black>.
 --------------------
-When <blue>Joshua<black> wears this, his ground combo map changes
-to the shape of a <red>cactus<black>.
+Com este item, o mapa de combos de <blue>Joshua<black> no chão
+fica no formato de <red>cacto<black>.
 --------------------
-When <blue>Beat<black> wears this, his ground combo map changes
-to the shape of a <red>lightning bolt<black>.
+Com este item, o mapa de combos de <blue>Beat<black> no
+chão fica no formato de <red>raio<black>.
 --------------------
-When <blue>Joshua<black> wears this, his ground combo map changes
-to the shape of a <red>trident<black>.
+Com este item, o mapa de combos de <blue>Joshua<black> no chão
+fica no formato de <red>tridente<black>.
 --------------------
-When <blue>Shiki<black> wears this, her ground combo map changes
-to the shape of a <red>folding fan<black>.
+Com este item, o mapa de combos de <blue>Shiki<black> no chão
+fica no formato de <red>leque<black>.
 --------------------
-When <blue>Shiki<black> wears this, her air combo map changes to
-the shape of a <red>staff<black>.
+Com este item, o mapa de combos de <blue>Shiki<black> no ar fica
+no formato de <red>cajado<black>.
 --------------------
-When <blue>Beat<black> wears this, his air combo map changes to
-the shape of a <red>club<black>.
+Com este item, o mapa de combos de <blue>Beat<black> no ar fica
+no formato de <red>porrete<black>.
 --------------------
-When <blue>Joshua<black> wears this, his air combo map changes to
-the shape of a <red>dagger<black>.
+Com este item, o mapa de combos de <blue>Joshua<black> no ar fica
+no formato de <red>adaga<black>.
 --------------------
-When <blue>Beat<black> wears this, his air combo map changes to
-the shape of a <red>lance<black>.
+Com este item, o mapa de combos de <blue>Beat<black> no ar fica
+no formato de <red>lança<black>.
 --------------------
-When <blue>Beat<black> wears this, his air combo map changes to
-the shape of a <red>saber<black>.
+Com este item, o mapa de combos de <blue>Beat<black> no ar fica
+no formato de <red>sabre<black>.
 --------------------
-When <blue>Shiki<black> wears this, her air combo map changes to
-the shape of a <red>cactus<black>.
+Com este item, o mapa de combos de <blue>Shiki<black> no ar fica
+no formato de <red>cacto<black>.
 --------------------
-When <blue>Joshua<black> wears this, his air combo map changes to
-the shape of a <red>lightning bolt<black>.
+Com este item, o mapa de combos de <blue>Joshua<black> no
+ar fica no formato de <red>raio<black>.
 --------------------
-When <blue>Beat<black> wears this, his air combo map changes to
-the shape of a <red>trident<black>.
+Com este item, o mapa de combos de <blue>Beat<black> no ar fica
+no formato de <red>tridente<black>.
 --------------------
-When <blue>Joshua<black> wears this, his air combo map changes to
-the shape of a <red>folding fan<black>.
+Com este item, o mapa de combos de <blue>Joshua<black> no ar
+fica no formato de <red>leque<black>.
 --------------------
-When <blue>your partner<black> wears this, the number of combo
-branches <red>increases by 1<black>.
+Quando <blue>seu parceiro<black> usa isso, o número de ramos
+combinados <red>aumenta em 1<black>..
 --------------------
-When <blue>your partner<black> wears this, the number of combo
-branches <red>increases by 2<black>.
+Quando <blue>seu parceiro<black> usa isso, o número de ramos
+combinados <red>aumenta em 2<black>..
 --------------------
-When <blue>Neku<black> wears this, obstacle durability <red>increases by
-1<black>.
+Quando? <blue>Neku<black> usaisso,durabilidade deobstáculos <red>aumenta em
+1 1 por cento.<black>.
 --------------------
-When <blue>Neku<black> wears this, obstacles become <red>twice as
-durable<black>.
+Quando <blue>Neku<black> usa isso, os obstáculos se tornam <red>duas
+vezes mais duráveis<black>...
 --------------------
-When <blue>Neku<black> wears this, obstacles become <red>three times
-as durable<black>.
+Quando <blue>Neku<black> usa isso, os obstáculos se tornam <red>três
+vezes mais duráveis<black>...
 --------------------
-When <blue>your partner<black> wears this, the combo map stays
-visible for a <red>longer period of time<black>.
+Quando? <blue>o seuparceiro<black> usa isso, o mapa combinado permanece visível
+para um mapa de combinação. <red>maior período de tempo de tempo.<black>.
 --------------------
-Sometimes inflicts <red>HP Drain<black> on enemies at the start of
-battle.
+s vezes inflige <red>HP Drenagem<black> em inimigos no início da
+batalha.
 --------------------
-Sometimes inflicts <red>Attack Break<black> on enemies at the
-start of battle.
+s vezes, inflige <red>Ataque Quebra<black> em inimigos no
+início da batalha.
 --------------------
-Sometimes inflicts <red>Defense Break<black> on enemies at the
-start of battle.
+s vezes, inflige <red>Defence Break<black> aos inimigos no
+início da batalha.
 --------------------
-Sometimes <red>Immobilizes<black> enemies at the start of battle.
+s vezes <red>Imobiliza<black> inimigos no início da batalha.
 --------------------
-Always inflicts <red>Attack Break<black> on enemies at the start
-of battle. (Some enemies may be immune.)
+Sempre inflige <red>Ataque Quebra<black> em inimigos no início da
+batalha. (Alguns inimigos podem estar imunes.)
 --------------------
-Always inflicts <red>Defense Break<black> on enemies at the start
-of battle. (Some enemies may be immune.)
+Sempre inflige <red>Defence Break<black> em inimigos no início da
+batalha. (Alguns inimigos podem estar imunes.)
 --------------------
-Adds <red>1 extra use<black> to psychs with a limited number of
-uses.
+Adiciona <red>1 uso extra<black> ao psychs com um número limitado
+de usos.
 --------------------
-Adds <red>2 extra uses<black> to psychs with a limited number of
-uses.
+Adiciona <red>2 usos extras<black> ao psychs com um número limitado
+de usos.
 --------------------
-Reduces the <red>rate at which pin gauges are depleted<black>.
+Reduz a taxa <red>na qual os medidores de pin estão esgotados<black>...
 --------------------
-Greatly reduces the <red>rate at which pin gauges are
-depleted<black>.
+Reduz muito a taxa <red>na qual os calibres dos pins
+estão esgotados<black>..
 --------------------
-Awards <red>bonus EXP<black> for pulling off air combos in battle.
+Prémios <red>bônus EXP EXP VAL.<black> Por fazer combos de ar na batalha.
 --------------------
-Extends the duration of <red>HP Drain's<black> negative effects
-on enemies.
+Estende a duração da duração de duração. <red>HP Drain's Drenagem
+de HP<black> efeitos negativos sobre os inimigos.
 --------------------
-Greatly extends the duration of <red>HP Drain's<black> negative
-effects on enemies.
+Estende-se muito a duração da duração do tempo. <red>HP Drain's
+Drenagem de HP<black> efeitos negativos sobre os inimigos.
 --------------------
-Extends the duration of <red>Attack Break's<black> negative
-effects on enemies.
+Estende a duração da duração de duração. <red>Attack Break's
+Break é um ataque.<black> efeitos negativos sobre os inimigos.
 --------------------
-Greatly extends the duration of <red>Attack Break's<black>
-negative effects on enemies.
+Estende-se muito a duração da duração do tempo. <red>Attack Break's
+Break é um ataque.<black> efeitos negativos sobre os inimigos.
 --------------------
-Extends the duration of <red>Defense Break's<black> negative
-effects on enemies.
+Estende a duração da duração de duração. <red>Quebra deDefesa<black>
+efeitos negativos sobre os inimigos.
 --------------------
-Greatly extends the duration of <red>Defense Break's<black>
-negative effects on enemies.
+Estende-se muito a duração da duração do tempo. <red>Quebra
+deDefesa<black> efeitos negativos sobre os inimigos.
 --------------------
-Extends the duration of <red>Immobility's<black> negative effects
-on enemies.
+Estende a duração da duração de duração. <red>Imobiliária é a
+mobilidade.<black> efeitos negativos sobre os inimigos.
 --------------------
-Greatly extends the duration of <red>Immobility's<black> negative
-effects on enemies.
+Estende-se muito a duração da duração do tempo. <red>Imobiliária
+é a mobilidade.<black> efeitos negativos sobre os inimigos.
 --------------------
-Increases how often you inflict <red>HP Drain<black>.
+Aumenta a frequência com que você inflige. <red>Drenagem de HP Drain<black>.
 --------------------
-Greatly increases how often you inflict <red>HP Drain<black>.
+Aumenta muito a frequência com que você inflige. <red>Drenagem de HP Drain<black>.
 --------------------
-Increases how often you inflict <red>Attack Break<black>.
+Aumenta a frequência com que você inflige <red>Attack Break<black>..
 --------------------
-Greatly increases how often you inflict <red>Attack Break<black>.
+Muito aumenta a frequência com que você inflige <red>Attack Break<black>..
 --------------------
-Increases how often you inflict <red>Defense Break<black>.
+Aumenta a frequência com que você inflige <red>Defence Break<black>..
 --------------------
-Greatly increases how often you inflict <red>Defense Break<black>.
+Muito aumenta a frequência com que você inflige <red>Defence Break<black>..
 --------------------
-Increases how often you <red>Immobilize<black> enemies.
+Aumenta a frequência com que vocês <red>imobilizam<black> inimigos.
 --------------------
-Greatly increases how often you <red>Immobilize<black> enemies.
+Muito aumenta a frequência com que vocês <red>se imobilizam<black> inimigos.
 --------------------
-Slightly increases the amount of <red>EXP<black> you get.
+Ligeiramente aumenta a quantidade de quantidade. <red>EXP<black> Você consegue.
 --------------------
-Increases the amount of <red>EXP<black> you get.
+Aumenta a quantidade de <red>EXP<black> que você recebe.
 --------------------
-Places whichever partner wears it in <red>mortal peril<black> at the
-start of battle, but in return greatly increases the
-amount of <red>EXP<black> you get.
+Lugares em que oparceiro ousa <red>perigo mortal<black> no início da batalha,
+mas em troca aumenta muito a quantidade de dinheiro que você
+tem no início da batalha. <red>EXP<black> Você consegue.
 --------------------
-Greatly increases the amount of <red>EXP<black> you get.
+Muito aumenta a quantidade de quantidade de aumentos. <red>EXP<black> Você consegue.
 --------------------
-Temporarily displays an <red>enemy's HP<black> when you attack it.
+Mostratemporariamenteuma <red>HP do inimigo<black> Quando você ataca.
 --------------------
-When <blue>your partner<black> wears this, combo finishers will
-sometimes inflict <red>HP Drain<black> on enemies.
+Quando? <blue>o seuparceiro<black> usaisto,combinaosacabamentosàsvezesinfligir
+<red>Drenagem de HP Drain<black> nos inimigos.
 --------------------
-When <blue>your partner<black> wears this, combo finishers will
-sometimes inflict <red>Attack Break<black> on enemies.
+Quando? <blue>o seuparceiro<black> usaisto,combinaosacabamentosàsvezesinfligir
+<red>Ataque Break Break Quebrar ataque<black> nos inimigos.
 --------------------
-When <blue>your partner<black> wears this, combo finishers will
-sometimes inflict <red>Defense Break<black> on enemies.
+Quando? <blue>o seuparceiro<black> usaisto,combinaosacabamentosàsvezesinfligir
+<red>Quebra deDefesa<black> nos inimigos.
 --------------------
-When <blue>your partner<black> wears this, combo finishers will
-sometimes <red>Immobilize<black> enemies, but as a trade-off <blue>Neku<black>
-will move more slowly.
+Quando? <blue>o seuparceiro<black> Usa isso, os finalizadores de
+combinação às vezes usam isso. <red>Imobilize-se e se mobilize.<black>
+inimigos,mascomoumatroca <blue>Neku<black> se moverá mais devagar.
 --------------------
-When <blue>your partner<black> wears this, combo finishers will
-sometimes <red>Immobilize<black> enemies.
+Quando? <blue>o seuparceiro<black> Usa isso, os finalizadores de combinação
+às vezes usam isso. <red>Imobilize-se e se mobilize.<black> inimigos.
 --------------------
-When <blue>Neku<black> wears this, the HITS counter takes <red>a little
-longer to disappear<black>.
+Quando? <blue>Neku<black> usa isso, o contador HITS leva leva isso.
+<red>um pouco mais para desaparecer.<black>.
 --------------------
-When <blue>Neku<black> wears this, the HITS counter takes <red>longer
-to disappear<black>.
+Quando? <blue>Neku<black> usa isso, o contador HITS leva leva isso.
+<red>mais tempo paradesaparecer<black>.
 --------------------
-When <blue>Neku<black> wears this, the HITS counter takes <red>a lot
-longer to disappear<black>, but in exchange, enemy attacks
-will <red>knock him back<black>.
+Quando? <blue>Neku<black> usa isso, o contador HITS leva leva isso.
+<red>Muito mais tempo para desaparecer.<black>, mas em troca, os
+ataques inimigos irão atacar. <red>devolvê-lo a ele.<black>.
 --------------------
-When <blue>Neku<black> wears this, the HIT counter takes <red>a lot
-longer to disappear<black>.
+Quando? <blue>Neku<black> usa isso, o contador de HIT leva leva
+isso. <red>Muito mais tempo para desaparecer.<black>.
 --------------------
-When <blue>your partner<black> wears this, <red>blocks<black> work better.
+Quando <blue>seu parceiro<black> usa isso, <red>blocos<black> funcionam melhor.
 --------------------
-Makes the wearer slightly less vulnerable to <red>HP Drain<black>.
+Torna o usuário um pouco menos vulnerável a <red>Dreno HP<black>..
 --------------------
-Makes the wearer less vulnerable to <red>HP Drain<black>.
+Torna o usuário menos vulnerável a <red>Dreno HP<black>..
 --------------------
-Prevents <red>HP Drain<black>.
+Previne a prevenção. <red>Drenagem de HP Drain<black>.
 --------------------
-Makes the wearer slightly less vulnerable to <red>Attack
-Break<black>.
+Torna o usuário um pouco menos vulnerável a <red>Attack
+Break<black>..
 --------------------
-Makes the wearer less vulnerable to <red>Attack Break<black>.
+Torna o usuário menos vulnerável a <red>Attack Break<black>..
 --------------------
-Prevents <red>Attack Break<black>.
+Previne <red>Quebra de Ataque<black>..
 --------------------
-Makes the wearer slightly less vulnerable to <red>Defense
-Break<black>.
+Torna o usuário um pouco menos vulnerável a <red>Defence
+Break<black>...
 --------------------
-Makes the wearer less vulnerable to <red>Defense Break<black>.
+Torna o usuário menos vulnerável a <red>Defence Break<black>...
 --------------------
-Prevents <red>Defense Break<black>.
+Previne <red>Quebra de Defesa<black>.....
 --------------------
-Makes the wearer slightly less likely to be <red>Immobilized.<black>
+Faz com que ousuáriolevementemenosprovável de ser <red>Imobilizado.<black>
 --------------------
-Makes the wearer less likely to be <red>Immobilized.<black>
+Torna ousuáriomenosprovável de ser <red>Imobilizado.<black>
 --------------------
-Prevents <red>Immobility<black>.
+Previne <red>Imobiliária<black>..
 --------------------
-Prevents the wearer from being <red>knocked back<black> when hit
-by enemy attacks.
+Impede que o usuário seja impedido de ser usado. <red>nocauteado de
+volta para trás.<black> quando atingido por ataques inimigos.
 --------------------
-<red>Nullifies damage<black> a certain percentage of the time when
-the wearer is in <red>mortal peril<black>.
+<red>Nulifica dano<black> uma certa porcentagem do tempo em que o
+usuário está em perigo mortal <red><black>...
 --------------------
-Causes the <red>light puck<black> to start with its power already
-slightly magnified.
+Causa as causas das causas. <red>disco de luz<black> Para começar com
+seu poder já ligeiramente ampliado.
 --------------------
-Causes the <red>light puck<black> to start with its power already
-magnified.
+Causa as causas das causas. <red>disco de luz<black> Para começar com
+seu poder já ampliado.
 --------------------
-Causes the <red>light puck<black> to start with its power already
-greatly magnified.
+Causa as causas das causas. <red>disco de luz<black> para começar com
+seu poder já muito ampliado.
 --------------------
-Keeps the <red>light puck<black> in play a little bit longer before it
-disappears.
+Mantém o que é necessário. <red>disco de luz<black> em jogo um pouco mais
+antes de desaparecer.
 --------------------
-Keeps the <red>light puck<black> in play longer before it disappears.
+Mantém o que é necessário. <red>disco de luz<black> em jogo por mais tempo antes que desapareça.
 --------------------
-Keeps the <red>light puck<black> in play a lot longer before it
-disappears, but in exchange you <red>stop receiving PP<black>.
+Mantém o que é necessário. <red>disco de luz<black> nojogomuitomais
+tempoantes dedesaparecer,mas emtrocavocê <red>parar dereceber PP<black>.
 --------------------
-Keeps the <red>light puck<black> in play a lot longer before it
-disappears.
+Mantém o que é necessário. <red>disco de luz<black> em jogo por muito
+mais tempo antes que desapareça.
 --------------------
-Makes the <red>light puck<black> travel more quickly.
+Faz o que é preciso. <red>disco de luz<black> Viaje mais rápido.
 --------------------
-Makes the <red>light puck<black> travel much more quickly.
+Faz o que é preciso. <red>disco de luz<black> Viaje muito mais rápido.
 --------------------
-Makes the <red>light puck<black> travel more slowly.
+Faz o que é preciso. <red>disco de luz<black> Viaje mais devagar.
 --------------------
-Makes the <red>light puck<black> travel much more slowly.
+Faz o que é preciso. <red>disco de luz<black> Viaje muito mais devagar.
 --------------------
-Regularly <red>restores a very slight amount of HP<black>
-throughout battles.
+Regularmente <red>restaura uma quantidade muito pequena
+de HP<black> durante as batalhas.
 --------------------
-Regularly <red>restores a small amount of HP<black> throughout
-battles.
+Regularmente <red>restaura uma pequena quantidade de HP<black>
+durante as batalhas.
 --------------------
-Regularly <red>restores HP<black> throughout battles, but in
-exchange you <red>stop receiving PP<black>.
+Regularmente <red>restaura HP<black> durante as batalhas, mas
+em troca você <red>parar de receber PP<black>.........
 --------------------
-Regularly <red>restores a large amount of HP<black> throughout
-battles.
+Regularmente <red>restaura uma grande quantidade de HP<black>
+durante as batalhas.
 --------------------
-Regularly <red>restores HP<black> throughout battles.
+Regularmente <red>restaura HP<black> durante as batalhas.
 --------------------
-Increases <red>Attack<black> when the wearer is in <red>mortal peril<black>.
+Aumenta o aumento. <red>Ataque<black> quando o usuário estiver dentro, <red>perigo mortal<black>.
 --------------------
-Greatly increases <red>Attack<black> when the wearer is in <red>mortal
-peril<black>.
+Grandesaumentos <red>Ataque<black> quando o usuário estiver dentro,
+<red>perigo mortal<black>.
 --------------------
-Slightly <red>reduces damage<black> taken from enemy attacks
-when the wearer is in <red>mortal peril<black>.
+Ligeiramente. <red>reduz os danos causados.<black> tirados de ataques
+inimigos quando o usuário está dentro <red>perigo mortal<black>.
 --------------------
-<red>Reduces damage<black> taken from enemy attacks when the
-wearer is in <red>mortal peril<black>.
+<red>Reduz o dano causado por danos.<black> tirados de ataques
+inimigos quando o usuário está dentro <red>perigo mortal<black>.
 --------------------
-When <blue>Joshua<black> wears this, enemies on the top screen will
-<red>move left and right<black> less frequently.
+Quando <blue>Joshua<black> usar isso, os inimigos na tela superior se moverão
+<red>para a esquerda e para a direita<black> com menos frequência.
 --------------------
-When <blue>Shiki<black> wears this, she <red>stops getting mad<black> at you
-for running from battles.
+Quando? <blue>Shiki<black> Elausaisto. <red>Para de enlouquecer.<black> em
+você por fugir de batalhas.
 --------------------
-When <blue>Joshua<black> wears this, he <red>stops getting mad<black> at you
-for running from battles.
+Quando? <blue>Joshua<black> Eleusaisto. <red>Para de enlouquecer.<black> em
+você por fugir de batalhas.
 --------------------
-When <blue>Beat<black> wears this, he <red>stops getting mad<black> at you for
-running from battles.
+Quando? <blue>Beat<black> Eleusaisto. <red>Para de enlouquecer.<black> em você
+por fugir de batalhas.
 --------------------
-Renders whoever has the light puck <red>invincible<black> and
-powers up the puck itself.
+Renderiza quem tem o disco de luz <red>invencível<black>
+e alimenta o próprio disco.
 --------------------
-Renders whoever has the light puck <red>invincible<black> and
-powers up the puck itself.
+Renderiza quem tem o disco de luz <red>invencível<black>
+e alimenta o próprio disco.
 --------------------
-Renders whoever has the light puck <red>invincible<black> and
-powers up the puck itself.
+Renderiza quem tem o disco de luz <red>invencível<black>
+e alimenta o próprio disco.
 --------------------
-Renders whoever has the light puck <red>invincible<black> and
-powers up the puck itself.
+Renderiza quem tem o disco de luz <red>invencível<black>
+e alimenta o próprio disco.
 --------------------
-Renders whoever has the light puck <red>invincible<black> and
-powers up the puck itself.
+Renderiza quem tem o disco de luz <red>invencível<black>
+e alimenta o próprio disco.
 --------------------
-Readies all your pins for <red>instant use<black>, and makes them
-<red>reboot slightly faster<black>.
+Prepara todos os seus pins para <red>uso instantâneo<black>, e faz com
+que eles <red>reiniciem um pouco mais rápido<black>...
 --------------------
-Readies all your pins for <red>instant use<black>, and makes them
-<red>reboot slightly faster<black>.
+Prepara todos os seus pins para <red>uso instantâneo<black>, e faz com
+que eles <red>reiniciem um pouco mais rápido<black>...
 --------------------
-Readies all your pins for <red>instant use<black>, and makes them
-<red>reboot slightly faster<black>.
+Prepara todos os seus pins para <red>uso instantâneo<black>, e faz com
+que eles <red>reiniciem um pouco mais rápido<black>...
 --------------------
-Makes pins <red>reboot faster<black>.
+Faz pins <red>reiniciar mais rápido<black>..
 --------------------
-Boosts the effects of <red>HP recovery<black> pins.
+Aumentaosefeitos de <red>Recuperação de HP<black> Pins.
 --------------------
-Greatly boosts the effects of <red>HP recovery<black> pins.
+Aumenta grandementeosefeitos de <red>Recuperação de HP<black> Pins.
 --------------------
-Increases the <red>PP<black> you get for defeating enemies by
-<red>20%<black>.
+Aumenta o <red>PP<black> você ganha por derrotar inimigos
+em <red>20%<black>..
 --------------------
-Increases the <red>PP<black> you get for defeating enemies by
-<red>30%<black>.
+Aumenta o <red>PP<black> você ganha por derrotar inimigos
+em <red>30%<black>..
 --------------------
-Increases the <red>PP<black> you get for defeating enemies by
-<red>40%<black>.
+Aumenta o <red>PP<black> você ganha por derrotar inimigos
+em <red>40%<black>..
 --------------------
-Increases the <red>PP<black> you get for defeating enemies by
-<red>50%<black>.
+Aumenta o <red>PP<black> você ganha por derrotar inimigos
+em <red>50%<black>..
 --------------------
-Increases the <red>PP<black> you get for defeating enemies by
-<red>60%<black>, but they will <red>no longer drop pins<black>.
+Aumenta a <red>PP<black> vocêcomeça paraderrotarinimigos por <red>60%<black>,
+mas eles vão. <red>jánãosoltar pins<black>.
 --------------------
-Increases the <red>PP<black> you get for defeating enemies by
-<red>80%<black>, but they will <red>no longer drop pins<black>.
+Aumenta a <red>PP<black> vocêcomeça paraderrotarinimigos por <red>80%<black>,
+mas eles vão. <red>jánãosoltar pins<black>.
 --------------------
-<red>Doubles the PP<black> you get for defeating enemies, but
-they will <red>no longer drop pins<black>.
+<red>Dobra o PP PP.<black> você ganha por derrotar inimigos, mas
+eles vão conseguir. <red>jánãosoltar pins<black>.
 --------------------
-Prevents <red>Attack Break<black> and <red>Defense Break<black>.
+Previne <red>Attack Break<black> e <red>Defense Break<black>..
 --------------------
-Prevents <red>HP Drain<black> and <red>Immobility<black>.
+Previne <red>Dreno HP<black> e <red>Imobilidade<black>..
 --------------------
-Prevents <red>all negative statuses<black>.
+Previne a prevenção. <red>todososestadosnegativos<black>.
 --------------------
-Slightly <red>increases Attack<black> and slightly <red>reduces damage<black>
-taken from enemy attacks when the wearer is in <red>mortal
-peril<black>.
+Ligeiramente. <red>aumentaAtaque<black> eligeiramente <red>reduz os danos
+causados.<black> tirados de ataques inimigos quando o usuário
+está dentro <red>perigo mortal<black>.
 --------------------
-<red>Increases Attack<black> and <red>reduces damage<black> taken from
-enemy attacks when the wearer is in <red>mortal peril<black>.
+<red>Aumenta oAtaque<black> e <red>reduz os danos causados.<black> tirados de
+ataques inimigos quando o usuário está dentro <red>perigo mortal<black>.
 --------------------
-When <blue>your partner<black> wears this, the number of combo
-panels and combo branches both <red>increase by 1<black>.
+Quando? <blue>o seuparceiro<black> usaisto, onúmero depainéiscombinados
+eramoscombinadosambos <red>aumento de 1 por 1<black>.
 --------------------
-When <blue>your partner<black> wears this, the number of combo
-panels <red>decreases by 1<black>, and the number of combo
-branches <red>increases by 1<black>.
+Quando <blue>seu parceiro<black> usa isso, o número de painéis
+combinados <red>diminui em 1<black>, e o número de ramos
+combinados <red>aumenta em 1<black>..
 --------------------
-When <blue>your partner<black> wears this, the number of combo
-panels and combo branches both <red>increase by 2<black>.
+Quando? <blue>o seuparceiro<black> usaisto, onúmero depainéiscombinados
+eramoscombinadosambos <red>aumento de 2 por 2<black>.
 --------------------
-When <blue>your partner<black> wears this, it displays how much
-<red>time<black> has elapsed during battle, and briefly shows an
-<red>enemy's HP<black> when you attack it.
+Quando <blue>seu parceiro<black> usa isso, ele mostra quanto
+<red>tempo<black> passou durante a batalha, e brevemente mostra
+um <red>inimigo HP<black> quando você ataca.
 --------------------
-When <blue>your partner<black> wears this, it displays how much
-<red>time<black> has elapsed during battle, and also increases the
-amount of <red>EXP<black> you get.
+Quando <blue>seu parceiro<black> usa isso, ele mostra quanto
+<red>tempo<black> passou durante a batalha, e também aumenta a
+quantidade de <red>EXP<black> você tem.
 --------------------
-Displays the <red>combo map<black> for a longer period of time and
-also keeps the <red>HITS counter<black> visible for longer.
+Exibe o <red>mapa de combos<black> por um longo período de tempo e
+também mantém o <red>contador HITS<black> visível por mais tempo.
 --------------------
-Usually inflicts <red>HP Drain<black> on enemies at the start of
-battle.
+Normalmente inflige <red>HP Drenagem<black> em inimigos no início
+da batalha.
 --------------------
-Always <red>Immobilizes<black> enemies at the start of battle.
-(Some enemies may be immune.)
+Sempre. <red>Imobiliza-se.<black> inimigos no início da batalha.
+(Alguns inimigos podem estar imunes.)
 --------------------
-When <blue>Neku<black> wears this, his <red>Attack<black> increases.
+Quando? <blue>Neku<black> Usa isso, o dele usa isso. <red>Ataque<black> aumenta.
 --------------------
-When <blue>Neku<black> wears this, his <red>Attack<black> increases.
+Quando? <blue>Neku<black> Usa isso, o dele usa isso. <red>Ataque<black> aumenta.
 --------------------
-When <blue>Neku<black> wears this, his <red>Attack<black> increases.
+Quando? <blue>Neku<black> Usa isso, o dele usa isso. <red>Ataque<black> aumenta.
 --------------------
-When <blue>Shiki<black> wears this, her <red>Attack<black> increases.
+Quando? <blue>Shiki<black> Usaisto,ela. <red>Ataque<black> aumenta.
 --------------------
-When <blue>Shiki<black> wears this, her <red>Attack<black> increases.
+Quando? <blue>Shiki<black> Usaisto,ela. <red>Ataque<black> aumenta.
 --------------------
-When <blue>Joshua<black> wears this, his <red>Attack<black> increases.
+Quando? <blue>Joshua<black> Usa isso, o dele usa isso. <red>Ataque<black> aumenta.
 --------------------
-When <blue>Joshua<black> wears this, his <red>Attack<black> increases.
+Quando? <blue>Joshua<black> Usa isso, o dele usa isso. <red>Ataque<black> aumenta.
 --------------------
-When <blue>Beat<black> wears this, his <red>Attack<black> increases.
+Quando? <blue>Beat<black> Usa isso, o dele usa isso. <red>Ataque<black> aumenta.
 --------------------
-When <blue>Beat<black> wears this, his <red>Attack<black> increases.
+Quando? <blue>Beat<black> Usa isso, o dele usa isso. <red>Ataque<black> aumenta.
 --------------------
-Increases <red>Attack<black>.
+Aumenta o aumento. <red>Ataque<black>.
 --------------------
-Increases <red>Attack<black>.
+Aumenta o aumento. <red>Ataque<black>.
 --------------------
-Increases <red>Attack<black>.
+Aumenta o aumento. <red>Ataque<black>.
 --------------------
-Increases <red>Attack<black>.
+Aumenta o aumento. <red>Ataque<black>.
 --------------------
-Places whoever wears it in <red>mortal peril<black> and causes
-enemy attacks to <red>knock them back<black>, but in return
-greatly increases <red>Attack<black>.
+Colocaquem ausar <red>perigo mortal<black> e faz com que ataques
+inimigos ataquem a eles. <red>Derrubá-los de volta.<black>,mas
+emtrocaaumentamuito <red>Ataque<black>.
 --------------------
-When <blue>Neku<black> wears this, his <red>Defense<black> increases.
+Quando? <blue>Neku<black> Usa isso, o dele usa isso. <red>Defesa<black> aumenta.
 --------------------
-When <blue>Neku<black> wears this, his <red>Defense<black> increases.
+Quando? <blue>Neku<black> Usa isso, o dele usa isso. <red>Defesa<black> aumenta.
 --------------------
-When <blue>Neku<black> wears this, his <red>Defense<black> increases.
+Quando? <blue>Neku<black> Usa isso, o dele usa isso. <red>Defesa<black> aumenta.
 --------------------
-When <blue>Shiki<black> wears this, her <red>Defense<black> increases.
+Quando? <blue>Shiki<black> Usaisto,ela. <red>Defesa<black> aumenta.
 --------------------
-When <blue>Shiki<black> wears this, her <red>Defense<black> increases.
+Quando? <blue>Shiki<black> Usaisto,ela. <red>Defesa<black> aumenta.
 --------------------
-When <blue>Joshua<black> wears this, his <red>Defense<black> increases.
+Quando? <blue>Joshua<black> Usa isso, o dele usa isso. <red>Defesa<black> aumenta.
 --------------------
-When <blue>Joshua<black> wears this, his <red>Defense<black> increases.
+Quando? <blue>Joshua<black> Usa isso, o dele usa isso. <red>Defesa<black> aumenta.
 --------------------
-When <blue>Beat<black> wears this, his <red>Defense<black> increases.
+Quando? <blue>Beat<black> Usa isso, o dele usa isso. <red>Defesa<black> aumenta.
 --------------------
-When <blue>Beat<black> wears this, his <red>Defense<black> increases.
+Quando? <blue>Beat<black> Usa isso, o dele usa isso. <red>Defesa<black> aumenta.
 --------------------
-Increases <red>Defense<black>.
+Aumenta o aumento. <red>Defesa<black>.
 --------------------
-Increases <red>Defense<black>.
+Aumenta o aumento. <red>Defesa<black>.
 --------------------
-Increases <red>Defense<black>.
+Aumenta o aumento. <red>Defesa<black>.
 --------------------
-Increases <red>Defense<black>.
+Aumenta o aumento. <red>Defesa<black>.
 --------------------
-When <blue>Neku<black> wears this, his <red>HP<black> increase.
+Quando <blue>Neku<black> usa isso, seu <red>HP<black> aumenta.
 --------------------
-When <blue>Neku<black> wears this, his <red>HP<black> increase.
+Quando <blue>Neku<black> usa isso, seu <red>HP<black> aumenta.
 --------------------
-When <blue>Neku<black> wears this, his <red>HP<black> increase.
+Quando <blue>Neku<black> usa isso, seu <red>HP<black> aumenta.
 --------------------
-When <blue>Shiki<black> wears this, her <red>HP<black> increase.
+Quando? <blue>Shiki<black> Usaisto,ela. <red>HP<black> aumento.
 --------------------
-When <blue>Shiki<black> wears this, her <red>HP<black> increase.
+Quando? <blue>Shiki<black> Usaisto,ela. <red>HP<black> aumento.
 --------------------
-When <blue>Joshua<black> wears this, his <red>HP<black> increase.
+Quando <blue>Joshua<black> usa isso, seu <red>HP<black> aumenta.
 --------------------
-When <blue>Joshua<black> wears this, his <red>HP<black> increase.
+Quando <blue>Joshua<black> usa isso, seu <red>HP<black> aumenta.
 --------------------
-When <blue>Beat<black> wears this, his <red>HP<black> increase.
+Quando? <blue>Beat<black> Usa isso, o dele usa isso. <red>HP<black> aumento.
 --------------------
-When <blue>Beat<black> wears this, his <red>HP<black> increase.
+Quando? <blue>Beat<black> Usa isso, o dele usa isso. <red>HP<black> aumento.
 --------------------
-Increases <red>HP<black>.
+Aumenta o aumento. <red>HP<black>.
 --------------------
-Increases <red>HP<black>.
+Aumenta o aumento. <red>HP<black>.
 --------------------
-Increases <red>HP<black>.
+Aumenta o aumento. <red>HP<black>.
 --------------------
-Increases <red>HP<black>.
+Aumenta o aumento. <red>HP<black>.
 --------------------
-Increases <red>Attack, Defense, and HP<black>.
+Aumenta o aumento. <red>Ataque, defesa e HP.<black>.
 --------------------
-When <blue>Neku<black> wears this, his <red>Attack, Defense, and HP<black>
-increase, and the HITS counter also takes <red>longer to
-disappear<black>.
+Quando <blue>Neku<black> usa isso, seu <red>Ataque, Defesa e HP<black>
+aumentam, e o contador HITS também leva <red>mais tempo
+para desaparecer<black>...
 --------------------
-Slows <blue>Neku's<black> movement.
+Devagar <blue>Neku movimento<black>.
 --------------------
-Places <blue>Neku<black> in <red>mortal peril<black> at the start of battle, but
-in return greatly increases his <red>Attack<black> and <red>EXP<black>
-received.
+Locais <blue>Neku<black> em <red>perigo mortal<black> no início da batalha,
+mas em troca aumenta muito o seu <red>Ataque<black> e <red>EXP<black>
+recebido.
 --------------------
-Greatly increases your drop rate, but in exchange you
-<red>stop receiving EXP and PP<black>.
+Aumenta muito sua taxa de pins, mas em troca você aumenta
+sua taxa de pins. <red>Pare de receber EXP e PP PP.<black>.
 --------------------
-Increases the power of <blue>D+B<black> brand pins.
+Aumenta o poder do poder de... <blue>D+B<black> Pins de marca.
 --------------------
-Increases the power of <blue>Natural Puppy<black> brand pins.
+Aumenta o poder do poder de... <blue>Natural Puppy<black> Pins de marca.
 --------------------
-Increases the power of <blue>Pavo Real<black> brand pins.
+Aumenta o poder do poder de... <blue>Pavo Real<black> Pins de marca.
 --------------------
-Increases the power of <blue>Mus Rattus<black> brand pins.
+Aumenta o poder do poder de... <blue>Mus Rattus<black> Pins de marca.
 --------------------
-Increases the power of <blue>Jupiter of the Monkey<black> brand
-pins.
+Aumenta o poder dos pins da marca
+<blue>Jupiter of the Monkey<black>.
 --------------------
-Increases the power of <blue>Hip Snake<black> brand pins.
+Aumenta o poder do poder de... <blue>Hip Snake<black> Pins de marca.
 --------------------
-Increases the power of <blue>Sheep Heavenly<black> brand pins.
+Aumenta o poder do poder de... <blue>Sheep Heavenly<black> Pins de marca.
 --------------------
-Increases the power of <blue>Tigre Punks<black> brand pins.
+Aumenta o poder do poder de... <blue>Tigre Punks<black> Pins de marca.
 --------------------
-Increases the power of <blue>Dragon Couture<black> brand pins.
+Aumenta o poder do poder de... <blue>Dragon Couture<black> Pins de marca.
 --------------------
-Increases the power of <blue>Lapin Angelique<black> brand pins.
+Aumenta o poder do poder de... <blue>Lapin Angelique<black> Pins de marca.
 --------------------
-Increases the power of <blue>Pegaso<black> brand pins.
+Aumenta o poder do poder de... <blue>Pegaso<black> Pins de marca.
 --------------------
-Increases the power of <blue>Wild Boar<black> brand pins.
+Aumenta o poder do poder de... <blue>Wild Boar<black> Pins de marca.
 --------------------
-Increases the power of <blue>Gatito<black> brand pins.
+Aumenta o poder do poder de... <blue>Gatito<black> Pins de marca.
 --------------------
 
 --------------------
@@ -715,403 +715,403 @@ Increases the power of <blue>Gatito<black> brand pins.
 --------------------
 
 --------------------
-{0228}Mother Lode
+Mãe Lode Lode {0228} Mãe Lode Lode
 --------------------
-{0228}Godmother Lode
+{0228} madrinha Lode, Lode.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-{0228}Stepmother Lode
+{0228}Madrasta Lode, Lode.
 --------------------
-{0228}Display Time
+{0228}Tempo deexibição
 --------------------
-{0228}No Obstacles
+{0228} Não há obstáculos.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-{0228}Shiki: Fusion {0140} +1
+{0228}Shiki: Fusão {0140} +1
 --------------------
-{0228}Shiki: Fusion {0140} +2
+{0228}Shiki: Fusão {0140} +2
 --------------------
-{0228}Joshua: Fusion {0140} +1
+{0228}Joshua: Fusão {0140} +1
 --------------------
-{0228}Joshua: Fusion {0140} +2
+{0228}Joshua: Fusão {0140} +2
 --------------------
-{0228}Joshua: Fusion {0140} +3
+{0228}Joshua: Fusão {0140} +3
 --------------------
-{0228}Beat: Fusion {0140} +1
+{0228}Beat: Fusão {0140} +1
 --------------------
-{0228}Beat: Fusion {0140} +2
+{0228}Beat: Fusão {0140} +2
 --------------------
-{0228}Beat: Fusion {0140} +3
+{0228}Beat: Fusão {0140} +3
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-{0228}Shiki: Fusion {0140} +3
+{0228}Shiki: Fusão {0140} +3
 --------------------
-{0228}Combo Panel +1
+{0228}Painel de combo +1
 --------------------
-{0228}Combo Panel +2
+{0228}Painel de combo +2
 --------------------
-{0228}Combo Panel -1
+{0228}Painel de combo -1
 --------------------
-{0228}Beat: Ground Combo A
+{0228}Combo de terra A A Combo de chão A
 --------------------
-{0228}Shiki: Ground Combo A
+{0228}Combo de terra A A Combo de chão
 --------------------
-{0228}Joshua: Ground Combo A
+{0228} Joshua: Combo de solo A: Combo de solo A.
 --------------------
-{0228}Shiki: Ground Combo B
+{0228}Shiki: Combo B do solo
 --------------------
-{0228}Shiki: Ground Combo C
+{0228}Combo de solo C C, combo de terra C.
 --------------------
-{0228}Joshua: Ground Combo B
+{0228}Josué: Combo B do Terreno
 --------------------
-{0228}Beat: Ground Combo B
+{0228}Bater: Combo deterra B
 --------------------
-{0228}Joshua: Ground Combo C
+{0228} Joshua: Combo de solo C: Combo de solo C:
 --------------------
-{0228}Shiki: Ground Combo D
+{0228}Shiki: Combo D do solo
 --------------------
-{0228}Shiki: Air Combo A
+{0228} Shiki: Combo de ar A Air Combo A:
 --------------------
-{0228}Beat: Air Combo A
+{0228} Beat: Air Combo A A Air Combo A
 --------------------
-{0228}Joshua: Air Combo A
+{0228} Joshua: Combo de ar A Air Combo A:
 --------------------
-{0228}Beat: Air Combo B
+{0228} Beat: Air Combo B B combo B
 --------------------
-{0228}Beat: Air Combo C
+{0228} Beat: Air Combo C C
 --------------------
-{0228}Shiki: Air Combo B
+{0228} Shiki: Air Combo B B: Air Combo B,
 --------------------
-{0228}Joshua: Air Combo B
+{0228} Joshua: Air Combo B B: Air Combo B,
 --------------------
-{0228}Beat: Air Combo D
+{0228} Beat: Air Combo D D Combo D
 --------------------
-{0228}Joshua: Air Combo C
+{0228} Joshua: Air Combo C: Air Combo C:
 --------------------
-{0228}Combo Branch +1
+{0228}Ramo de combo +1
 --------------------
-{0228}Combo Branch +2
+{0228}Ramo de combo +2
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-{0228}More Durable Obstacles I
+{0228} Mais Obstáculos Duráveis I I
 --------------------
-{0228}More Durable Obstacles II
+{0228}ObstáculosMais Duráveis II
 --------------------
-{0228}Show Combo Map Longer
+{0228}Mostrarmaislongo domapa decombinação
 --------------------
-{0228}Doomed Life
+{0228}Vida Perdida
 --------------------
-{0228}Doomed Attack
+{0228}Ataque de ataque condenado.
 --------------------
-{0228}Doomed Defense
+Defesa condenada Defesa {0228}
 --------------------
-{0228}Doomed Mobility
+{0228}Mobilidadecondenada
 --------------------
-{0228}Doomed Attack+
+{0228}Ataque Perdido + Ataque Condenado +
 --------------------
-{0228}Doomed Defense+
+{0228}Defesacondenada.
 --------------------
-{0228}Supply Boost
+{0228}Aumentar aoferta
 --------------------
-{0228}Supply Boost+
+{0228} Abastecimento Boost + + +
 --------------------
-{0228}Turbo Gauge
+{0228}Turbo Gauge Gauge
 --------------------
-{0228}Turbo Gauge+
+{0228}Turbo Gauge + + Turbo Gauge +
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-{0228}Life Blight
+{0228}Perturbação da Vida
 --------------------
-{0228}Life Blight+
+{0228} Vida Blight+++ Vida Blight++
 --------------------
-{0228}Attack Blight
+{0228} Ataque Blight Blight
 --------------------
-{0228}Attack Blight+
+{0228}Ataque Blight++ + Blight+
 --------------------
-{0228}Defense Blight
+Defesa Blight Blight {0228}
 --------------------
-{0228}Defense Blight+
+{0228}Disfarce deDefesa+
 --------------------
-{0228}Mobility Blight
+{0228}Disfunção
 --------------------
-{0228}Mobility Blight+
+{0228}Mobilidade Blight++Blight+Mobility
 --------------------
-{0228}More HP Drains I
+{0228} Mais HP Drena I Drenos I
 --------------------
-{0228}More HP Drains II
+{0228} Mais HP Drenagens II Drenagens II
 --------------------
-{0228}More Attack Breaks I
+{0228}Maisataquesquebram I
 --------------------
-{0228}More Attack Breaks II
+{0228} Mais ataques quebram II II
 --------------------
-{0228}More Defense Breaks I
+{0228}Maisdefesaquebra I
 --------------------
-{0228}More Defense Breaks II
+{0228}Mais quebras de defesa II 2
 --------------------
-{0228}More Immobilization I
+{0228}Mais Imobilização I
 --------------------
-{0228}More Immobilization II
+{0228} Mais Imobilização II Imobilização II
 --------------------
-{0228}EXP Boost I
+{0228} EXP Boost I Boost I
 --------------------
 {0228}EXP Boost II
 --------------------
 {0228}Jinxed EXP Boost
 --------------------
-{0228}EXP Boost III
+{0228}EXP Boost III Boost III
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-{0228}HP Drain Finisher
+{0228}Acabador de drenagem HP Finisher
 --------------------
-{0228}Attack Break Finisher
+{0228}Terminador dequebra deataque
 --------------------
-{0228}Defense Break Finisher
+{0228}Terminador dequebra dedefesa
 --------------------
-{0228}Jinxed Immobilizing Finisher
+Jinxed imobilizando o finalizador Finisher {0228}
 --------------------
-{0228}Immobilizing Finisher
+{0228}Imobilizando o Finisher Finizer
 --------------------
-{0228}HIT Keeper I
+{0228} HIT Keeper I Eu sou o guardião
 --------------------
-{0228}HIT Keeper II
+{0228} HIT Keeper II Keeper II
 --------------------
-{0228}Jinxed HIT Keeper
+{0228} Jinxed HIT Keeper Keeper
 --------------------
-{0228}HIT Keeper III
+{0228} HIT Keeper III Keeper III
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-{0228}Resist HP Drain
+{0228}Resista HP Drain Drenagem
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-{0228}Resist Attack Breaks
+{0228} Resista a ataques de ataque.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-{0228}Resist Defense Breaks
+{0228} Resista a quebras de defesa.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-{0228}Resist Immobilization
+{0228} Resista à imobilização
 --------------------
-{0228}Resist Knockback
+{0228} Resista Knockback Knockback
 --------------------
-{0228}SOS Null Damage
+{0228} SOS Null Damage Dano Nulo
 --------------------
-{0228}Puck Power I
+{0228}Disco de luz Power I
 --------------------
-{0228}Puck Power II
+{0228}Disco de luz Power II
 --------------------
-{0228}Puck Power III
+{0228}Disco de luz Power III
 --------------------
-{0228}Hold that Puck I
+{0228} Segure esse Disco de luz I Eu me seguro.
 --------------------
-{0228}Hold that Puck II
+{0228} Segure esse Disco de luz II.
 --------------------
-{0228}Jinxed Hold that Puck
+{0228} Jinxed Segure aquele Disco de luz
 --------------------
-{0228}Hold that Puck III
+{0228} Segure esse Disco de luz III.
 --------------------
-{0228}Faster Puck I
+{0228}Maisrápido Disco de luz I
 --------------------
-{0228}Faster Puck II
+{0228}Disco de luz IImaisrápido
 --------------------
-{0228}Slower Puck I
+{0228}Maislento Disco de luz I
 --------------------
-{0228}Slower Puck II
+{0228}Disco de luz II mais lento Disco de luz II
 --------------------
-{0228}Regeneration I
+{0228} Regeneração I I
 --------------------
-{0228}Regeneration II
+{0228} Regeneração II II Regeneração II
 --------------------
-{0228}Jinxed Regeneration
+{0228}Jinxed Regeneration Regeneração
 --------------------
-{0228}Regeneration IV
+{0228} Regeneração IV IV Regeneração IV
 --------------------
-{0228}Regeneration III
+{0228} Regeneração III III Regeneração III
 --------------------
-{0228}SOS ATK Boost I
+{0228} SOS ATK Boost I Boost I
 --------------------
-{0228}SOS ATK Boost II
+{0228} SOS ATK Boost II Boost II
 --------------------
-{0228}SOS DEF Boost I
+{0228} SOS DEF Boost I Boost I
 --------------------
 {0228}SOS DEF Boost II
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-{0228}Shiki: Nag-free Escape
+{0228}Fuga livre de Nag Escape
 --------------------
-{0228}Joshua: Nag-free Escape
+{0228}Fuga livre de Nag Escape
 --------------------
-{0228}Beat: Nag-free Escape
+{0228}Nag-free Escape Escape, livre de Nag.
 --------------------
-{0228}Holy Field I
+{0228} Campo Santo I I Campo Santo I
 --------------------
-{0228}Holy Field II
+Santo Campo II II {0228} Santo Campo II
 --------------------
-{0228}Holy Field III
+{0228}Campo Santo III
 --------------------
-{0228}Holy Field IV
+{0228}Campo Sagrado IV IV Campo Santo IV
 --------------------
-{0228}Holy Field V
+{0228} Campo Santo V V Campo Sagrado V
 --------------------
-{0228}Over the Top RH
+{0228} Sobre o RH superior RHH
 --------------------
-{0228}Over the Top BR
+{0228}Sobre o Top BR
 --------------------
-{0228}Over the Top LH
+{0228} Sobre o topo LH LH
 --------------------
-{0228}Turbo Reboot
+{0228} Turbo Reiniciar Reiniciar
 --------------------
-{0228}Cure Boost
+{0228}Aumentar acura
 --------------------
-{0228}Cure Boost+
+{0228}Cura Boost++ Cura Boost+
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-{0228}Dual Resistance I
+{0228} Resistência dupla I I
 --------------------
-{0228}Dual Resistance II
+{0228}Resistênciadupla II
 --------------------
-{0228}Resist All
+{0228} Resista a todos.
 --------------------
-{0228}SOS Power Up I
+{0228}SOS Power Up I Eu posso ligar-me
 --------------------
-{0228}SOS Power Up II
+{0228} SOS Power Up II
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-{0228}Combo Map Upgrade I
+{0228}Actualização doMapa Combo I
 --------------------
-{0228}Combo Map Upgrade II
+{0228}Atualização doMapa Combo II
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-{0228}All-around Upgrade I
+{0228}Actualização global I
 --------------------
-{0228}All-around Upgrade II
+{0228}Actualização deconjunto II
 --------------------
-{0228}Doomed Life+
+{0228}Vida Perdida +
 --------------------
-{0228}Doomed Mobility+
+{0228}Mobilidadecondenada+
 --------------------
-{0228}Neku: ATK +1
+{0228} Neku: ATK +1 +1
 --------------------
-{0228}Neku: ATK +3
+{0228} Neku: ATK +3 +3
 --------------------
-{0228}Neku: ATK +5
+{0228} Neku: ATK +5-5K +5
 --------------------
-{0228}Shiki: ATK +1
+{0228} Shiki: ATK +1 +1
 --------------------
-{0228}Shiki: ATK +2
+{0228}ATK +2+2:
 --------------------
-{0228}Joshua: ATK +2
+{0228}AK +2 + 2: Joshua:
 --------------------
-{0228}Joshua: ATK +3
+{0228} Joshua: ATK +3 +3
 --------------------
-{0228}Beat: ATK +3
+{0228} Bater: ATK +3 +3
 --------------------
-{0228}Beat: ATK +4
+{0228} Bata: ATK +4-4K + 4K + 4K + 4K + 4K
 --------------------
-{0228}ATK +5
+{0228} ATK +5-5K +5K
 --------------------
-{0228}ATK +1
+{0228} ATK +1 +1
 --------------------
-{0228}ATK +2
+{0228} ATK +2 + 2
 --------------------
-{0228}ATK +3
+{0228} ATK + 3 + ATK + 3
 --------------------
-{0228}Jinxed ATK Boost +10
+{0228} Jinxed ATK Boost +1010 Boost +10
 --------------------
-{0228}Neku: DEF +1
+{0228} Neku: DEF +1 DEF +1
 --------------------
-{0228}Neku: DEF +3
+{0228} Neku: DEF +3 +3
 --------------------
-{0228}Neku: DEF +5
+{0228} Neku: DEF +5-5F +5
 --------------------
-{0228}Shiki: DEF +1
+{0228} Shiki: DEF +1 DEF +1
 --------------------
-{0228}Shiki: DEF +2
+{0228}DEF +2 + 2: Shiki: DEF + 2
 --------------------
-{0228}Joshua: DEF +2
+{0228}DEF +2+2
 --------------------
-{0228}Joshua: DEF +3
+{0228} Joshua: DEF +3 +3
 --------------------
-{0228}Beat: DEF +3
+{0228} Beat: DEF +3 +3
 --------------------
-{0228}Beat: DEF +4
+{0228} Bata: DEF +4-4F +4
 --------------------
-{0228}DEF +5
+{0228} DEF +5 +5 +5
 --------------------
-{0228}DEF +1
+{0228} DEF +1
 --------------------
-{0228}DEF +2
+{0228} DEF +2 + 2
 --------------------
-{0228}DEF +3
+{0228} DEF +3 +3 DEF
 --------------------
-{0228}Neku: HP +20
+{0228}HP +20 +20:
 --------------------
 {0228}Neku: HP +40
 --------------------
-{0228}Neku: HP +70
+{0228}HP +70 +70.
 --------------------
 {0228}Shiki: HP +10
 --------------------
-{0228}Shiki: HP +20
+{0228}HP +20 +20:
 --------------------
-{0228}Joshua: HP +20
+{0228}HP +20+20:
 --------------------
-{0228}Joshua: HP +40
+{0228}HP +4040 HP +40 HP +40 HP +40 HP
 --------------------
 {0228}Beat: HP +30
 --------------------
@@ -1119,47 +1119,47 @@ UNUSED
 --------------------
 {0228}HP +100
 --------------------
-{0228}HP +5
+{0228}HP +5-5 HP +5 HP +5 HP +5 HP
 --------------------
 {0228}HP +15
 --------------------
 {0228}HP +35
 --------------------
-{0228}All-around Upgrade III
+{0228}Atualização global III
 --------------------
-{0228}All-around Upgrade IV
+{0228} Atualização IV completa Atualização IV
 --------------------
-{0228}Crawler
+{0228} Crawler
 --------------------
-{0228}Sacrifice
+{0228}Sacrifício
 --------------------
-{0228}Grandmother Lode
+{0228} Avó Lode, Lode.
 --------------------
-{0228}Resonance: DB
+{0228} Ressonância: DB: DB: DB: DB:
 --------------------
-{0228}Resonance: NP
+{0228} Ressonância: NP: NP:
 --------------------
-{0228}Resonance: PR
+{0228} Ressonância: PR: PR: PR
 --------------------
-{0228}Resonance: MR
+{0228} Ressonância: Sr.
 --------------------
-{0228}Resonance: JM
+{0228} Ressonância: JM: JMM:
 --------------------
-{0228}Resonance: HS
+{0228}Ressonância: HS: HS: HS:
 --------------------
-{0228}Resonance: SH
+{0228} Ressonância: SH: SH:
 --------------------
-{0228}Resonance: TP
+{0228} Ressonância: TP:
 --------------------
-{0228}Resonance: DC
+{0228} Ressonância: DC: DC
 --------------------
-{0228}Resonance: LA
+{0228} Ressonância: LA: LA
 --------------------
-{0228}Resonance: PG
+{0228} Ressonância: PG: PG:
 --------------------
-{0228}Resonance: WB
+{0228} Ressonância: WB:
 --------------------
-{0228}Resonance: GT
+{0228} Ressonância: GT GT: GT: GT:
 --------------------
 
 --------------------

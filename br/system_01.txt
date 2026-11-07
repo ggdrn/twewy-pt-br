@@ -1,162 +1,162 @@
-Playing on the Bottom Screen
-Use the stylus to move around and fight.
+Jogando na tela de toque
+Use a caneta para se mover e lutar.
  
-Right now you{0124}re defenseless.
-You're gonna have to run for it!
+Agora você {0124} está indefeso,
+terá que correr para isso!
 
 
-Running and Dashing
-First, let's try evading enemy attacks.
+Correndo e correndo primeiro,
+vamos tentar fugir de ataques inimigos.
  
-Use the stylus to drag the boy out of harm's way.
-Drag slowly to run, or quickly to dash!
-Press SELECT to start the battle!
+Use a caneta para arrastar o garoto para fora do caminho
+do perigo. Arraste lentamente para correr, ou rapidamente
+para correr! Pressione SELECT para começar a batalha!
 --------------------
-Pause, then Escape!
-Press START to pause combat.
+Pare, então fuja! Pressione
+COME AR para pausar o combate.
  
-Choose "Gotta bounce!" from the menu that
-appears and you can escape from the battle.
-Try it right now to proceed!
+Escolha "Ter que saltar!" no menu que
+aparece e você pode escapar da batalha. Tente
+agora mesmo para prosseguir!
 
 --------------------
-Pin Psychs: Dragging
-Drag across an empty part of the touch screen to
-create a path of flames that harms enemies!
+Arraste através de uma
+parte vazia da tela sensível ao toque para criar
+um caminho de chamas que prejudica os inimigos!
  
-Later on you'll receive more pins, each with a
-powerful psych that can be activated with the
-right touch command.
-Use your psych to defeat the enemy!
+Mais tarde você receberá mais pins, cada um com
+um poderoso psych que pode ser ativado com o
+comando de toque direito.
+Use seu psych para derrotar o inimigo!
 
 --------------------
-Booting & Rebooting Pins
-Some pins need time to boot at the start of
-battle before they can be used.
+Alguns pins precisam de
+tempo para inicializar no início da batalha
+antes que possam ser usados.
  
-Once a pin's energy gauge runs out, you'll have to
-wait a little while for it to reboot.
-Use your psych to defeat the enemy!
+Quando o medidor de energia de um pin acabar, você
+terá que esperar um pouco para que ele reinicie.
+Use seu psych para derrotar o inimigo!
 --------------------
-Playing on the Top Screen 
-Press left or right on the +Control Pad to have
-Shiki attack in that direction.
-(Lefties can use the A B X Y Buttons!)
-Match your button presses to the arrows to
-navigate through the combo map to the symbol of
-your choice.
+Tocando na tela superior Pressione
+a esquerda ou direita no teclado +Control para
+ter o ataque Shiki nessa direção.
+(Lefties pode usar os botões A B X Y!)
+Combine seu botão pressiona as setas para
+navegar através do mapa de combos para o símbolo
+de sua escolha.
 
-Shiki's Got Your Back!
-Don't feel pressured to learn all of this at once.
-If you stop controlling Shiki, she'll automatically
-take over for you on the top screen until you're
-ready.
-Press SELECT to start the battle!
+Shiki vai te ajudar! Não
+se sinta pressionado para aprender tudo isso de uma
+vez. Se você parar de controlar Shiki, ela assumirá
+automaticamente para você na tela superior até que
+esteja pronto.
+Pressione SELECT para começar a batalha!
 --------------------
-Stride-Cross Battle System
-Neku and Shiki fight the Noise on separate screens,
-but they share the same HP.
+Sistema de Batalha Stride-Cross
+Neku e Shiki lutam contra o Ruído em telas separadas,
+mas compartilham o mesmo HP.
 
-Likewise, every Noise exists on both screens at
-once but with a single source of HP.
-Defeat a Noise on one screen to erase it on both.
+Da mesma forma, todo Ruído existe em ambas as telas
+ao mesmo tempo, mas com uma única fonte de HP.
+Derrote um Ruído em uma tela para apagá-lo em ambas.
 
-Alternate and Power Up!
-Land a combo on one screen to pass a green light
-puck to the other screen.
-Keep the puck going and your attacks will get
-stronger!
-Press SELECT to start the battle!
+Alternate e Power Up! Aterre
+um combo em uma tela para passar um disco de luz
+verde para a outra tela. Mantenha
+o disco funcionando e seus ataques ficarão mais
+fortes!
+Pressione SELECT para começar a batalha!
 --------------------
-Pin Psychs: Slashing
-Some pin psychs activate with a slash.
-Draw a short, quick line across the enemy to
-attack with a blade.
+Pin psychs: Slashing Some
+pin psychs ative com uma barra. Desenhe uma
+linha curta e rápida através do inimigo para
+atacar com uma lâmina.
  
-Having trouble?
-Be sure to lift the stylus right after slashing.
-Use your psychs to defeat the enemy!
+Não se esqueça
+de levantar a caneta logo depois de cortar. Use
+seu psychs para derrotar o inimigo!
 
 --------------------
-Pin Psychs: Obstacles
-Some pin psychs use obstacles as weapons.
-Slash across a sign or vehicle with a quick stroke
-to send it flying.
+Pin psychs: Obstáculos
+Alguns pin psychs usam obstáculos como armas.
+Atravesse um sinal ou veículo com um golpe rápido
+para enviá-lo voando.
  
-Having trouble?
-Be sure to lift the stylus right after slashing.
-Use obstacles to defeat the enemy!
+Não se esqueça de levantar
+a caneta logo depois de cortar, use obstáculos para
+derrotar o inimigo, e derrote o inimigo.
 --------------------
-Pin Psychs: Touching
-The two pins Neku is wearing activate with a touch.
-Touch an enemy to strike it with lightning.
+Pin psychs: Tocando
+os dois pins Neku está usando ativar com um toque.
+Toque em um inimigo para atingi-lo com um raio.
  
-Or, touch an empty part of the screen to fire a
-bullet.
-Move Neku back and attack from afar!
-Use your psychs to defeat the enemy!
+Ou, toque em uma parte vazia da tela para disparar
+uma bala.
+Mova Neku de volta e ataque de longe!
+Use seu psychs para derrotar o inimigo!
 --------------------
-Fusion (Team Attack)
-At the top of Shiki's screen are three ESP cards.
-Guess each card's symbol, from RIGHT to LEFT.
-Even if you guess wrong, the symbol you picked
-will reveal its location. Remember it!
-As you fight, try to guess what each card is by
-navigating through her combo map to a symbol.
-Guess right to earn {0140}s. Gather enough and a
-large pin will appear.
+Fusão (ataque de
+equipe) No topo da tela do Shiki há três cartões
+ESP. Adivinhe o símbolo de cada cartão, da
+direita para a esquerda. Mesmo que você adivinhe
+errado, o símbolo escolhido revelará
+sua localização. Lembre-se! Enquanto luta, tente
+adivinhar qual é cada cartão navegando por
+seu mapa de combos até um símbolo. Adivinhe
+direito de ganhar {0140} s.
  
-Touch it to activate Neku and Shiki's Fusion!
-Fusion damages all enemies and refills a little of
-your HP.
-Press SELECT to start the battle!
+Toque nele para ativar Neku e Shiki's Fusion! Fusão
+danifica todos os inimigos e recarrega um pouco do
+seu HP.
+Pressione SELECT para começar a batalha!
 --------------------
 Neku-Joshua Fusion
-At the top of Joshua's screen are five numbered
-cards.
-Match each value, from RIGHT to LEFT.
+Na parte superior da tela do Joshua estão cinco
+cartas numeradas.
+Combine cada valor, da direita à esquerda.
 
-Pick a higher value.
-Pick the same value.
-Pick a lower value.
+Escolha um valor maior. Escolha
+o mesmo valor. Escolha um valor
+menor. Escolha um valor menor.
 --------------------
-As you fight, navigate through his combo map to a
-value that matches the conditions on the card.
-Match values to earn {0140}s. Gather enough and a
-large pin will appear.
-Collect special stickers to add levels to your
-Fusion!.
+Enquanto luta, navegue pelo mapa de combos dele até
+um valor que corresponda às condições do cartão.
+Combine valores para ganhar {0140} s. Reúna o suficiente
+e um pin grande aparecerá.
+Colete adesivos especiais para adicionar níveis ao
+seu Fusion!..
 
-Touch it to activate Neku and Joshua's Fusion!
-Fusion damages all enemies and refills a little of
-your HP.
-Press SELECT to start the battle!
+Toque nele para ativar Neku e Joshua's Fusion! Fusão
+danifica todos os inimigos e recarrega um pouco do
+seu HP.
+Pressione SELECT para começar a batalha!
 --------------------
-Neku-Beat Fusion
-A row of playing cards will form at the top of
-Beat's screen.
+Neku-Beat Fusion Uma
+fileira de cartas de baralho se formará na parte
+superior da tela do Beat.
  
-Cards are inserted
-at the cursor
+As cartas são inseridas
+no cursor no cursor.
 
-Use the skull to start
-a chain reaction
+Use o crânio para iniciar
+uma reação em cadeia.
 
-Adjacent cards of the same suit
-vanish and you earn a {0140}
+Cartas adjacentes do mesmo naipe
+desaparecem e você ganha um {0140}
 --------------------
-Navigate through his combo map to add cards to
-the row, then choose to start a chain reaction!
+Navegue pelo mapa de combos para adicionar cartas à
+fila, e então escolha começar uma reação em cadeia!
 
-Rack up a card combo to earn {0140}s. Gather enough
-and a large pin will appear.
+Arranje um combo de cartas para ganhar dinheiro.
+{0140}Reúna o suficiente e um pin grande aparecerá.
  
-Let the cards touch the flames
-and you'll get burned!
-Touch it to activate Neku and Beat's Fusion!
-Fusion damages all enemies and refills a little of
-your HP.
-Press SELECT to start the battle!
+Deixe as cartas tocarem as chamas
+e você vai se queimar!
+Toque nele para ativar Neku e Beat's Fusion! Fusão
+danifica todos os inimigos e recarrega um pouco do
+seu HP.
+Pressione SELECT para começar a batalha!
 --------------------
 {00B9}{00C0}{00CC}{00FC}{042E}{0085}{0265}{0066}{00A9}{0297}{03FB}{0391}{0324}{034A}
 
@@ -191,879 +191,879 @@ Press SELECT to start the battle!
 --------------------
 
 --------------------
-Whew...
+Ufa...
 --------------------
-We got
-away.
+Nós
+fugimos.
 --------------------
-That was
-pretty close,
-huh?
+Isso foi
+bem perto,
+não é?
 --------------------
-If things
-look grim,
+Se
+ascoisaspareceremsombrias,
 --------------------
-we should
-run.
+Devemos
+correr.
 --------------------
-Hey, um...
-Aren't we,
-you know...
+Ei, não
+estamos,
+você sabe...
 --------------------
-running a
-LOT lately?
+- Está correndo
+muito ultimamente?
 --------------------
-I mean,
-running beats
-losing,
+Querodizer,correr
+émelhor do
+queperder,
 --------------------
-but if we
-keep doing it
+Mas secontinuarmos
+afazê-lo
 --------------------
-we'll never
-get strong enough
-to face tougher
-Noise.
+Nunca seremos
+fortes o suficiente
+para enfrentar o Ruído
+mais duro.
 --------------------
-Let's stand
-our ground when
-we can, OK?
+Vamos ficar
+firmes quando
+pudermos, certo?
 --------------------
 ......
 --------------------
-Fine.
+Tudo bem.
 --------------------
-Your sync rate just
-dropped a little.
+Sua taxa de sincronização
+caiu um pouco.
 --------------------
 Neku!
 --------------------
-Stop
-running all
-the time!
+Pare
+de correr o
+tempo todo!
 --------------------
-What's
-wrong with
-running?
+O que há
+de errado
+em correr?
 --------------------
-You're
-holding us
-back!
+Você
+está nos
+segurando!
 --------------------
-What
-happens if we
-get a mission
+O que acontece
+se tivermos
+uma missão?
 --------------------
-where we
-have to take on
-really powerful
-Noise?
+Onde temos
+que assumir um
+Ruído realmente
+poderoso?
 --------------------
-No. More.
-Running!
-I forbid it!
+Não, mais,
+correndo,
+eu proíbo!
 --------------------
 ......
 --------------------
-...You hear
-me?
+Você está me
+ouvindo?
 --------------------
-Ugh!
-You are such
-a chicken.
+Você
+é uma
+galinha.
 --------------------
 Buck buck
-buck buck buck
+buck buck buck buck
 buh-KAWWWK!
 --------------------
-Unbelievable!
+Inacreditável!
 --------------------
-Your sync rate just
-took a nose dive.
---------------------
-......
---------------------
-This is
-awkward...
---------------------
-Oh, we're
-running?
---------------------
-You didn't
-seem the
-type.
+Sua taxa de sincronização acabou
+de dar um mergulho no nariz.
 --------------------
 ......
 --------------------
-Well, I
-suppose it's
-inevitable...
+Isso é
+estranho...
 --------------------
-sometimes.
+- Estamos
+correndo?
 --------------------
-Hee hee...
---------------------
-I suppose
-you're an ass.
-All the time.
---------------------
-Oh, Neku?
---------------------
-We seem to
-be running away
-an awful lot.
---------------------
-Are not.
---------------------
-Wait<->
---------------------
-don't tell me
-you're struggling
-with combat!
---------------------
-In your
-second
-Game?
---------------------
-Honestly, Neku,
-it's a wonder you
-survived.
---------------------
-I know
-how capable
-you are,
---------------------
-so I won't
-say another
-word.
---------------------
-Hee hee...
---------------------
-Rrgh!
-Must...not...
-strangle!
+Você não
+parecia
+do tipo.
 --------------------
 ......
 --------------------
-Your sync rate just
-dropped a little.
+Bem, eu
+acho que é
+inevitável...
+--------------------
+s vezes.
+--------------------
+He, he...
+--------------------
+Acho que
+você é um idiota,
+o tempo todo.
+--------------------
+Neku?
+--------------------
+Parece que
+estamos fugindo
+muito.
+--------------------
+Não são.
+--------------------
+Espera<->
+--------------------
+Não me diga
+que está lutando
+com combate!
+--------------------
+No seu
+segundo
+jogo?
+--------------------
+Honestamente, Neku, é
+uma maravilha você ter
+sobrevivido.
+--------------------
+Euseicomo
+éscapaz.
+
+--------------------
+Então eu não
+vou dizer outra
+palavra.
+--------------------
+He, he...
+--------------------
+Não
+deve... não...
+estrangular!
 --------------------
 ......
 --------------------
-What?
---------------------
-...WHAT?
-Just say it!
---------------------
-Hmm.
---------------------
-You know
-what?
-Bite me!
---------------------
-Well, you're
-awfully...
---------------------
-Your sync rate just
-took a nose dive.
---------------------
-Yo, whatchu
-runnin' for,
-man?
---------------------
-Why waste
-energy?
---------------------
-Hmph.
-Aight then.
---------------------
-But next
-time we stay
-an' fight.
---------------------
-Yo, yo,
-what the
-hell!?
---------------------
-Why you
-keep runnin'?
---------------------
-Strategy.
---------------------
-That's what
-you call a tactical
-retreat.
---------------------
-Oh yeah? Well...
-He who stays
-an' fights away
-lives today
-another fight!
+Sua taxa de sincronização
+caiu um pouco.
 --------------------
 ......
 --------------------
-Um. No...
+O quê?
 --------------------
-I don't
-think that's
-how it goes.
+Diga
+isso, diga!
 --------------------
-Whatever!
+Hum.
 --------------------
-As long
-as we on the
-offense!
+Me morda,
+me
+morda!
 --------------------
-We gotta
-conquer us...
-some...some
-victories.
+Bem, você está
+terrivelmente...
 --------------------
-Look...
-I flunked outta
-Japanese,
-aight?
+Sua taxa de sincronização acabou
+de dar um mergulho no nariz.
 --------------------
-Your sync rate just
-dropped a little.
+Ei, por que
+está correndo,
+cara?
 --------------------
-Yo yo yo yo yo
-yo yo yo yo!
+Por que desperdiçar
+energia?
 --------------------
-NO!
+Está
+bem então.
 --------------------
-Men don't run!
-Men fight!
+Mas da próxima
+vez vamos continuar
+lutando.
 --------------------
-Where
-your stones,
-man?
+Ei,
+que
+diabos!
 --------------------
-I told you,
-I'm being
-strategic.
+Por que
+continua correndo?
 --------------------
-You'll
-never survive
-like that, yo!
+Estratégia.
 --------------------
-......
+Isso é o que
+você chama de retiro
+tático.
 --------------------
-I'm sorry<->
-that sounded
-like worry.
---------------------
-Wha<->
---------------------
-N...no!
-I don't care
-'bout you!
---------------------
-Hells no!
+Bem, aquele que
+fica longe
+de brigas
+vive hoje
+outra briga!
 --------------------
 ......
 --------------------
-Good.
+Não...
 --------------------
-Your sync rate just
-took a nose dive.
+Acho que
+não é assim
+que funciona.
 --------------------
-Hold it,
-renegade.
+Seja o que for!
 --------------------
-Dammit...
+Enquanto
+estivermos na
+ofensa!
+--------------------
+Temos que nos
+conquistar... algumas...
+algumas vitórias...
+algumas vitórias.
+--------------------
+Olhe,
+eu saí do
+japonês,
+certo?
+--------------------
+Sua taxa de sincronização
+caiu um pouco.
+--------------------
+yo yo mano
+yo yo yo yo mano!
+--------------------
+NÃO, NÃO!
+--------------------
+Homens não correm,
+homens brigam!
+--------------------
+Onde
+suas pedras,
+cara?
+--------------------
+Eu te disse,
+estou sendo
+estratégico.
+--------------------
+Você nunca
+vai sobreviver
+assim, você!
+--------------------
+......
+--------------------
+Sinto muito<->que
+soou como
+preocupação.
+--------------------
+O qu<->
+--------------------
+Não me
+importo
+com você!
+--------------------
+Não, não!
+--------------------
+......
+--------------------
+timo.
+--------------------
+Sua taxa de sincronização acabou
+de dar um mergulho no nariz.
+--------------------
+Espere,
+renegado.
+--------------------
+Maldição...
 Reaper!
 --------------------
 Punk!
 --------------------
-Show me
-whatchu got!
+Mostre-me
+o que você tem!
 --------------------
-Got you now,
-traitor.
+Te peguei agora,
+traidor.
 --------------------
-Damn, again!?
+Droga, de novo!
 --------------------
-Your time
-is up.
+Seu tempo
+acabou.
 --------------------
 <red>......<black>
 --------------------
-What the<->
+Mas o qu<->
 --------------------
-<red>To right the
-countless wrongs
-of our day,<black>
+<red>Para corrigir
+os inúmeros erros
+de nossos dias,<black>
 --------------------
-<red>we shine
-this light of true
-redemption,<black>
+<red>nós brilhamos
+esta luz da verdadeira
+redenção,<black>
 --------------------
-<red>that this place
-may become as
-paradise.<black>
+<red>que este lugar
+pode se tornar
+um paraíso.<black>
 --------------------
-<red>What a
-wonderful world
-such would be...<black>
+<red>Que mundo
+maravilhoso
+tal seria...<black>
 --------------------
-Here he
-comes!
+Aí vem
+ele!
 --------------------
-Man, where
-they all comin'
-from?
+Cara,
+de onde todos
+eles vêm?
 --------------------
-Tsk...
-Let's go.
+Tsk,
+vamos.
 --------------------
-Yo, they don't
-take a hint.
+Eles não dão
+uma dica.
 --------------------
-How many
-asses we gotta
-kick, man?
+Quantas
+bundas temos que
+chutar, cara?
 --------------------
-Quit moaning
-about it.
+Pare de gemer
+sobre isso.
 --------------------
-C'mon.
+Vamos, vamos.
 --------------------
-You hearin'
-this, yo?
+Você está ouvindo
+isso, você?
 --------------------
-What's all
-that babblin'
-about?
---------------------
-......
---------------------
-Good ol'
-Hachiko.
---------------------
-Say, Neku...
---------------------
-Do you know
-why people call
-him the "loyal
-dog"?
---------------------
-Well...
-yeah.
---------------------
-It's cause he
-kept showing up
-to wait for his
-master,
---------------------
-even long
-after the man
-passed away.
---------------------
-Very good.
-Hachiko's owner
-was a professor
---------------------
-who used
-Shibuya Station
-every day to get
-to work.
---------------------
-Hachiko was
-born in 1923<->
-one of the few
-purebred Akita
-dogs left.
---------------------
-He saw his master
-off each morning, and
-often padded to the
-station to greet him
-when he got home.
---------------------
-Talk about
-loyal.
---------------------
-In May of
-1925, however,
-his master died
-unexpectedly.
---------------------
-Nonetheless
-Hachiko kept up
-his daily ritual<->
---------------------
-for 10 years.
---------------------
-One of the day's
-largest newspapers
-brought Hachiko's
-story to national
-attention.
---------------------
-Soon, not
-only Shibuya
-locals, but all
-Japanese
---------------------
-were moved
-by the dog's
-unwavering
-virtue.
---------------------
-He became an
-example for all
-to follow.
---------------------
-That's when
-the moniker
-stuck:
---------------------
-"Loyal dog."
---------------------
-You sure
-know a lot
-about it.
---------------------
-Whew,
-all those
-years...
---------------------
-What a
-dog, huh?
---------------------
-Hee hee...
-Well, it depends
-on who you ask.
---------------------
-Some folks
-say Hachiko had
-another motive.
---------------------
-There was a
-yakitori stand
-by the station,
-so...
---------------------
-some say
-Hachiko just really
-liked chicken.
---------------------
-Are you
-kidding?
---------------------
-It's because
-they found some
-wooden skewers
-in his stomach
---------------------
-when they
-performed an
-autopsy.
---------------------
-Damning evidence?
-You decide.
---------------------
-Wow...
---------------------
-The truth
-died with
-Hachiko.
+Por que
+todo esse
+balbuciar?
 --------------------
 ......
 --------------------
-But I'm
-curious what
-you think.
+Bom
+Hachiko.
 --------------------
-Why did
-Hachiko come
-to the station
-each day?
+Diga, Neku...
 --------------------
-Hee hee...
+Sabe por
+que as pessoas
+o chamam de
+"cão leal"?
 --------------------
-Could be.
+Bem...
+sim.
 --------------------
-There's the
-Moyai statue
-again.
+É porque ele
+continuou a aparecer
+para esperar pelo
+seu mestre.
 --------------------
-Say, Neku...
+mesmo muito
+tempo depois que
+o homem morreu.
 --------------------
-Do you know
-how the statue
-got here?
+O dono do
+Hachiko era professor
+e professor.
 --------------------
-No clue.
+Que usava
+a estação Shibuya
+todos os dias para ir
+trabalhar.
 --------------------
-Well...
-It was a gift.
+Hachiko nasceu
+em 1923.<-> Um
+dos poucos cães
+Akita de raça pura
+que sobrou.
 --------------------
-The island of
-Niijima presented it in
-1980 to commemorate a
-century under Tokyo
-administration.
+Ele via seu mestre todas
+as manhãs, e muitas vezes
+amparava na estação
+para cumprimentá-lo
+quando chegava em casa.
 --------------------
-The name
-sounds like the
-Easter Island
-Moai statues it
-resembles<->
+Fale sobre
+lealdade.
 --------------------
-but, as it
-happens,
+Em maio de
+1925, no entanto,
+seu mestre morreu
+inesperadamente.
 --------------------
-in the Niijima
-dialect, "moyai" also
-means "working
-together."
+No entanto,
+Hachiko manteve
+seu ritual diário.<->
 --------------------
-No kidding.
+por 10 anos.
 --------------------
-Just like
-you and me,
+Um dos maiores
+jornais do dia
+trouxe a história
+do Hachiko à atenção
+nacional.
+--------------------
+Em breve, não só
+os locais Shibuya,
+mas todos os japoneses
+japoneses.
+--------------------
+foram movidos
+pela virtude
+inabalável
+do cão.
+--------------------
+Ele se tornou
+um exemplo para todos
+seguirem.
+--------------------
+Foi quando
+o apelido
+ficou:
+--------------------
+"Cão leal."
+--------------------
+Você sabe
+muito sobre
+isso.
+--------------------
+Todos
+esses
+anos...
+--------------------
+Que cachorro,
+hein?
+--------------------
+Bem, depende
+de quem você
+perguntar.
+--------------------
+Algumas pessoas
+dizem que Hachiko
+tinha outro motivo.
+--------------------
+Havia um
+yakitori perto
+da estação,
+então...
+--------------------
+Alguns dizem
+que Hachiko gostava
+muito de frango.
+--------------------
+Está
+brincando?
+--------------------
+É porque acharam
+alguns espetos
+de madeira no
+estômago dele.
+--------------------
+Quando
+fizeram uma
+autópsia.
+--------------------
+Você decide,
+você decide.
+--------------------
+Uau...
+--------------------
+A verdade
+morreu com
+Hachiko.
+--------------------
+......
+--------------------
+Mas estou
+curiosa para saber
+o que você pensa.
+--------------------
+Por que
+Hachiko veio
+para a estação
+todos os dias?
+--------------------
+He, he...
+--------------------
+Pode ser.
+--------------------
+Aí está a
+estátua de Moyai
+de novo.
+--------------------
+Diga, Neku...
+--------------------
+Sabe como
+a estátua
+chegou aqui?
+--------------------
+Não faço ideia.
+--------------------
+Bem, foi
+um presente.
+--------------------
+A ilha de Niijima
+apresentou-o em 1980
+para comemorar um século
+sob a administração
+de Tóquio.
+--------------------
+O nome soa
+como as estátuas
+de Moai da Ilha
+de Páscoa que se
+assemelham a<->
+--------------------
+Mas,comoacontece,
+
+--------------------
+no dialeto
+Niijima, "moyai" também
+significa "trabalhar
+juntos".
+--------------------
+É mesmo?
+--------------------
+Assim
+como nós,
 Neku.
 --------------------
-The very picture
-of "moyai."
+A própria imagem
+de "moyai".
 --------------------
 ......
 --------------------
-Doesn't this
-place ever have
-a slow day?
+Este lugar
+não tem um
+dia lento?
 --------------------
-Ah, 104...
+104...
 --------------------
-Since opening
-in April, 1979,
+Desde asuaabertura
+emAbril de 1979,
 --------------------
-"Ten-Four"
-has been the
-source of fad
-after fad.
+"Dez-Quatro"
+tem sido a
+fonte de moda
+após moda.
 --------------------
-Most of its
-tenants target
-women in their
-teens and 20s.
+A maioria dos
+inquilinos tem como
+alvo mulheres na
+adolescência e 20 anos.
 --------------------
-Yeah, Shiki
-said she came
-here a lot...
+Sim, Shiki
+disse que ela veio
+aqui muito...
 --------------------
-The cylindrical
-tower fits right in
-on the corner.
+A torre cilíndrica
+se encaixa bem
+na esquina.
 --------------------
-Many a new
-makeup or cell
-phone line
+Muitas novas
+maquiagens ou linhas
+de celular.
 --------------------
-has debuted
-up there on the
-giant wall
-banner.
+Estreou lá
+em cima na bandeira
+da parede
+gigante.
 --------------------
-The banner
-changes a lot,
-huh?
+A bandeira
+muda muito,
+não é?
 --------------------
-Because it
-works.
+Porque
+funciona.
 --------------------
 Dogenzaka...
 --------------------
-That guy's
-ramen shop was
-around here.
+A loja de
+ramen daquele cara
+estava por aqui.
 --------------------
-Say, Neku...
+Diga, Neku...
 --------------------
-Do you know
-where Dogenzaka
-got its name?
+Sabe onde
+Dogenzaka conseguiu
+seu nome?
 --------------------
-Nope.
+Não.
 --------------------
-And you
-call yourself
-a local.
+E você
+se chama
+de local.
 --------------------
 ......
 --------------------
-There are
-two stories.
+Há duas
+histórias.
 --------------------
-One attributes
-the name to
+Um atribui
+o nome a
 Owada Dogen,
-a bandit.
+um bandido.
 --------------------
-He was 
-descended from a
-Kamakura-period
-general.
+Ele era
+descendente de um
+general do período
+Kamakura.
 --------------------
-You don't
-say.
+Não me
+diga.
 --------------------
-The other
-story claims the
-name comes from
-a temple.
+A outra
+história afirma
+que o nome vem
+de um templo.
 --------------------
 Dogenzaka
-also comes up a
-lot in Japanese
-literature.
+também aparece
+muito na literatura
+japonesa.
 --------------------
-Ever read
-Edogawa Rampo's
-"The Fiend with
-Twenty Faces"?
+Já leu "O
+Demônio com
+Vinte Rostos"
+de Edogawa Rampo?
 --------------------
-Can't say
-that I have.
+Não posso
+dizer que sim.
 --------------------
-You should.
-I mean, just think!
+Você deveria, eu
+quero dizer, apenas pense!
 --------------------
-You're walking
-through the pages
-of literature and
-history.
+Você está andando
+pelas páginas
+da literatura e da
+história.
 --------------------
-I feel
-so epic.
+Eu me sinto
+tão épico.
 --------------------
-Sigh...
-Neku, is any of
-this sinking in?
+Suspiro...
+Neku, algum desses
+está afundando?
 --------------------
-Oh, yeah.
+Ah, é.
 --------------------
-You sure?
---------------------
-......
---------------------
-All right.
-Pop quiz.
---------------------
-Name the
-bandit who gave
-Dogenzaka its
-name.
---------------------
-Very good!
---------------------
-What an
-excellent
-listener.
---------------------
-Yup.
-That's me...
---------------------
-No, Neku.
-Wrong.
---------------------
-Someone
-forgot to put on
-his good listener
-ears, hmm?
+Tem certeza?
 --------------------
 ......
 --------------------
-Like a bolt
-from the
-blue...
+Tudo bem,
+teste pop.
 --------------------
-it's time for
-a Tin Pin lesson,
-from me to you.
+Diga o nome
+do bandido que
+deu o nome a
+Dogenzaka.
 --------------------
-Right.
-Every good
-lesson starts with
-the <red>basics<black>.
+Muito bom!
 --------------------
-Tin Pin's rules are simple!
-Slash your pin to slam it
-into an opponent's pin and
-knock it off the table.
+Que
+excelente
+ouvinte.
 --------------------
-Knock off all of your
-opponents' pins<->or have
-the most PP when time
-runs out<->and you win!
+Sim, sou
+eu... sou eu.
 --------------------
-<green>Slash Technique<black>
-Pins move in the direction
-you slash. Keep slashing
-to pick up speed.
+Não,
+Neku.
 --------------------
-Slash straight down the
-middle of the pin to go
-straight. Slash the side of
-the pin to apply spin.
+Alguém
+esqueceu de colocar
+suas orelhas de bom
+ouvinte, hmm?
 --------------------
-<green>Charge Slamming<black>
-Draw a line<->but don't lift
-the stylus<->and you can
-store up power.
+......
 --------------------
-Once the arrow starts
-flashing, lift the stylus to
-unleash a high-speed
-Charge Slam!
+Como um
+parafuso
+do azul...
 --------------------
-<green>Knockouts<black>
-If a pin gets hit by a
-whammy, it will be knocked
-out for a period of time.
+É hora de uma
+aula de Tin Pin,
+de mim para você.
 --------------------
-If your pin gets KO'd, you
-can rapidly tap it to
-shorten its downtime!
+Toda boa
+lição começa com
+a lição do bom. <red>noções
+básicas básicas.<black>.
 --------------------
-Yeah, who
-doesn't love
-<red>whammies<black>?
-I do.
+As regras do Tin Pin são
+simples, bata seu pin para
+bater no pin do oponente
+e derrubá-lo da mesa.
 --------------------
-Pins have four powerful
-attacks known as
-<red>whammies<black>, which activate
-with the +Control Pad
-(or the A B X Y Buttons).
+Derrube todos os pins
+de seus oponentes.<->ou ter
+mais PP quando o tempo
+se esgotar<->E você ganha!
 --------------------
-<green>Stinger<black>
-Use this whammy to cover
-your pin with spines and
-KO foes that touch you.
-(+Control Pad right{000F}
-    A Button)
+<green>Técnica de
+Slash<black> Pins se movem
+na direção que
+você corta.
 --------------------
-<green>Helping Hand<black>
-If you have fast reflexes,
-you can save your pin
-from falling off the table!
-(+Control Pad down{000F}
-    B Button)
+Slash direto no meio
+do pin para ir em frente.
+Slash na lateral do pin
+para aplicar spin.
+--------------------
+<green>Encarregar Slamminging de
+Slamming.<black> Desenhe uma linha.<->mas
+não levante o stylus.<->e você
+pode armazenar energia.
+--------------------
+Uma vez que a flecha começar
+a piscar, levante a caneta
+para soltar uma carga de
+alta velocidade!
+--------------------
+<green>Knockouts<black> Se
+um pin for atingido por um
+whammy, ele será nocauteado
+por um período de tempo.
+--------------------
+Se o seu pin ficar com KO'd, você
+pode rapidamente tocá-lo para
+encurtar o tempo de inatividade!
+--------------------
+Sim, quem não
+ama? <red>whammiess
+whammies<black>-
+Eu quero.
+--------------------
+Pins têm quatro ataques
+poderosos conhecidos
+como <red>whammies<black>, que são
+ativados com o direcional
+(ou o A B X Y Buttons).
+--------------------
+<green>Stinger<black> Use
+este golpe para cobrir
+seu pin com espinhos e
+inimigos KO que te tocam.
+(direcional à direita
+    {000F} Um Botão)
+--------------------
+<green>Ajudando
+a Mão<black> Se você tem reflexos
+rápidos, você pode
+salvar seu pin de cair da
+mesa! (direcional
+    down {000F} B Button)
 --------------------
 <green>Sledgehammer<black>
-Use this whammy to
-attack in a wide circle and
-KO foes from afar!
-(+Control Pad left{000F}
-    Y Button)
+Use este golpe para
+atacar em um círculo largo
+e inimigos KO de longe!
+(direcional à esquerda
+    {000F} Y Button)
 --------------------
-<green>Dive Bomber<black>
-Use this precision attack
-to vault into the air and
-drop onto a distant foe!
-(+Control Pad up{000F}
-    X Button)
+<green>Dive Bomber<black> Use
+este ataque de precisão
+para abobadar o ar e cair
+em um inimigo distante!
+(direcional up
+    {000F} X Button))
 --------------------
-Timing is key!
-Save your whammies for
-just the right moment...
-then turn the tables!
+Guarde seus
+whammies no
+momento certo,
+então vire a mesa!
 --------------------
-Here's <red>what
-whammies can do<black>...
-for YOU.
+Aqui está o que eu quero.
+<red>O que os whammies podem
+fazer<black>...para você.
 --------------------
-The <red>Stinger<black>,
-<red>Sledgehammer<black>, and
-<red>Dive Bomber<black> work much
-like rock-paper-scissors.
+O Theory. <red>Stinger.<black>,
+<red>Sledgehammermermermer<black>,
+<red>Bombardeiro de Mergulho<black>
+Funcionam como tesouras de papel.
 --------------------
-If an opponent uses the
-  <red>Stinger<black>,
-knock 'em out with the
-  <green>Sledgehammer<black>!
+Se umoponenteusar o
+  <red>Stinger.<black>, nocauteá-los
+com os amiguinhos.
+  <green>Sledgehammermermermer<black>!
 --------------------
-If an opponent uses the
-  <red>Sledgehammer<black>,
-get the drop on 'em with a
-  <green>Dive Bomber<black>!
+Se um oponente usa
+  o <red>Sledgehammer<black>,
+obter a gota sobre eles com
+  um <green>Dive Bomber<black>!
 --------------------
-If an opponent uses the
-  <red>Dive Bomber<black>,
-be ready to block with the
-  <green>Stinger<black>!
+Se umoponenteusar o <red>Bombardeiro
+  de Mergulho<black>Prepare-se
+para bloquear com o bloco.
+  <green>Stinger.<black>!
 --------------------
-Whammies also work while
-you're on the move!
+Whammies também trabalham
+enquanto você está em movimento!
 --------------------
-Except for the Helping
-Hand, you can use any
-whammy in the middle of a
-high-speed <red>Charge Slam<black>!
+Exceto para a Mão Auxiliar,
+você pode usar qualquer
+whammy no meio de uma alta
+velocidade <red>Charge Slam<black>!
 --------------------
-Try pairing a <red>Charge Slam<black>
-with the <red>Stinger<black>. You can
-KO an opponent when the
-slam connects!
+Tente emparelhar um <red>Charge
+Slam<black> com o <red>Stinger<black>. Você
+pode escolher um oponente
+quando o slam se conectar!
 --------------------
-Lastly, if an enemy slam
-sends you flying toward
-the table's edge, you can
-use the <red>Dive Bomber<black> to
-leap to safety!
+Por fim, se um ataque inimigo
+o enviar voando em direção à
+borda da mesa, você pode usar a
+arma. <red>Bombardeiro de Mergulho<black>
+Para saltar para a segurança!
 --------------------
-Remember...
-The right whammy at the
-right time can turn the
-whole match around!
+Lembre-se...
+o golpe certo na
+hora certa pode virar
+a partida toda!
 --------------------
-So many pins!
-How do you decide
-<red>which ones<black> to
-slam with?
+Como você decide
+se decidirá por tantas
+pins? <red>quaisdeles?<black>
+Para bater com?
 --------------------
-Stats like the number
-of whammies you can use
-vary from pin to pin.
+Estatísticas como o número
+de whammies que você pode
+usar variam de pin para pin.
 --------------------
-Other stats include
-weight, spin, and how long
-the pin stays KO'd.
+Outras estatísticas incluem
+peso, rotação, e quanto
+tempo o pin fica KO'd.
 --------------------
-While it's tempting to
-choose pins with tons of
-whammies, you should
-consider other factors.
+Embora seja tentador
+escolher pins com toneladas
+de whammies, você deve
+considerar outros fatores.
 --------------------
-The same whammy may
-have a different range,
-duration, or drop speed
-depending on the pin.
+O mesmo whammy pode ter
+um intervalo diferente,
+duração ou velocidade de
+queda dependendo do pin.
 --------------------
-In other words, lots of
-each whammy does not a
-strong pin make. Look at
-a pin's overall stats!
+Em outras palavras,
+muito de cada
+whammy não faz
+um pin forte.
 --------------------
-You can check pin stats
-from the Pins Menu.
-Just touch the <red>TIN PIN
-info tab<black>.
+Você pode verificar as
+estatísticas do pin do Menu
+de Pins. Basta tocar na guia
+de informações <red>Tin Pin<black>..
 --------------------
-Now you're
-ready to slam
-with the best.
+Agora você está
+pronto para bater
+com os melhores.
 --------------------
-Perhaps
-another day, you
-may even face...
-ME.
+Talvez
+Another Day, você
+pode até enfrentar...
+eu.
 --------------------
 ......
 --------------------
-Who is
-this guy?
+Quem é
+esse cara?
 --------------------

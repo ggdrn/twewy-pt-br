@@ -113,70 +113,70 @@ e eles irão compartilhar
 ou oferecer <red>novos itens à
 venda<black>.
 --------------------
-Store items marked with
-the word <red>QUEST<black> can't be
-bought with money.
+Itens da loja com a
+marca <red>QUEST<black> não podem ser
+comprados com dinheiro.
 --------------------
-To obtain a <red>quest item<black>,
-you'll need to <red>gather the
-materials<black> listed on the
-QUEST info tab.
+Para obter um <red>item de troca<black>,
+você precisa <red>reunir os
+materiais<black> listados na
+aba de informações QUEST.
 --------------------
-If one of the required
-materials is a pin, you'll
-need to <red>master the pin<black>
-before the clerk will
-accept it.
+Se um dos materiais
+exigidos for um pin,
+<red>domine o pin<black> antes
+de entregá-lo ao
+vendedor.
 --------------------
-Each area of Shibuya has
-a <red>brand chart<black> that ranks
-brands according to <red>local
-trends<black>.
+Cada área de Shibuya tem
+um <red>ranking de marcas<black>
+que segue as <red>tendências
+locais<black>.
 --------------------
-A brand's rank on this
-chart may <red>raise or lower
-the Attack<black> of all its pins
-during combat.
+A posição no ranking
+pode <red>aumentar ou reduzir
+o Ataque<black> dos pins da
+marca nas batalhas.
 --------------------
-The top-ranked brand
-gets a <red>massive Attack
-boost<black>, while the bottom
-brand's <red>Attack is halved<black>.
+A marca líder ganha
+um <red>grande bônus de
+Ataque<black>. Já a última tem
+o <red>Ataque cortado pela metade<black>.
 --------------------
-You can check the local
-chart from your <red>phone<black>.
-Keep your finger on
-Shibuya's fashion pulse!
+Confira o ranking local
+no seu <red>celular<black>.
+Fique por dentro da
+moda de Shibuya!
 --------------------
-You can <red>influence the
-local brand chart<black> by
-wearing threads and pins
-from your <red>favorite brand<black>
-into battle.
+Você pode <red>mudar o
+ranking local de marcas<black>
+usando roupas e pins da
+sua <red>marca favorita<black>
+em batalha.
 --------------------
-Changing the rankings
-will <red>affect the area and
-the people in it<black>.
+Mudar o ranking
+vai <red>afetar a área e
+as pessoas de lá<black>.
 --------------------
-<red>Bend the trends<black> to your
-will and create a Shibuya
-that's <red>yours alone<black>!
+<red>Mude as tendências<black>
+como quiser e crie uma
+Shibuya <red>só sua<black>!
 --------------------
-Looking to score pins and
-a ton of PP? Try taking
-on a group of enemies at
-once in a <red>chain battle<black>.
+Quer ganhar pins e
+um monte de PP? Enfrente
+vários grupos de inimigos
+numa <red>batalha em cadeia<black>.
 --------------------
-<red>Touch more than one
-Noise Symbol<black> before the
-battle starts, then get
-ready to reduce some
-Noise!
+<red>Toque em mais de um
+Símbolo de Ruído<black> antes
+de começar a batalha.
+Aí é só se preparar
+pra reduzir os Ruídos!
 --------------------
-With each round, or
-"reduction," the <red>Noise get
-tougher<black><->but they also
-<red>drop more pins<black>!
+A cada rodada, ou
+"redução", os <red>Ruídos ficam
+mais fortes<black><->mas também
+<red>deixam cair mais pins<black>!
 --------------------
 
 --------------------
@@ -242,140 +242,140 @@ ou direita nos botões
 direcionais (ou os botões
 A e Y) enquanto pular.
 --------------------
-While Shiki is performing a
-combo, she can wheel
-around and deliver a blow
-to foes behind her.
-This is called a <red>counter<black>.
+Durante um combo, Shiki
+pode se virar e atacar
+inimigos que estiverem
+atrás dela. Isso se chama
+<red>contra-ataque<black>.
 --------------------
-Land a counter and she
-will deal <red>massive damage<black>!
+Se acertar, o contra-ataque
+causa <red>muito dano<black>!
 --------------------
-It's simple to pull off.
-Just press the button for
-the <red>direction opposite the
-way Shiki is attacking<black>.
+É fácil de fazer. Basta
+apertar o botão na
+<red>direção oposta à do
+ataque da Shiki<black>.
 --------------------
-So if she's attacking left,
-press right on the
-+Control Pad
-(or the A Button). Try it!
+Se ela atacar à esquerda,
+aperte direita no
+direcional
+(ou o botão A). Experimente!
 --------------------
-The enigmatic Joshua
-fights differently than
-your previous partner,
-Shiki.
+O enigmático Joshua
+luta de um jeito
+diferente de Shiki,
+sua parceira anterior.
 --------------------
-As you progress through
-the combo map, he'll <red>lock
-on<black> to more and more
-enemies.
+Ao avançar pelo
+mapa de combos,
+ele <red>trava a mira<black> em
+cada vez mais inimigos.
 --------------------
-When you reach the
-combo finisher, he'll deal
-damage to <red>all targeted
-foes at once<black>.
+Ao chegar ao golpe
+final do combo, ele
+atinge <red>todos os alvos
+de uma vez<black>.
 --------------------
-If <red>only one enemy is
-present<black>, he can lock on
-to it multiple times to
-deliver <red>massive damage<black>!
+Se houver <red>um só inimigo
+na tela<black>, Joshua pode
+mirar nele várias vezes
+pra causar <red>muito dano<black>!
 --------------------
-Joshua is a prickly
-partner for a laundry list
-of reasons...just one
-being that he <red>can't jump<black>.
+Joshua é um parceiro
+difícil por um monte
+de motivos. Pra começar,
+ele <red>não pode pular<black>.
 --------------------
-He'll have to dodge enemy
-attacks instead!
+Ele vai ter que desviar
+dos ataques inimigos!
 --------------------
-To <red>sidestep<black>, press
-down on the +Control Pad
-(or the B Button) while
-Joshua is stationary.
+Para <red>esquivar<black>, aperte
+para baixo no direcional
+(ou o botão B) enquanto
+Joshua estiver parado.
 --------------------
-Keep an eye on
-approaching enemies and
-gracefully dodge their
-blows. Then <red>strike back<black>!
+Fique de olho nos
+inimigos que se aproximam
+e desvie dos golpes.
+Depois, <red>revide<black>!
 --------------------
-While performing a combo,
-Joshua can use his
-phone's <red>camera<black> to shift
-enemies left or right
-across the screen.
+Durante um combo, Joshua
+pode usar a <red>câmera<black>
+do celular para mover
+inimigos de um lado
+para o outro da tela.
 --------------------
-Just press the button for
-the <red>direction opposite the
-way Joshua is attacking<black>.
+Basta apertar o botão
+na <red>direção oposta à do
+ataque do Joshua<black>.
 --------------------
-So if he's attacking left,
-press right on the
-+Control Pad
-(or the A Button).
+Se ele atacar à esquerda,
+aperte direita no
+direcional
+(ou o botão A).
 --------------------
-Shift enemies to one side
-to <red>stun them<black>.
-Once they're clumped
-together, smite them with
-a quick combo!
+Mova os inimigos para um
+lado para <red>atordoá-los<black>.
+Quando estiverem
+agrupados, acerte todos
+com um combo rápido!
 --------------------
-Joshua will <red>teleport into
-the air<black> if you press up on
-the +Control Pad
-(or the X Button).
+Joshua vai <red>se teleportar
+para o ar<black> se você apertar
+para cima no direcional
+(ou o botão X).
 --------------------
-From there he can <red>wail on
-foes beneath him<black>.
-His aerial attacks <red>deal
-damage with each step<black>
-through the combo map.
+De lá, ele <red>ataca os
+inimigos abaixo dele<black>.
+Seus ataques aéreos <red>causam
+dano a cada passo<black>
+no mapa de combos.
 --------------------
-<red>Lock on to enough
-enemies<black> and you can
-<red>transform his finisher<black> into
-an increasingly powerful
-attack.
+<red>Mire em inimigos
+suficientes<black> para
+<red>transformar o golpe final<black>
+num ataque cada vez
+mais poderoso.
 --------------------
-When aloft, Joshua is
-<red>significantly<black> stronger.
-Use that power to your
-advantage!
+No ar, Joshua fica
+<red>bem<black> mais forte.
+Use esse poder a
+seu favor!
 --------------------
-Beat is a regular acrobat
-on his board. He can <red>jump<black>
-right from the outset!
+Beat faz acrobacias
+no skate. Ele pode <red>pular<black>
+desde o começo!
 --------------------
-Just remember that his
-<red>ground combo finisher is
-stronger<black>.
+Só lembre que o <red>golpe
+final do combo no
+chão é mais forte<black>.
 --------------------
-Though his <red>aerial attacks<black>
-do less damage, they also
-<red>hit enemies both in the air
-and on the ground<black>.
+Os <red>ataques aéreos<black> causam
+menos dano, mas <red>atingem
+inimigos no ar e no
+chão<black>.
 --------------------
-Jump to avoid enemy
-attacks, then <red>return the
-hurt in spades<black>. It's death
-from above, baby!
+Pule para desviar dos
+ataques e <red>dê o troco
+em dobro<black>. É chumbo
+grosso lá de cima!
 --------------------
-Beat can jump while in the
-middle of performing a
-combo. This is called an
-<red>air cancel<black>.
+Beat pode pular no
+meio de um combo.
+Isso se chama
+<red>cancelamento aéreo<black>.
 --------------------
-Just press the button for
-the <red>direction opposite the
-way Beat is attacking<black>.
+Basta apertar o botão
+na <red>direção oposta à do
+ataque do Beat<black>.
 --------------------
-So if he's attacking left,
-press right on the
-+Control Pad
-(or the A Button).
+Se ele atacar à esquerda,
+aperte direita no
+direcional
+(ou o botão A).
 --------------------
-Air cancel mid-combo to
-avoid danger, then <red>switch
-to an aerial combo<black> and
-keep delivering the hurt!
+Use o cancelamento
+aéreo para escapar e
+<red>emendar um combo aéreo<black>
+sem parar de bater!
 --------------------

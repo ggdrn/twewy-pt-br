@@ -36,31 +36,31 @@ Ataque <red>+20%
 --------------------
 Ataque <blue>pela metade
 --------------------
-<black>Before you can start a new game,
-you will need to <red>DELETE all of the
-data you've saved so far<black>.
+<black>Para começar um novo jogo, você precisa
+<red>APAGAR todos os dados que
+salvou até agora<black>.
 
-<red>Are you sure <black>you want to do this?
+<red>Tem certeza<black> de que quer fazer isso?
 --------------------
-<black>Once you DELETE your data, it's gone
-and <red>it ain't ever coming back<black>.
+<black>Depois de APAGAR os dados,
+<red>não tem como recuperá-los<black>.
 
-Are you <red>really sure<black>?
+<red>Tem mesmo certeza<black>?
 --------------------
-<red>Last warning<black>!
+<red>Último aviso<black>!
 
-Are you <red>absolutely sure<black> you want
-to <red>DELETE all your data<black>?
+Você tem <red>certeza absoluta<black> de que quer
+<red>APAGAR todos os seus dados<black>?
 --------------------
-<black>Deleting data...
-Do not turn power OFF.
+<black>Apagando os dados...
+Não desligue o console.
 --------------------
-<black>All data has been <red>deleted<black>!
+<black>Todos os dados foram <red>apagados<black>!
 
-And now, presenting...
+E agora, apresentamos...
 <red>The World Ends with You<black>
 
-Enjoy the game!
+Bom jogo!
 --------------------
 <black>Sim, <red>apague os meus dados
 --------------------
@@ -74,173 +74,173 @@ Enjoy the game!
 --------------------
 <black>Cancelar
 --------------------
-<black>Your save data has been corrupted.
-<red>Deleting save data...
+<black>Os dados salvos estão corrompidos.
+<red>Apagando os dados...
 --------------------
-<red>Save data has been deleted.
+<red>Os dados salvos foram apagados.
 --------------------
-<black>Unable to read your data.
-<red>Turn power OFF<black> and try
-<red>reinserting the Game Card<black>.
+<black>Não foi possível ler os dados.
+<red>Desligue o console<black> e tente
+<red>reinserir o cartucho<black>.
 --------------------
-<black>Unable to write your data.
-<red>Turn power OFF<black> and try
-<red>reinserting the Game Card<black>.
+<black>Não foi possível gravar os dados.
+<red>Desligue o console<black> e tente
+<red>reinserir o cartucho<black>.
 --------------------
 Um hamburger comum.
 Nada especial, mas quem liga?
 --------------------
-Two mouthwateringly juicy patties on a sesame-seed
-bun. This delectable burger is enough to sate the
-hungriest of men.
+Dois petiscos suculentos em um pão de semente de
+gergelim. Este hambúrguer delicioso é suficiente para
+saciar a fome dos homens.
 --------------------
-Thin-cut potatoes, lightly salted and fried to a golden
-brown. Forget about calories<->these are worth the
-weight.
+Batatas finas, levemente salgadas e fritas
+a um marrom dourado.<->Estes valem
+o peso.
 --------------------
-A juicy frankfurter jutting out of a freshly-baked
-bun. Sometimes the simplest foods can be the best.
+Um frankfurter suculento saindo de um pão recém-assado.
+s vezes, os alimentos mais simples podem ser os melhores.
 --------------------
-A hot dog loaded with melted cheddar, relish, and
-ketchup for a colorful meal that's a feast for the
-eyes.
+Um cachorro-quente carregado com cheddar derretido,
+saboreie e ketchup para uma refeição colorida que é um
+banquete para os olhos.
 --------------------
-Old-fashioned donuts.
-Crisp and not too sweet, these tasty morsels are
-perfect for a snack.
+Donuts antiquados, frios
+e não muito doces, esses petiscos saborosos são
+perfeitos para um lanche.
 --------------------
-Plain and chocolate chip muffins, paired together for
-maximum variety. They're more filling than they look!
+Muffins simples e de chocolate, combinados para a
+variedade máxima, são mais cheios do que parecem!
 --------------------
-5-piece chicken nuggets.
-Every succulent bite offers an explosion of chickeny
-goodness that'll make you wish you had six.
+5 nuggets de frango.
+Cada mordida é tão suculenta que você vai
+querer que a porção venha com seis.
 --------------------
-Crisp lettuce combined with a variety of colorful
-garden vegetables for a healthy, yet tasty,
-alternative.
+Alface crocante combinada com uma variedade de
+vegetais de jardim coloridos para uma alternativa
+saudável, mas saborosa.
 --------------------
-The ultimate burger, made with only the finest
-ingredients. Even the pickiest of foodies will shut up
-and chow down.
+O hambúrguer final, feito apenas com os melhores
+ingredientes, até os mais exigentes dos foodies se
+calarão e comerão.
 --------------------
-An extra-select frank made with only top-quality
-ingredients. It all comes down to the chili.
+Um franco extra-selecionado feito apenas com ingredientes
+de alta qualidade. Tudo se resume ao chili.
 --------------------
-Frosty, fizzy, and fun, this classic quencher packs
-the refreshing power of the kola nut!
+Frosty, efervescente, e divertido, este clássico
+temperador embala o poder refrescante da noz de cola!
 --------------------
-100% orange juice.
-Fresh, full, citrusy flavor granted by the twin
-blessings of the earth and sun.
+Suco de laranja 100%,
+sabor fresco, cheio, cítrico, concedido pelas
+bênçãos gêmeas da terra e do sol.
 --------------------
-A dark, smoky flavor punctuates this smooth black
-coffee.
+Um sabor escuro e esfumaçado pontua esse café
+preto suave.
 --------------------
-Only the finest beans were selected for this drip
-coffee; the aroma is almost as invigorating as the
-flavor.
+Apenas os melhores grãos foram selecionados para este
+café gotejamento; o aroma é quase tão revigorante
+quanto o sabor.
 --------------------
-Piping hot minestrone.
-Packed with fresh-cut vegetables, this soup is both
-healthy and filling.
+Embalado com
+legumes frescos, esta sopa é saudável
+e recheada.
 --------------------
-Piping hot corn chowder.
-A thick, rich blend of corn, cream, and butter.
+Uma mistura espessa
+e rica de milho, creme e manteiga.
 --------------------
-A flavorful seafood stew.
-The delicious, rich broth is guaranteed to transport
-your palate to paradise.
+O delicioso e rico
+caldo é garantido para transportar seu
+paladar para o paraíso.
 --------------------
-A thick chowder kissed by the subtle sweetness of
-pumpkin. Nutritious and delicious.
+Uma cowder grossa beijada pela
+doçura sutil da abóbora.
 --------------------
-Noodles in a delicious soy sauce broth.
-An exercise in balance, the soup's flavor is deep yet
-not heavy, savory but not saline.
+Macarrão em um delicioso caldo de molho de soja,
+um exercício em equilíbrio, o sabor da sopa é profundo,
+mas não pesado, salgado, mas não salino.
 --------------------
-Noodles in miso broth, topped with veggies.
-Red and white miso were stewed for over thirty hours
-to create an unmistakably rich soup.
+Macarrão em caldo de miso, coberto de vegetais,
+ensopado de miso vermelho e branco por mais de trinta
+horas para criar uma sopa inequivocamente rica.
 --------------------
-Noodles in a light, salty broth.
-The simple, unpretentious flavor will convince even the
-choosiest ramen nut.
+Noodles em um caldo leve e salgado.
+O sabor simples e despretensioso convencerá até a mais
+choosiest ramen noz.
 --------------------
-Noodles in a full-flavored pork bone broth.
-Hand-picked ham hocks and backfat provide an
-unexpectedly clean, crisp taste.
+Macarrão em um caldo de osso de porco com sabor
+completo, presunto e gordura fornecem um sabor
+surpreendentemente limpo e crocante.
 --------------------
-Shimmering black noodles topped with a decadent
-Yonezawa beef steak give this murky ramen a top-
-class flavor.
+Macarrão preto brilhante coberto com um bife de
+carne Yonezawa decadente dar a este ramen turvo um
+sabor de primeira classe.
 --------------------
-The result of countless hours of research, this is the
-ultimate ramen. One mouthful and no other noodles will
-ever compare.
+O resultado de incontáveis horas
+de pesquisa, este é o último
+ramen.
 --------------------
-This treasure of the ramen world was born of a
-complete reimagining of the soup, its flavor both
-familiar and brand new.
+Este tesouro do mundo ramen nasceu de
+uma releitura completa da sopa, seu sabor
+familiar e novo.
 --------------------
-Enjoy the classic taste of Ramen Don anywhere.
-Just add water!
+Aproveite o gosto clássico de Ramen Don em
+qualquer lugar.
 --------------------
-A full day's worth of nutrients packed into one handy
-tablet. Perfect for folks looking for a healthy life in
-the fast lane.
+Um dia cheio de nutrientes embalados em um tablet útil.
+Perfeito para pessoas que procuram uma vida saudável na
+pista rápida.
 --------------------
-Rich in niacinamide, this unique blend encourages
-activity throughout the body's tissues, upping its
-natural supply of energy.
+Rica em niacinamida, esta mistura única estimula a
+atividade em todos os tecidos do corpo, aumentando
+seu suprimento natural de energia.
 --------------------
-This vitamin C supplement not only boosts the body's
-resistance to illness, but also wards off stress-
-induced fatigue.
+Este suplemento de vitamina C não só aumenta a
+resistência do corpo à doença, mas também evita a fadiga
+induzida pelo estresse.
 --------------------
-Every bar has been blessed by Japan's top spirit
-channeler. Eat one, and you'll be making friends
-without even trying.
+Todos os bares foram abençoados pelo melhor
+canalizador de espíritos do Japão, comam um, e
+farão amigos sem sequer tentar.
 --------------------
-A step above your average ginseng, this special strain
-has been cultivated to maximize its strength-giving
-properties.
+Um passo acima do seu ginseng médio, essa cepa especial
+foi cultivada para maximizar suas propriedades de
+dar força.
 --------------------
-Incredibly scarce, this rarefied delicacy is said to bring
-instant fortune to any who eat it.
+Incrivelmente escassa, esta iguaria rarefeita é dito para trazer
+fortuna instantânea para qualquer um que coma.
 --------------------
-A rare and costly Chinese remedy, this parasitic fungus
-grows on insect larvae. Use it to tap the wellspring of
-courage within you.
+Um remédio chinês raro e caro, este fungo parasita
+cresce em larvas de insetos. Use-o para bater a fonte de
+coragem dentro de você.
 --------------------
-The secret of this nutritious tonic is red viper soaked
-in a special mixture. One gulp and you'll be bursting with
-energy.
+O segredo desse tônico nutritivo é
+a víbora vermelha embebida em uma mistura
+especial.
 --------------------
-This supplement is made with royal jelly<->special honey
-only given to the queen bee. Its nutritional properties
-are unmatched.
+Este suplemento é feito com geleia real<->mel especial só
+dado à abelha rainha. Suas propriedades nutricionais são
+incomparáveis.
 --------------------
-Packed with over fifty different herbal medicines, this
-tonic gives its drinker an almost magical toughness.
+Embalado com mais de cinquenta medicamentos à base de plantas
+diferentes, este tônico dá ao seu bebedor uma resistência quase mágica.
 --------------------
-Curiosity is the primary ingredient in this energy drink.
-One sip gives you the courage to do anything you put
-your mind to.
+A curiosidade é o principal ingrediente desta bebida energética.
+Um gole lhe dá a coragem de fazer qualquer coisa que você
+colocar sua mente.
 --------------------
-Everyone's favorite: sweet vanilla soft serve.
-Its rich, creamy flavor delights young and old alike.
+O favorito de todos: doce baunilha suave,
+seu sabor rico e cremoso encanta jovens e velhos.
 --------------------
-Vanilla, dark chocolate and milk chocolate harmonize in
-a perfectly sinful symphony of creamy goodness.
+Baunilha, chocolate escuro e chocolate ao leite se harmonizam
+em uma sinfonia perfeitamente pecaminosa de bondade cremosa.
 --------------------
-Pancakes fresh off the griddle. 
-The subtle sweetness of butter and maple syrup makes
-these an instant hit.
+A doçura sutil da manteiga
+e do xarope de bordo faz disso um sucesso
+instantâneo.
 --------------------
-A crepe filled with strawberries and fresh whipped
-cream, each flavor beautifully complementing the
-other.
+Um crepe cheio de morangos e creme de chantilly
+fresco, cada sabor maravilhosamente complementando
+o outro.
 --------------------
 Hambúrguer
 --------------------
@@ -256,37 +256,37 @@ Rosquinhas
 --------------------
 Pacote de Muffins
 --------------------
-Nuggets
+Nuggets.
 --------------------
 Salada
 --------------------
-The "Tatsumi" Burger
+O "Tatsumi" Burger
 --------------------
 Cachorro Picante Definitivo
 --------------------
 Cola
 --------------------
-OJ
+JO
 --------------------
 Café
 --------------------
 Mistura da Casa
 --------------------
-Minestrone
+Minestronenene Minestronene
 --------------------
 Ensopado de Milho
 --------------------
-Bouillabaisse
+Bouillabaissesse
 --------------------
 Sopa de Abóbora
 --------------------
-Shoyu Ramen
+Shoyu Ramen Ramen.
 --------------------
 Misso Ramen
 --------------------
-Shio Ramen
+Shio Ramen.
 --------------------
-Tonkotsu Ramen
+Tonkotsu Ramenentsu Ramen.
 --------------------
 Costela Negra Ramen
 --------------------
@@ -298,29 +298,29 @@ Macarrão Instantâneo
 --------------------
 Comprimidos de HP
 --------------------
-ATK Capsules
+Cápsulas ATK Cápsulas ATK Cápsulas
 --------------------
-DEF Medicine
+Medicina DEF
 --------------------
-Sync Bar
+Barra de Sincronização
 --------------------
 Ginseng
 --------------------
-Curious Mushrooms
+Cogumelos Curiosos
 --------------------
-Cordyceps
+Cordyceps.
 --------------------
-Viper Drink
+Bebida de víbora
 --------------------
-Royal Jelly Q10
+Royal Jelly Q10 Q10 10
 --------------------
-Mako Sinnergy
+Mako Sinnergygy Sinnergy
 --------------------
-BRAVE+
+BRAVE+ + BRAVE+
 --------------------
-Vanilla Soft Serve
+Vanilla Soft Servir Servir Soft
 --------------------
-Soft Serve Swirl
+Soft Serve Swirl Swirl
 --------------------
 Panquecas
 --------------------
@@ -340,89 +340,89 @@ MUDANDO DIFICULDADE DE LUTA
 --------------------
 CONFIGURAÇÕES DE PARCEIROS
 --------------------
-Use the Phone Menu to <red>access game menus<black> and
-<red>adjust battle settings<black>.
+Use o Menu do Celular para <red>acessar os menus<black> e
+<red>ajustar as opções de batalha<black>.
 
-<red>Touch the "?" icon<black> in the upper right of the bottom
-screen to view this help at any time.
+<red>Toque no ícone "?"<black> no canto superior direito da tela
+de toque para consultar esta ajuda quando quiser.
 
-<blue>CONTENTS<black>
-        Top Screen Layout  . . . . . . . . . . . . . p. 2
-        Bottom Screen Layout . . . . . . . . . . . p. 3
-        Accessing Sub-menus . . . . . . . . . . . . p. 4
-        Changing Your Level . . . . . . . . . . . . . p. 5
-        Setting Battle Difficulty  . . . . . . . . . p. 6
-        Partner Settings . . . . . . . . . . . . . . . p. 7
+<blue>ÍNDICE<black>
+        Tela Superior  . . . . . . . . . . . . . . . . . . p. 2
+        Tela de Toque . . . . . . . . . . . . . . . . . . p. 3
+        Como Acessar Submenus . . . . . . . . . . p. 4
+        Como Mudar de Nível . . . . . . . . . . . . . . p. 5
+        Dificuldade da Batalha  . . . . . . . . . . . . p. 6
+        Opções do Parceiro . . . . . . . . . . . . . . . p. 7
 --------------------
-<blue>Top: Current Location<black>
-    The area you are in right now.
+<blue>Top: Localização atual<black>
+    A área em que você está agora.
 
-<blue>Left: Brand Chart<black>
-    Check this chart to find out <red>which brands are hot
-    (and not)<black> in this area.
+<blue>Esquerda: Gráfico de
+    marca<black> Confira este gráfico para descobrir <red>quais marcas
+    são quentes (e não)<black> nesta área.
 
-<blue>Right: Map of Shibuya<black>
-    Neku's current location is marked with an icon.
-    The two-letter labels tell you the hottest brand
-    in each area.
+<blue>Direita: Mapa da
+    localização atual do Shibuya<black> Neku está marcado com um
+    ícone. As etiquetas de duas letras dizem a marca mais
+    quente em cada área.
 --------------------
-<blue>Center: Menu Panels<black>
-    <red>Touch any panel<black> to open that menu.
+<blue>Centro: Menu Painéis<black> <red>Toque
+    em qualquer painel<black> para abrir esse menu.
 
-<blue>Below: Player Stats<black>
-    LEVEL:  Your current{000F}max level.
-    NEXT:  EXP needed to level up.
-    HP:  Your life energy during battle.
+<blue>Abaixo: Estatísticas
+    do Jogador.<black> Seu atual nível
+    atual é o seu nível.{000F}HP: Sua
+    energia vital durante a batalha.
 
-<blue>Bottom: MONEY and DROP RATE<black>
-    You need yen (money) for <red>shopping<black>.
-    The drop rate is a multiplier that increases <red>how
-    often defeated enemies will drop pins<black>.
-    (See p. 5)
+<blue>No fundo: RAZ O DE DINHEIRO E
+    DROPE<black> Você precisa de ienes (dinheiro) para
+    <red>compras<black>. A taxa de pins é um multiplicador que aumenta
+    <red>quantas vezes os inimigos derrotados vão cair
+    pins<black>. (Veja p. 5).
 --------------------
-To access another menu, simply<red> touch one of the
-menu panels<black> on the bottom screen.
+Para acessar outro menu, simplesmente <red>toque em um
+dos painéis de menu<black> na tela de toque.
 
-Some panels will not be accessible until you find the
-items to unlock them.
+Alguns painéis não estarão acessíveis até que você encontre
+os itens para desbloqueá-los.
 --------------------
-You can <red>change your level<black> at any time by sliding the
-knob on the <red>level gauge (LVG)<black> in the lower half of
-the bottom screen.
+Você pode. <red>Mude seu nível de nível.<black> a qualquer momento,
+deslizando o botão no botão do lado esquerdo. <red>bitola de
+nível (LVG)<black> na metade inferior da tela.
 
-<blue>Play at Any Level<black>
-    You are free to set your level anywhere between
-    LV 1 and your maximum level.
+<blue>Jogue em qualquer
+    nível<black> Você está livre para definir seu nível
+    entre o LV 1 e seu nível máximo.
 
-<blue>What's the Point of That?<black>
-    True, lowering your level means less HP and riskier
-    battles. But in exchange, your DROP RATE will
-    increase and enemies will <red>drop more pins in battle<black>.
+<blue>Qual é o sentido disso?<black> É
+    verdade, baixar seu nível significa menos HP e batalhas
+    mais arriscadas. Mas em troca, sua taxa de pins aumentará
+    e os inimigos aumentarão. <red>Solte mais pins na batalha.<black>.
 --------------------
-Drag the <red>DIFFICULTY<black> panel in the lower half of the
-bottom screen to <red>adjust the difficulty<black> of combat.
+Arraste o arranhão. <red>DIFICULDADE DIFERENCIAL<black> painel na metade inferior da tela
+para baixo até a parte inferior do ecrã. <red>ajustar adificuldade<black> de combate.
 
-You need special items to unlock new difficulty
-levels.
+Você precisa de itens especiais para desbloquear novos
+níveis de dificuldade.
 
-<blue>Create Your Own Combat Style<black>
-    You can change the difficulty <red>any time you want<black>,
-    so go on. Mess around. Live a little. Find what
-    works best for you...and work it!
+<blue>Crie seu próprio estilo de combate<black>
+    Você pode mudar a dificuldade <red>sempre que quiser<black>, então
+    vá em frente. Mexa-se. Viva um pouco. Encontre o que
+    funciona melhor para você... e trabalhe!
 --------------------
-Drag the <red>PARTNER<black> panel in the lower half of the
-bottom screen to <red>change your partner's behavior<black> in
-combat.
+Arraste o painel <red>PARCEIRO<black> na metade inferior
+da tela para <red>mudar o comportamento do seu parceiro<black>
+em combate.
 
-<blue>What's Auto-play?<black>
-    If you stop controlling your partner for a set
-    period of time, she will <red>start attacking on her
-    own<black>.
+<blue>O que é
+    Auto-play?<black> Sevocêparar decontrolar seuparceiro por
+    umperíododeterminado de tempo,elavai <red>começar a atacar
+    por conta própria.<black>.
 
-<blue>Just Starting Out?<black>
-    Turn on auto-play and <red>let your partner take care
-    of herself<black> until you get the hang of the bottom
-    screen controls.
+<blue>Apenas começando?<black>
+    Ligue o jogo automático e <red>deixe seu parceiro cuidar
+    de si mesmo<black> até você pegar o jeito dos controles
+    da tela de toque.
 --------------------
 O MENU DE GRAVAÇÃO
 --------------------
@@ -432,52 +432,52 @@ COMO SALVAR
 --------------------
 SEU RELATÓRIO DE JOGO
 --------------------
-Use this menu to <red>save your game<black> and <red>view a Game
-Report<black> that summarizes your progress.
+Use este menu para usar esse menu. <red>salvar seu jogo<black>
+e <red>ver umRelatório deJogo<black> que resume seu progresso.
 
-<blue>CONTENTS<black>
-        Screen Layout . . . . . . . . . . . . . . . . . p. 2
-        How to Save  . . . . . . . . . . . . . . . . . . p. 3
-        Your Game Report  . . . . . . . . . . . . . . p. 4
+<blue>4 CONTE
+        DO<black> Layout de Tela............ p. 2 Como
+        Salvar.................. p. 3 Seu Relatório
+        de Jogo..... p. 3 Seu Relatório de Jogo
 --------------------
 <blue>Top Screen: Game Report<black>
-   Details your progress in the game.
+   Detalha seu progresso no jogo.
 
 <blue>Top Screen: Character Stats<black>
-    Shows the items and pins you were wearing the
-    last time you saved.
+    mostra os itens e pins que você estava usando
+    da última vez que salvou.
 
-<blue>Bottom Screen: Saved Data<black>
-    The data you currently have saved.
+<blue>Tela de toque: Dados salvos<black>
+    Os dados que você salvou atualmente.
 
-<blue>Bottom Screen: Save Panel<black>
-    You can <red>save your current progress<black> by touching
-    this panel.
+<blue>Tela de toque: Salvar
+    Painel<black> Você pode <red>salvar seu progresso atual<black> tocando
+    neste painel.
 --------------------
-You can save whenever you want.
-Simply open the Save Menu and <red>touch the SAVE panel<black>
-in the lower right corner of the bottom screen.
+Basta abrir o Menu de
+Gravação e <red>tocar no painel SAVE<black> no canto
+inferior direito da tela de toque.
 
-<blue>Why Save?<black>
-    Save your game and you can <red>resume exactly where
-    you left off<black>, even after turning off your DS.
+<blue>Por que salvar?<black>
+    Salve seu jogo e você pode <red>retomar exatamente
+    onde parou<black>, mesmo depois de desligar seu DS.
 
-Touch <red>CONTINUE<black> at the Title Screen to load your
-save data.
+Toque em <red>CONTINUAR<black> na Tela de Título para carregar
+seus dados salvos.
 --------------------
-<blue>ESP'er Rank<black>
-    A title awarded based on your points.
-<blue>ESP'er Points<black>
-    The more you play, the more of these you'll earn.
-<blue>Noise Report<black>
-    Number and percentage of enemies filled in.
-<blue>Pin Mastery<black>
-    Number and percentage of pin types mastered.
-<blue>Item Collection<black>
-    Number{000F}percentage of items found.
-<blue>Final Time Attack<black>
-    Your <red>fastest time<black> for certain story battles in
-    the game will be recorded.
+<blue>ESP'er Rank
+    Rank<black> Um título concedido com base em seus
+pontos. <blue>Pontos
+    ESP'er<black> Quanto mais jogar, mais ganhará. <blue>Relatório de
+Ruídos<black> Número
+    e porcentagem de inimigos preenchidos. <blue>Domínio
+de Pins<black>
+    Número e porcentagem de tipos de pin dominados.
+<blue>Coleção de Itens<black>
+    Número{000F}porcentagem de itens encontrados.
+<blue>Desafio Final de Tempo<black>
+    Sua é sua. <red>tempomaisrápido<black> para certas batalhas de
+    história no jogo serão gravadas.
 --------------------
 O MENU DE PINS
 --------------------
@@ -501,157 +501,157 @@ SABEDORIA DOS PINS (2{000F}3)
 --------------------
 SABEDORIA DOS PINS (3{000F}3)
 --------------------
-Use this menu to <red>find out more about your pins<black> and
-pick which ones to <red>wear<black> into battle. You can also
-drag unneeded pins into the <red>Trash Can<black> to sell them
-and <red>make some cash<black>.
+Use este menu para <red>conhecer seus pins<black> e escolher
+quais quer <red>equipar<black> para as batalhas. Você também pode
+arrastar os pins que sobram para a <red>Lixeira<black> para vendê-los
+e <red>ganhar dinheiro<black>.
 
-<blue>CONTENTS<black>
-        Top Screen Layout  . . . . . . . . . . . . . p. 2
-        Bottom Screen Layout . . . . . . . . . . . p. 4
-        How to Wear Pins . . . . . . . . . . . . . . . p. 5
-        Setting Up Sub-slots  . . . . . . . . . . . . p. 6
-        Organizing Your Pins . . . . . . . . . . . . . p. 7
-        Button Shortcuts  . . . . . . . . . . . . . . p. 8
-        Pin Wisdom . . . . . . . . . . . . . . . . . . . . p. 9
+<blue>ÍNDICE<black>
+        Tela Superior  . . . . . . . . . . . . . . . . . . p. 2
+        Tela de Toque . . . . . . . . . . . . . . . . . . p. 4
+        Como Equipar Pins . . . . . . . . . . . . . . . p. 5
+        Como Configurar Subslots . . . . . . . . . . p. 6
+        Como Organizar seus Pins  . . . . . . . . . p. 7
+        Atalhos de Botões  . . . . . . . . . . . . . . . p. 8
+        Dicas sobre Pins . . . . . . . . . . . . . . . . . p. 9
 --------------------
-<blue>Top: Pin Information<black>
-    NAME{000F}BRAND:  The pin's name and brand.
-    LV:  The pin's current{000F}maximum level.
-    PSYCH:  What the pin does in battle.
-    NEXT:  PP needed for the pin to level up.
-    PP:  The pin's combined growth gauge.
+<blue>Topo:Informação do Pin<black>
+    NOME DE NOME{000F}O nome e a marca do pin.
+    LV: O pin é o atual, o atual.{000F}nível
+    máximo. O que o pin faz na batalha.
+    PP precisava que o pin subisse. PP: O pin
+    é um medidor de crescimento combinado.
 
-<blue>The PP Gauge's Secret<black>
-    If you look at your stockpile pins that are still
-    growing, you'll notice their PP gauges are <red>split
-    into different colors<black>. These colors are the key to
-    <red>pin evolution<black>.
-    HINT: <red>Where did you get the PP?<black>
+<blue>O segredo do calibre PP<black>
+    Se você olhar para seus pins de estoque que ainda estão
+    crescendo, você notará que os calibres PP deles estão
+    <red>divididos em cores diferentes<black>. Essas cores são a chave
+    para <red>evolução do
+    pin<black>. HINT: <red>Onde você conseguiu o PP?<black>
 --------------------
 <blue>Center: Pin Stats<black>
-    SPEC:  How well the pin performs.
-    CLASS:  The pin's class.
-    LIMIT:  Pin usage limitations.
-    VALUE:  The amount the pin sells for.
-    BOOT:  Time until you can use the pin in battle.
-    REBOOT:  Time the pin takes to recharge in battle.
+    SPEC: Como o pin funciona. CLASSE:
+    A classe do pin. LIMITE:
+    Limitações de uso do pin. VALOR:
+    O valor pelo qual o pin é vendido. BOOT:
+    Tempo até que você possa usar o pin na batalha. REBOOT:
+    Tempo que o pin leva para recarregar em batalha.
 
 <blue>Bottom: Info Window<black>
-    Explains more about the pin's abilities and how to
-    use them. Touch the <red>INFO<black> tabs at the upper part
-    of the bottom screen to <red>flip between pages<black>.
+    Explica mais sobre as habilidades do pin e como
+    usá-las. Toque nas abas <red>INFO<black> na parte superior
+    da tela de toque para <red>virar entre páginas<black>...
 --------------------
-<blue>Top: Decks<black>
-    The deck of pins you will <red>use during battle<black>.
-    You can create up to four decks. Use the
-    numbered switches to select a deck.
+<blue>Top: Decks: Decks.<black>
+    O baralho de pins você vai querer. <red>usodurante
+    abatalha<black>Você pode criar até quatro decks. Use os
+    switches numerados para selecionar um deck.
 
-<blue>Bottom: Stockpile Folder<black>
-    Touch the <red>STOCKPILE<black> tab to view your stockpile
-    pins (pins that can <red>still grow<black>).
+<blue>Bottom: Pasta de Estoque<black>
+    Toque na aba <red>ESTOCKPILE<black> para ver seus pins de
+    estoque (pins que podem <red>ainda crescer<black> ).
 
-<blue>Bottom: Mastered Folder<black>
-    Touch the <red>MASTERED<black> tab to view your mastered
-    pins (pins that have reached the <red>maximum level<black>,
-    LV {0140}).
+<blue>Fundo:Pasta Dominada<black> Toque no
+    toque. <red>DOMINADO MASTERIZADO.<black> guia para ver seus pins
+    masterizados (pins que atingiram o alcance da aba)
+    <red>teormáximo<black>, VE {0140}).
 --------------------
-To wear a pin, <red>drag it<black> into one of the <red>pin slots<black> in
-your deck on the bottom screen.
+Parausar um pin, <red>Arraste-o para arrastar.<black> em um dos do...
+<red>pin slots slots pin slots<black> no seu deck na tela de toque.
 
-<blue>Pins in Your Deck Will Grow!<black>
-    When you win a battle, you are awarded <red>PP
-    (pin points)<black>, which are needed for your pins to
-    grow.
+<blue>Pins em seu deck crescerão!<black>
+    Quando você ganha uma batalha, você é premiado
+    com <red>PP (pins)<black>, que são necessários para que seus
+    pins cresçam.
 
-    <red>Only pins in your current deck receive PP<black>, so make
-    sure you're wearing the pins you want to make
-    stronger. Mastered pins (LV {0140}) will not grow any
-    further.
+    <red>Somente os pins no seu deck atual recebem PP<black>,
+    então certifique-se de usar os pins que você
+    quer fazer mais forte. Pins dominados (LV {0140}) não
+    crescerão mais.
 --------------------
-If you often find you're using the wrong pin by
-accident in battle, try using <red>sub-slots<black> to keep it
-turned off until you need it.
+Se muitas vezes você achar que está usando o pin
+errado por acidente na batalha, tente usar <red>sub-slots<black>
+para mantê-lo desligado até que você precise.
 
-Touch a pin in your deck to select it, then <red>press the
-L or R Button<black> to set it to <red>SUB<black>.
-In battle, sub-slot pins will <red>only activate while you
-hold down the L or R Button<black>.
+Toque em um pin no seu deck para selecioná-lo e, em seguida,
+selecione-o. <red>pressione o botão L ou R Botão.<black>
+paraconfigurá- lo <red>SUB<black>Na batalha, os pins sub-slot vão passar
+por isso. <red>Ative apenas enquanto segura o botão L ou R.<black>.
 
-Sub-slots are completely optional, but in the hands
-of an expert player, they can be used to set up
-devastating <red>custom combos<black>.
+Sub-slots são completamente opcionais, mas nas mãos de um
+Jogador especialista, eles podem ser usados para configurar
+devastadoras devastadoras sub-slots. <red>combinaçõespersonalizadas<black>.
 --------------------
-Touch the wrench icon in the upper-right corner of
-the bottom screen to organize your pins.
+Toque no ícone da chave no canto superior direito
+da tela de toque para organizar seus pins.
 
-<blue>Arrange by Number<black>
-    Ordering your pins by number makes it easier to
-    find a specific brand.
-<blue>Arrange by Psych<black>
-    Use this to find pins with a specific function.
-<blue>Auto ON{000F}OFF<black>
-    Turn this ON and your pins will be <red>neatly organized
-    for you<black> whenever you access this menu, by
-    number or psych.
+<blue>Organizar pornúmero<black>
+    Pedir os pins por número torna mais fácil encontrar uma
+    marca específica. <blue>Organize
+por Psych.<black> Use
+    isso para encontrar pins com uma função específica. <blue>Auto
+Ligado ON Auto
+    Ligado{000F}DESLIGADO.<black> Ligue isso e seus pins estarão ligados.
+    <red>bem organizado para você.<black> Sempre que você acessar este
+    menu, por número ou psych.
 --------------------
-<blue>+Control Pad (or the A B X Y Buttons)<black>
-    Move the cursor. You can quickly scroll between
-    pins this way.
+<blue>direcional (ou os botões A B X Y)<black> Mova
+    o cursor. Você pode rolar rapidamente entre os pins
+    dessa maneira.
 
-<blue>SELECT<black>
-    Cycle between your four decks.
+<blue>SELECIONE<black>
+    Ciclo entre seus quatro decks.
 
-<blue>L or R Buttons<black>
-    Press the L or R Button while a pin in your deck is
-    selected to <red>toggle sub-slot control<black> for that pin
-    on and off. <red>(See p. 6)<black>
+<blue>Botões L ou R Botões<black> Pressione
+    o botão L ou R enquanto um pin no seu deck é selecionado
+    para ser selecionado. <red>comutar ocontrolo do sub-lote<black> para
+    o pin ligado e desligado. <red>(Veja p. 6)<black>
 --------------------
-<blue>Why Don't My Pins Work?<black>
-    In battle, pins are used starting with the pin in
-    the <red>lowest-numbered slot<black>. Wear the pins you want
-    to use first in slots 1 and 2!
+<blue>Por que meus pins não
+    funcionam?<black> Na batalha, os pins são usados começando
+    com o pin no <red>slot de menor número<black>. Use os pins que você
+    quer usar primeiro nos slots 1 e 2!
 
-<blue>What's the Pin Class For?<black>
-    Pins and psychs each have their own <red>class<black>, which
-    determines <red>how many of that type<black> of pin you can
-    use at once. Generally, the more powerful the pin,
-    the higher its class.
+<blue>Para que serve a classe
+    Pin?<black> Pins e psychcada umtem o seupróprio <red>classe<black>,
+    que determina o que determina, <red>Quantos desse
+    tipo de tipo são?<black> Geralmente, quanto mais poderoso
+    o pin, maior a sua classe.
 
-    (Low class)   C {014E} B {014E} A {014E} ?  (High class)
+    (Baixa classe) C {014E} B {014E} A {014E}?
 --------------------
-If you run into an enemy that doesn't seem fazed by
-your attacks, try using <red>psychs of a different
-element<black>. There are three elements. Some enemies will
-<red>resist or absorb<black> one element but prove <red>weak<black> against
-an opposing element.
+Seencontrares uminimigo
+quenãopareçaperturbadopelosteusataques,tentausar <red>Psychs
+de um elemento diferente.<black>Há três elementos, alguns inimigos
+irão se tornar inimigos. <red>resistir ou absorver ou absorver<black>
+umelemento,masprovar <red>fraco<black> contra um elemento oposto.
 
-<blue>{0226} Positivity (or Pos psychs)<black>
-    These include mostly <red>close-range attack psychs<black>
-    like the blade of {0226}Shockwave{022A}.
-<blue>{0227} Negativity (or Neg psychs)<black>
-    These include mostly <red>long-range attack psychs<black>
-    like {0227}Force Rounds{0229}.
+<blue>{0226} Positividade (ou Pos psychs)<black>
+    Estesincluemprincipalmente: <red>ataque de curto alcance psychsps
+    psychs Psychs<black> como a lâmina de lâmina de madeira.
+{0226}Ondas dechoque{022A}. <blue>{0227} Negatividade (ou psicologias Neg)<black>
+    Estesincluemprincipalmente: <red>psych deataque delongoalcance<black>
+    Como se fosse. {0227}Force Rounds Rounds Força rodadas{0229}.
 --------------------
-<blue>{0233} Neutrality<black>
-    These psychs contain a mix of positivity and
-    negativity and deal damage to enemies <red>no matter
-    what their resistance is<black>.
+<blue>{0233} Neutralidade<black>
+    Estes psychs contêm uma mistura de positividade e
+    negatividade e causam danos aos inimigos <red>não importa
+    qual seja a resistência deles<black>..
 
-<blue>Psych Icon Guide<black>
-    {0226} Pos psych  {0227} Neg psych  {0233} Neutral psych
-    {0228} Ability (always active)
+<blue>Guia do ícone
+    psych<black> {0226} Pos psych {0227} Neg psych {0233} Neutro psych
+    {0228} Capacidade (sempre ativa)
 
-    {0229} Touch            {022A} Slash                {0230} Press
-    {022B} Drag              {022C} Scratch            {022D} Circle
-    {022E} Microphone                       {022F} Rapid-tap
-    {0231} Touch the pin                   {0232} Automatic
+    {0229} Toque em Tocar. {022A} Slash {0230} Pressione
+    a tecla Press. {022B} Arraste o arrastar. {022C}
+    Scratch {022D} Círculo Circular {022E} Microfone {022F}
+    Rápido-tapa-tapa-rápido. {0231} Toque no pin {0232} Automático
 --------------------
 O MENU DE ITENS
 --------------------
-TOP SCREEN LAYOUT
+LAYOUT DA TELA DE CIMA
 --------------------
-BOTTOM SCREEN LAYOUT
+LAYOUT DA TELA DE TOQUE
 --------------------
 SUAS ROUPAS (EQUIPAMENTO)
 --------------------
@@ -665,383 +665,383 @@ USANDO ITENS
 --------------------
 ATALHO DE BOTÕES
 --------------------
-Use this menu to change your characters' <red>threads<black>
-(equipment), check out your <red>swag<black>, or give a
-character <red>something to eat<black>.
+Use este menu para mudar as <red>roupas<black> (equipamentos)
+dos personagens, ver seus <red>brindes<black> ou dar a um
+personagem <red>algo para comer<black>.
 
-<blue>CONTENTS<black>
-        Top Screen Layout  . . . . . . . . . . . . . p. 2
-        Bottom Screen Layout . . . . . . . . . . . p. 3
-        Your Threads (Equipment) . . . . . . . . p. 4
-        Food Items  . . . . . . . . . . . . . . . . . . . p. 5
-        Swag  . . . . . . . . . . . . . . . . . . . . . . . p. 7
-        Using Items . . . . . . . . . . . . . . . . . . . p. 8
-        Button Shortcuts  . . . . . . . . . . . . . . p. 9
+<blue>ÍNDICE<black>
+        Tela Superior  . . . . . . . . . . . . . . . . . . p. 2
+        Tela de Toque . . . . . . . . . . . . . . . . . . p. 3
+        Roupas (Equipamentos) . . . . . . . . . . . p. 4
+        Alimentos . . . . . . . . . . . . . . . . . . . . . p. 5
+        Brindes . . . . . . . . . . . . . . . . . . . . . . . p. 7
+        Como Usar Itens . . . . . . . . . . . . . . . . p. 8
+        Atalhos de Botões . . . . . . . . . . . . . . . p. 9
 --------------------
-<blue>Top: Item Information<black>
-    NAME:  The name of the item.
-    BRAND:  The item's brand.
-    BRV:  The Bravery needed to wear the item.
-    ATK:  How wearing it affects your Attack.
-    DEF:  How wearing it affects your Defense.
-    HP:  How wearing it affects your HP.
+<blue>Top: Informações
+    do item<black> NOME: O nome do item.
+    MARCA: A marca do item.
+    BRV: A Bravura precisava usar o item.
+    ATK: Como usá-lo afeta seu ataque.
+    DEF: Como usá-lo afeta sua defesa.
+    HP: Como usá-lo afeta seu HP.
 
-<blue>Center{000F}Bottom: Info<black>
-    Detailed info for the selected item. The type of
-    info varies from item to item.
+<blue>Centro {000F} Inferior: Informações<black>
+    Informações detalhadas para o item selecionado. O tipo
+    de informação varia de item para item.
 --------------------
-<blue>Top: Character Stats<black>
-    HP:  Life energy (current + threads).
-    SYNC:  Sync rate with your partner.
-    BRV:  Bravery.
-    ATK:  Attack power (current + threads).
-    DEF:  Defense (current + threads).
-    FOOD:  The food item being digested.
+<blue>Top: Estatísticas
+    de personagens<black> HP: Energia vital (corrente
+    + fios). SYNC: Taxa de sincronização
+    com seu parceiro.
+    BRV: Bravura. ATK: Poder de ataque (atual +
+    fios). DEF: Defesa (atual + tópicos).
+    ALIMENTO: O item de comida sendo digerido.
 
-<blue>Bottom: Items Window<black>
-    The items you've accumulated during the game.
-    Touch a <red>category button<black> to <red>narrow down<black> what is
-    displayed to just shoes, food, etc.
+<blue>Inferior: Itens Janela Janela
+    de Itens<black> Os itens que você acumulou durante o jogo.
+    <red>botão decategoria<black> Para ir para a casa de banho. <red>reduzir<black>
+    o que é exibido apenas para sapatos, comida, etc.
 --------------------
-<red>Items a character can wear<black> are called "threads."
-Each character can wear four items, provided they
-are <red>brave (BRV)<black> enough.
+<red>Itens que um personagem pode usar podem usar.<black> Cada
+personagem pode usar quatro itens, desde que sejam
+chamados de "threads". <red>bravo (BRV)<black> Já chega.
 
-<blue>Coordinate Your Threads<black>
-    A character's Attack, Defense, and HP will change
-    based on what he or she has on.
+<blue>Coordene seus tópicos<black>
+    O ataque, a defesa e o HP de um personagem mudarão
+    com base no que ele ou ela tem.
 
-<blue>Store Clerks Will Unlock Abilities<black>
-    Each item also has a special <red>ability<black> which only a
-    store clerk can tell you about. Items whose
-    abilities you've unlocked are <red>marked with an "A" in
-    their icons<black>.
+<blue>Os escrivães da loja desbloquearão as habilidades.<black>
+    Cada item também tem um item especial. <red>capacidade<black> Itens
+    cujas habilidades você desbloqueou são itens que só um
+    funcionário da loja pode lhe contar. <red>marcado com um "A"
+    em seus ícones ícones.<black>.
 --------------------
-Food items are <red>special items that characters can
-eat<black>. Characters have to <red>fight battles and digest<black>
-one food item before they can eat the next.
+Alimentos são itens alimentares. <red>itens especiais que os
+personagens podem comer.<black>. Caracterestêm que <red>lutarbatalhas e
+digerir<black> Um item de comida antes que possam comer o próximo.
 
-<blue>Lots of Food, Lots of Exercise<black>
-    Eating a food item requires a certain number of
-    <red>bytes<black>.
+<blue>Muita comida, muito exercício<black>
+    Comer um item de comida requer um certo número
+    de <red>bytes<black>...
 
-    <red>One byte is digested with each "reduction"
-    (round)<black> of battle. Once a character <red>finishes
-    digesting<black> a food item, he will receive an HP boost
-    or some other <red>stat upgrade<black>.
+    <red>Um byte é digerido com cada "redução" (round)<black> debatalha.
+    <red>termina a digestão digerindo<black> um item de comida, ele
+    receberá um impulso HP ou algum outro outro tipo de impulso
+    HP. <red>stat upgrade atualização de status<black>.
 --------------------
-A character can eat 24 bytes per day in <red>real time<black>.
+Um personagem pode comer 24 bytes por dia em um dia. <red>tempo real, em tempo real.<black>.
 
-<red>Eating causes that number to decrease<black>, but never
-below 6 bytes. So if you're planning to eat a lot,
-<red>start with the big stuff<black>!
+<red>Comer faz com que esse número diminua.<black>Mas nunca
+abaixo de 6 bytes, então se você está planejando comer
+muito... <red>começar com ascoisasgrandes<black>!
 
-Once the date has changed in real time, each
-character will be ready for 24 more bytes.
+Uma vez que a data tenha mudado em tempo real,
+cada personagem estará pronto para mais 24 bytes.
 
-<blue>Things to Keep in Mind<black>
-    Food affects your <red>sync rate<black>. Each character has
-    <red>likes and dislikes<black>. Healthy is not always the same
-    as delicious!
+<blue>Coisas para manter em mente.<black> A comida
+    afeta seu corpo. <red>taxa desincronização<black>Cada personagem
+    tem um personagem. <red>gosta enãogosta<black>Saudável nem sempre é
+    o mesmo que delicioso!
 --------------------
-<red>Valuable items you obtain during the game<black> are called
-"swag." Some are needed to complete quests;
-others awaken new powers in characters.
-A few examples:
+<red>Itens valiosos que você obtém durante o jogo.<black> Alguns
+são necessários para completar missões; outros
+despertam novos poderes nos personagens.
+Alguns exemplos:
 
-<blue>Stickers:<black>
-    These items start with (S) and <red>unlock new game
-    functions and abilities<black>.
+<blue>Adesivos:<black>
+    Esses itens começam com (S) e <red>destravam novas
+    funções e habilidades do jogo<black>..
 
-<blue>Books:<black>
-    These items start with (B) and contain <red>knowledge
-    that will help you advance<black> through the game.
+<blue>Livros:<black>
+    Esses itens começam com (B) e contêm <red>conhecimento
+    que irá ajudá-lo a avançar<black> através do jogo.
 --------------------
-<blue>Putting on Threads<black>
-    To <red>wear<black> an item, <red>drag it<black> from the items window in
-    the lower half of the bottom screen up onto an
-    <red>empty slot<black> in the character stats window.
+<blue>Colocando Threads em Threads<black> Para ir para a casa
+    de banho. <red>Use o desgaste.<black> um item, <red>Arraste-o para arrastar.<black>
+    dajanela deitens nametade inferior datela de toque paracima
+    emuma <red>espaçovazio<black> na janela de estatísticas do personagem.
 
-    You can only wear <red>one item in each location<black>
-    (head, feet) so you'll have to be clever about
-    how you coordinate.
+    Você só pode usar <red>um item em cada local<black>
+    (cabeça, pés) então você terá que ser inteligente
+    sobre como coordenar.
 
-<blue>Eating Food Items<black>
-    <red>Drag<black> the item you want to eat from the items
-    window up into the <red>FOOD slot<black> in the character
-    stats window.
+<blue>Comer Itens Alimentares<black>
+    <red>Arraste<black> o item que você quer comer da janela de
+    itens até o slot <red>ALIMENTOS<black> na janela de estatísticas
+    de personagens.
 --------------------
-<blue>+Control Pad (or the A B X Y Buttons)<black>
-    Move the cursor. You can quickly <red>scroll between
-    items<black> this way.
+<blue>direcional (ou os botões A B X Y)<black>
+    Mova o cursor. Você pode rapidamente <red>rolar entre
+    os itens<black> desta forma.
 
-<blue>L or R Buttons<black>
-    Toggle item category.
-    Use this to <red>quickly pare down the list<black> to just the
-    items you want to see.
+<blue>L ou R Botões<black>
+    Alternar categoria de item.
+    Use isso para <red>rapidamente reduzir a lista<black> para apenas
+    os itens que você quer ver.
 --------------------
-MINGLE MODE
+MINGLE MODE MODE
 --------------------
-WHY MINGLE?
+POR QUE MINGLE?
 --------------------
-GETTING SET UP
+A PREPARAR-SE PARA O JOGO.
 --------------------
-STARTING COMMUNICATIONS
+COMUNICAÇÕES DE INÍCIO
 --------------------
-WHILE YOU WAIT
+ENQUANTO VOCÊ ESPERA, VOCÊ ESPERA.
 --------------------
-MINGLE RESULTS
+MINGLE RESULTADOS RESULTADOS
 --------------------
-BUTTON SHORTCUTS
+ATALHO DE BOTÕES
 --------------------
-From this menu you can enter Mingle Mode and
-<red>communicate with the world around you<black>.
-Mingle successfully to <red>power up your pins<black> and <red>add
-friend shops<black> you can browse later.
+Neste menu, entre no Modo de Interação para
+<red>se comunicar com quem está por perto<black>.
+Interaja para <red>fortalecer seus pins<black> e <red>adicionar
+lojas de amigos<black> que você poderá visitar depois.
 
-<blue>CONTENTS<black>
-        Why Mingle? . . . . . . . . . . . . . . . . . . . p. 2
-        Getting Set Up  . . . . . . . . . . . . . . . . p. 3
-        Starting Communications  . . . . . . . . . p. 4
-        While You Wait . . . . . . . . . . . . . . . . . p. 5
-        Mingle Results . . . . . . . . . . . . . . . . . p. 6
-        Button Shortcuts  . . . . . . . . . . . . . . p. 7
+<blue>ÍNDICE<black>
+        Por que Interagir?  . . . . . . . . . . . . . . . p. 2
+        Configuração  . . . . . . . . . . . . . . . . . . p. 3
+        Como Iniciar a Comunicação . . . . . . . . p. 4
+        Enquanto Você Espera . . . . . . . . . . . . p. 5
+        Resultados da Interação  . . . . . . . . . . . p. 6
+        Atalhos de Botões  . . . . . . . . . . . . . . p. 7
 --------------------
-<blue>Your Pins Grow As You Meet People<black>
-    <red>Pass other Nintendo DS systems<black> in wireless mode
-    and the pins you're wearing will <red>gain PP<black>.
-    (Any game will work!)
+<blue>Seus pins crescem quando você encontra pessoas<black>
+    <red>Passe perto de outros consoles Nintendo DS<black> em modo
+    sem fio e os pins equipados vão <red>ganhar PP<black>.
+    (Funciona com qualquer jogo!)
 
-<blue>You Can Exchange Friend Cards<black>
-    If the other DS has a copy of <red>The World Ends with
-    You<black> running in Mingle Mode, you'll <red>trade cards<black>.
+<blue>Você pode trocar Cartões de Amigo<black>
+    Se o outro DS estiver com <red>The World Ends with You<black>
+    no Modo de Interação, vocês vão <red>trocar cartões<black>.
 
-<blue>You Can Browse Friends' Shops<black>
-    Get someone's Friend Card and you can visit <red>the
-    store they made<black> from the Friends Menu.
+<blue>Você pode visitar as lojas dos amigos<black>
+    Com o Cartão de Amigo de alguém, dá pra visitar
+    <red>a loja que a pessoa montou<black> no Menu de Amigos.
 --------------------
-<red>Double-check your settings<black> before you begin.
-When you receive someone's Friend Card, <red>your own
-card<black> containing gameplay information will be sent in
-return.
+<red>Verifique suas configurações<black> antes de começar. Quando
+você receber o Friend Card de alguém, <red>seu próprio
+card<black> contendo informações de jogabilidade será enviado
+em troca.
 
-<blue>Information Sent to Others<black>
-  - <red>Gameplay info<black> shown on the top screen.
-  - The <red>User Name<black> stored on your DS.
-  - The <red>Message<black> stored on your DS.
-  (Use the <red>Settings Panel when you start up your DS<black>
-   to change this User Information.)
+<blue>Informações enviadas a outros.<black>
+  - <red>Informações dojogo<black> mostrado na tela superior.
+  <red>Nome de usuário<black> - O DS. <red>Mensagem<black> armazenado
+  em seu DS. (Use o uso do DS.) <red>Painel
+  de Configurações quando você inicia seu DS DS.<black> para
+   alterar esta informação do usuário.))
 --------------------
-Happy with your settings? Then <red>touch the START
-panel<black> in the lower right corner of the bottom screen
-to <red>begin communications<black>.
+Então <red>toque no painel Iniciar<black> no canto
+inferior direito da tela para <red>iniciar
+as comunicações<black>..
 
-<blue>Any Game Will Work<black>
-    You can mingle with someone <red>no matter what game
-    they're playing<black>, as long as their DS is
-    communicating wirelessly.
+<blue>Qualquer jogo vai
+    funcionar.<black> Você pode se misturar com alguém. <red>Não
+    importa qual jogo eles estão jogando.<black>Enquanto o DS
+    estiver se comunicando sem fio.
 --------------------
-As you mingle, <red>people you meet<black> will be displayed on
-the top screen, and you can use the bottom screen
-to <red>adjust settings<black>.
+Enquanto semisturam, <red>Pessoas que você conhece.<black> será
+exibido na tela superior, e você pode usar a tela de
+toque para usá-la. <red>ajustar asconfigurações<black>.
 
-If you plan on mingling for a long time, turn <red>ON<black> the
-option to end communications when the power light is
-red. Your DS's <red>power will last longer<black>. Closing the DS
-will <red>not interrupt<black> the mingling process.
+Se você planeja se misturar por um longo tempo, vire a vez.
+<red>LIGADO.<black> A opção de terminar as comunicações quando a luz
+estiver vermelha. <red>O poder durará mais tempo.<black>Fechando o DSvai
+<red>Não interrompa a interrupção.<black> o processo de mistura.
 
-<red>Touch the FINISH panel<black> to end communications and
-see your results.
+<red>Toque no painel FINISH<black> para terminar as comunicações
+e ver seus resultados.
 --------------------
-The Results Screen tallies up <red>how many people you
-mingled with<black> and <red>awards PP<black> accordingly for the pins
-you're wearing.
+A tela de resultados conta <red>com quantas pessoas você
+interagiu<black> e <red>dá PP<black> aos pins equipados de acordo
+com o total.
 
-Your tally is split into three categories:
-<blue>ESP'er<black>
-    Someone who has <red>The World Ends with You<black> in
-    their DS and set to Mingle Mode.
-<blue>Civvie<black>
-    Someone playing <red>another game<black> on their DS and
-    using wireless communications.
-<blue>Alien<black>
-    A <red>rare encounter<black> of the weird kind.
+A contagem se divide em três categorias:
+<blue>Sensitivo<black>
+    Quem está com <red>The World Ends with You<black> no DS e
+    usa o Modo de Interação.
+<blue>Civil<black>
+    Quem está jogando <red>outro jogo<black> no DS com a
+    comunicação sem fio ligada.
+<blue>Alienígena<black>
+    Um <red>encontro raro<black> de outro mundo.
 --------------------
-<blue>L or R Buttons<black>
-    Toggle item category.
-    Use this to <red>quickly pare down the list<black> to just the
-    items you want to see.
+<blue>L ou R Botões<black>
+    Alternar categoria de item.
+    Use isso para <red>rapidamente reduzir a lista<black> para apenas
+    os itens que você quer ver.
 --------------------
 O RELATÓRIO DE RUÍDOS
 --------------------
-TOP SCREEN LAYOUT (1{000F}2)
+LAYOUT DA TELA DE CIMA (1{000F}2)
 --------------------
-TOP SCREEN LAYOUT (2{000F}2)
+LAYOUT DA TELA DE CIMA (2{000F}2)
 --------------------
-BOTTOM SCREEN LAYOUT
+LAYOUT DA TELA DE TOQUE
 --------------------
-BUTTON SHORTCUTS
+ATALHO DE BOTÕES
 --------------------
-Check the Noise Report for <red>info on the Noise and
-other enemies<black> you've taken down.
+Consulte o Relatório de Ruídos para ver <red>dados dos
+Ruídos e de outros inimigos<black> que você derrotou.
 
-<red>Touch an enemy<black> on the bottom screen's list to
-display its data on the top screen.
+<red>Toque num inimigo<black> na lista da tela de toque
+para ver seus dados na tela superior.
 
-<blue>CONTENTS<black>
-        Top Screen Layout  . . . . . . . . . . . . . p. 2
-        Bottom Screen Layout . . . . . . . . . . . p. 4
-        Button Shortcuts  . . . . . . . . . . . . . . p. 5
+<blue>ÍNDICE<black>
+        Tela Superior  . . . . . . . . . . . . . . . . . . p. 2
+        Tela de Toque . . . . . . . . . . . . . . . . . . p. 4
+        Atalhos de Botões  . . . . . . . . . . . . . . . p. 5
 --------------------
-<blue>Top: Enemy Stats<black>
-    Shows the enemy's name and number, its HP and
-    Attack (ATK), and more.
-    Resistances to <red>Pos psychs (R{0226})<black> and <red>Neg psychs
-    (R{0227})<black> range from 0% (weak) to 200% (strong).
-    You can also see how many PP and EXP you get for
-    taking the enemy down.
+<blue>Top: Estatísticas
+    do inimigo<black> Mostra o nome e número do inimigo, seu
+    HP e Ataque (ATK) e muito
+    mais. <red>Pos psychs (R.R. Psicólogos){0226})<black> e <red>Psicopatas
+    Neg (R.R.){0227})<black> variam de 0% (fraco) a 200% (forte).
+    Você também pode ver quantos PP e EXP você ganha
+    por derrubar o inimigo.
 
-<blue>Right: Graphic Window<black>
-    Shows what the enemy looks like.
+<blue>Direita: Janela Gráfica<black>
+    Mostra como o inimigo se parece.
 
-<blue>Bottom: Information<black>
-    Lists <red>characteristics and battle strategies<black>.
+<blue>Inferior: Informação<black>
+    Lista <red>características e estratégias de batalha<black>..
 --------------------
-<blue>Left: List of Pin Drops<black>
-    Shows what pins the enemy will drop.
-    An enemy <red>needs to drop the pin for each
-    difficulty level<black> before it will be listed.
+<blue>Esquerda: Lista de Pin
+    Drops<black> Mostra quais pins o inimigo vai cair.
+    Um inimigo <red>precisa soltar o pin para cada
+    nível de dificuldade<black> antes que ele seja listado.
 
-    The percentage to the right of the difficulty
-    level is the pin's <red>drop rate<black>. You can use the
-    toggle on the bottom screen to switch between
-    <red>adjusted<black> and <red>default<black> drop rates. (See p. 4)
+    A porcentagem à direita do nível de dificuldade é o pin
+    do pin. <red>taxa de pins<black>Você pode usar a alternância na
+    tela de toque para alternar entre as opções. <red>Ajustado.<black>
+    e <red>padrão default<black> taxas de queda. (Veja p. 4)
 
-    Some Noise (like the pigs) might drop different
-    pins than the ones listed.
+    Algum Ruído (como os porcos) pode cair pins
+    diferentes dos listados.
 --------------------
-<blue>Top: Drop Rate Toggle<black>
-    Switch between two percentages:
-    DEFAULT:  The standard drop rate.
-    ADJUSTED:  Factors in your level.
+<blue>Topo: Alternar aTaxa
+    de Retirada<black> Alterne entre duas
+    porcentagens: DEFAULT: A taxa de
+    pins padrão. Fatores em seu nível.
 
-<blue>Center: Enemy Icons<black>
-    The {0140}s correspond to the pins on the drop list.
-    LV indicates the <red>lowest level at which you've
-    defeated the enemy<black>. (Only wins at Normal
-    difficulty or above count!)
+<blue>Centro:Íconesinimigos<black> O
+    Theory. {0140}s correspondem aos pins da lista. O LV indica
+    os sinais que indicam os pins na lista. <red>nível mais
+    baixo em que você derrotou o inimigo.<black>(Só ganha na
+    dificuldade Normal ou acima da contagem!)
 
-<blue>Bottom: More Stats<black>
-     Lowest win level and number defeated.
+<blue>Mais estatísticas<black>
+     Menor nível de vitória e número derrotado.
 --------------------
-<blue>+Control Pad (or the A B X Y Buttons)<black>
-    Move the cursor. You can quickly scroll between
-    enemies this way.
+<blue>direcional (ou os botões A B X Y)<black>
+    Mova o cursor. Você pode rolar rapidamente entre
+    inimigos dessa maneira.
 
-<blue>L or R Buttons<black>
-    <red>Toggle pin drop rate percentages<black> between
-    DEFAULT and ADJUSTED.
+<blue>L ou R Buttons<black>
+    <red>Alternar porcentagens de taxa de pins de pins<black>
+    entre DEFAULT e ADJUSTED.
 --------------------
 O MENU DE AMIGOS
 --------------------
-SCREEN LAYOUT
+LAYOUT DA TELA
 --------------------
 LOJAS DOS AMIGOS
 --------------------
-From this menu you can <red>look over<black> the friends you've
-encountered in Mingle Mode and <red>shop<black> at the stores
-they've made.
+Neste menu, <red>veja<black> os amigos que você encontrou
+no Modo de Interação e <red>compre<black> nas lojas
+que eles montaram.
 
-You can also <red>customize<black> your shop.
-At your shop, <red>people you've mingled with<black> can
-purchase the <red>same pins and threads you have on<black>.
+Você também pode <red>personalizar<black> sua loja.
+Nela, <red>quem interagiu com você<black> pode comprar
+<red>os mesmos pins e roupas que você usa<black>.
 
-<blue>CONTENTS<black>
-        Screen Layout . . . . . . . . . . . . . . . . . p. 2
-        Friend Shops . . . . . . . . . . . . . . . . . . p. 3
+<blue>ÍNDICE<black>
+        Disposição da Tela  . . . . . . . . . . . . . . p. 2
+        Lojas de Amigos . . . . . . . . . . . . . . . . . p. 3
 --------------------
 <blue>Top Screen: Friend's Game Report<black>
-    Select a friend on the bottom screen to <red>view
-    their report<black> here.
+    Selecione um amigo na tela de toque para <red>ver
+    o relatório deles<black> aqui.
 
-<blue>Bottom Screen, Center: Friend List<black>
-    <red>Friend Cards<black> for all the people you've mingled with.
+<blue>Tela de toque, Centro: Lista de amigos<black> <red>Cartões
+    de amizade<black> para todas as pessoas com quem você se misturou.
 
-<blue>Bottom Screen, Bottom: Info<black>
-    The <red>number of times you've mingled<black> with the
-    selected friend and the <red>last date<black> you did.
+<blue>Tela de toque, Parte Inferior: Informações<black> O Theory.
+    <red>número de vezes que você se misturou.<black> com oamigoselecionado
+    e o <red>última data data último encontro<black> Você fez.
 --------------------
-<red>Touch the SHOP panel<black> on a Friend Card and you can
-<red>browse that friend's store<black>. Buy at friend shops for
-a <red>small discount<black>!
+<red>Toque no painel SHOP<black> em um cartão de amigo e você pode
+<red>navegar na loja daquele amigo<black>. Compre em lojas de amigos
+por um desconto <red>pequeno<black>!
 
-<blue>Make Your Own Store for Friends<black>
-    <red>Touch the wrench icon<black> in the upper right corner
-    of the bottom screen to open a settings menu
-    and <red>customize your store<black>.
+<blue>Faça sua própria loja para amigos<black>
+    <red>Toque no ícone da chave<black> no canto superior direito da
+    tela de toque para abrir um menu de configurações
+    e <red>personalize sua loja<black>..
 
-    Think about what you wear when you mingle!
-    If a friend likes your selection and <red>buys from your
-    store<black>, you will receive <red>a little money<black> the next time
-    the two of you mingle.
+    Se um amigo gosta da sua seleção e gosta da sua escolha,
+    pense no que você veste quando se mistura. <red>compras de sua
+    loja de lojas.<black>,vocêreceberá <red>umpouco dedinheiro<black> Da próxima
+    vez, vocês dois se misturam.
 --------------------
 O MENU DE ESCOLHA DE CAPÍTULOS
 --------------------
-SCREEN LAYOUT
+LAYOUT DA TELA
 --------------------
 NOVOS JEITOS DE JOGAR
 --------------------
-CHAPTER QUESTS
+CAP TULO QUESTS QUESTS
 --------------------
-From this menu you can <red>replay any of the game's
-chapters any time you want<black>, with your items and
-level intact.
+Neste menu você pode <red>revisitar qualquer capítulo
+quando quiser<black> e manter seus itens
+e seu nível.
 
-<red>Delve into each chapter<black> to unlock a <red>secret report<black>
-which will lead you closer to the <red>truth<black> at the heart
-of this story.
+<red>Explore cada capítulo<black> para liberar um <red>relatório
+secreto<black> e chegar mais perto da <red>verdade<black> por trás
+desta história.
 
-<blue>CONTENTS<black>
-        Screen Layout . . . . . . . . . . . . . . . . . p. 2
-        New Ways to Play . . . . . . . . . . . . . . . p. 3
-        Chapter Quests . . . . . . . . . . . . . . . . p. 4
+<blue>ÍNDICE<black>
+        Disposição da Tela  . . . . . . . . . . . . . . p. 2
+        Novos Jeitos de Jogar . . . . . . . . . . . . . p. 3
+        Tarefas do Capítulo  . . . . . . . . . . . . . . . p. 4
 --------------------
-<blue>Top Screen: Chapter Info<black>
-    The <red>title and chapter summary<black> are followed by a
-    list of <red>quests<black> for the day. Completed quests are
-    marked with a {0140}.
+<blue>Tela superior: Informações do capítulo Info<black> O Theory.
+    <red>título eresumo docapítulo<black> sãoseguidas porumalista de <red>missões
+    quests quests<black> As missões concluídas estão marcadas com um
+    dia marcado com uma missão completa. {0140}.
 
-<blue>Bottom Screen: Chapter Panels<black>
-    <red>Touch a panel<black> to play that chapter.
-    The {0140} marks correspond to the quests on the
-    top screen. <red>Fill in the {0140}s<black> for the day and the "?"
-    will change to a blue page. <red>Touch it<black> to read a
-    <red>secret report<black> penned by someone from the story.
+<blue>Tela de toque: Painéis de Capítulo<black>
+    <red>Toque em um painel.<black> Para jogar esse capítulo,
+    o capítulo. {0140} As marcas correspondem às missões
+    na tela superior. <red>Preencher o {0140}s<black> para o dia e o "?" vai
+    mudar para uma página azul. <red>Toque nele.<black> para ler um
+    livro. <red>relatório secreto<black> escrito por alguém da história.
 --------------------
-<blue>Keep All Your Powers<black>
-    Your characters will retain their stats and
-    abilities no matter which chapter you play.
+<blue>Mantenha todos os seus poderes<black>
+    Seus personagens manterão suas estatísticas e
+    habilidades, não importa qual capítulo você jogue.
 
-<blue>You Pick Your Battle Partner<black>
-    Select who will join you in combat from the Items
-    Menu. (Your partner in the story will not change.)
+<blue>Escolha seu parceiro de
+    batalha.<black> Selecione quem se juntará a você em combate
+    no Menu Itens. (Seu parceiro na história não mudará.)
 
-<blue>Bonus Chapter: "Another Day"<black>
-    An absurdly original (or just absurd?) <red>side story<black>
-    based around <red>Tin Pin Slammer<black>.
+<blue>Capítulo de bônus: "Outro dia"<black>
+    Um absurdo original (ou simplesmente absurdo?) <red>história
+    lateral<black> baseado emtorno <red>Tin Pin Slammer<black>.
 --------------------
-<blue>Collect the specified report!<black>
-    Sometimes the quest will ask you to find the
-    <red>report<black> for a different day.
-<blue>Eliminate all the Pig Noise symbols!<black>
-    They're hidden in <red>areas all over the chapter<black>.
-    Leave no porker unprodded!
-<blue>Get the specified item!<black>
-    The <red>hints<black> will tell you where to look.
-<blue>Eliminate the specified boss symbol!<black>
-    Set the difficulty to <red>Hard and don't chain
-    battles<black>. If you beat the boss, your <red>time will be
-    listed<black> in the Noise Report.
+<blue>Colete o relatório especificado!<black>
+    àsvezes, abuscavaipedir-lhe paraencontrar o <red>relatório<black>
+    para um dia diferente. <blue>Elimine todos os
+símbolos de Ruído do porco!<black> Eles estão escondidos
+    dentro deles. <red>áreas em todo o capítulo capítulo por
+    toda parte.<black>Não deixe nenhum porco
+inexplorado! <blue>Pegue o item
+    especificado!<black> O Theory. <red>dicas<black> Vou te dizer para onde
+olhar. <blue>Elimine o símbolo de chefe especificado!<black>
+    Definir adificuldade para <red>Duro e não encadeie batalhas
+    em cadeia.<black>Se você bater no chefe, o seu é o seu. <red>O tempo
+    será listado na lista.<black> no Relatório de Ruído.
 --------------------
 TEMP
 --------------------

@@ -2,9 +2,9 @@ Palavra chave correta
 --------------------
 Palavra chave incorreta
 --------------------
-Branch keyword 1
+Palavra-chave 1 daramificação
 --------------------
-Branch keyword 2
+Palavra-chave doramo 2
 --------------------
 Tem perguntas para
 Rhyme e Beat?
@@ -34,7 +34,7 @@ Apagão
 --------------------
 Fusível
 --------------------
-Ramen
+Ramen.
 --------------------
 Pastilhas para garganta
 --------------------
@@ -96,100 +96,100 @@ Fusível
 --------------------
 Pastilhas Aurora
 --------------------
-Dandy hat
+Chapéuelegante
 --------------------
-"Love in a Heartbeat"
+"Amor em um Batimento doCoração"
 --------------------
 Sair da loja
 --------------------
-What's she
-getting at?
+O que ela
+está fazendo?
 --------------------
-Trends
+Tendências
 --------------------
-I'm already cool
+Já estou bem legal.
 --------------------
-Stuffed animal
+Bicho de pelúcia
 --------------------
-Future ambitions
+Ambições futuras
 --------------------
-Do some shopping
+Faça algumas compras de compras.
 --------------------
 Reaper Creeper
 --------------------
-Tin Pin ticket
+Bilhete de Pin de Lata
 --------------------
-Play a
-little prank?
+Brincar um
+pouco de brincadeira?
 --------------------
-Just for a bit
+Só por um tempo, só por um pouco.
 --------------------
-Leave the man alone
+Deixe o homem em paz.
 --------------------
-Mess with
-their game of
-Reaper Creeper?
+Mexa-se
+com o jogo deles
+de Reaper Creeper?
 --------------------
-Sounds like fun
+Parece divertido, parece divertido.
 --------------------
-Do I look like a Reaper?
+Pareço um Reaper?
 --------------------
-Totally gnarly!
+Irado demais!
 --------------------
-Come get some hot stuff!
+Vem pegar essa belezura!
 --------------------
-Unreal, bro!
+Sinistro, mano!
 --------------------
-Which of these
-is a shop in the
-104 Building?
+Qual delas
+é uma loja no
+prédio 104?
 --------------------
 Sheep Heavenly
 --------------------
-Pegaso Atelier
+Pegaso Atelier Atelier
 --------------------
 Edoga the Shop
 --------------------
-What's on the sign
-outside Shibu Dept.
-Store?
+O que tem na placa do lado
+de fora do Departamento
+de Shibu?
 --------------------
-High heels
+Saltosaltos
 --------------------
-A skirt
+Uma saia de saia.
 --------------------
-A necklace
+Um colar de colares.
 --------------------
-Which of these
-does the <red>Bigbanfrog<black>
-use as an attack?
+Qual deles faz o que
+faz o que faz? <red>Bigbanfrog<black>
+Usar como um ataque?
 --------------------
-Fireballs
+Bolas de fogo
 --------------------
-A frog uppercut
+Uma rã de corte superior.
 --------------------
-Bubbles
+Bolhas
 --------------------
-What's the name of
-KuraKura's saleslady?
+Qual é o nome da
+vendedora da KuraKura?
 --------------------
-Nana Majima
+Nana Majima Majima
 --------------------
-Yuu Narumi
+Yuu Narumi Narumi
 --------------------
 Yumi Sheena
 --------------------
-Which of these commands
-activates <red>Happy Beam<black>?
+Qual desses comandos
+ativa <red>Happy Beam<black>?
 --------------------
-Touch an enemy
+Toque num inimigo
 --------------------
-Slash an enemy
+Risque um inimigo
 --------------------
-Slash Neku
+Risque o Neku
 --------------------
-Which brand makes the
-<red>slogan bandannas<black>?
+Qual é amarca quefaz o <red>slogan
+bandannasbandannasbandanas<black>?
 --------------------
 Tigre Punks
 --------------------
@@ -197,85 +197,85 @@ Sheep Heavenly
 --------------------
 Hip Snake
 --------------------
-Ready to fight?
+Pronto para lutar?
 --------------------
-All set!
+Tudo pronto!
 --------------------
-Hang on just a sec
+Espera um pouco
 --------------------
-Want to
-try it again?
+Quer ir
+mais uma vez?
 --------------------
-One more time!
+Mais uma vez!
 --------------------
-That's enough
+Já está bem
 --------------------
-Play again?
+Tocar de novo?
 --------------------
-One more time!
+Mais uma vez!
 --------------------
-That's enough
+Já está bem
 --------------------
-Simple
+Simples
 --------------------
-Dessert
+Sobremesa
 --------------------
 Yellow
 --------------------
-Spicy tuna roll
+Rolinho deatumpicante
 --------------------
-Got any questions for
-Mr. Hanekoma?
+Tem alguma pergunta para
+o Sr. Hanekoma?
 --------------------
-The café
+O café do café.
 --------------------
 Joshua
 --------------------
-The mission
+A missão da missão.
 --------------------
-The phone
+O telefone.
 --------------------
-No more questions!
+Sem mais perguntas!
 --------------------
-What's your favorite
-kind of ramen?
+Qual é o seu tipo
+favorito de ramen?
 --------------------
-Shoyu (soy sauce)
+Shoyu (molho de soja)
 --------------------
 Miso
 --------------------
-Shio (salt)
+Shio (sal)
 --------------------
-Tonkotsu (pork bone)
+Tonkotsu (osso do porco)
 --------------------
-Play for a bit?
+Jogando um pouco?
 --------------------
-Sure, for a little while
+Claro, por um tempo.
 --------------------
-No time!
+Não tem tempo!
 --------------------
-Which of these is
-on sale at <red>WildKat<black>?
+Qual deles está à venda na
+venda? <red>WildKatKat WildKat<black>?
 --------------------
-Bouillabaisse
+Bouillabaissesse
 --------------------
-Minestrone
+Minestronenene Minestronene
 --------------------
-Corn chowder
+Chowder demilho
 --------------------
-Where is the <red>phone
-booth of love<black>?
+Onde está o lugar?
+<red>cabinetelefônica doamor<black>?
 --------------------
 Spain Hill
 --------------------
 Cat Street
 --------------------
-Near Molco
+Perto de Molcoco, perto de Molco.
 --------------------
-Which of these is a
-German composer famous
-for the <red>Musical Offering<black>
-and <red>Air on the G String<black>?
+Qual deles é um Compositor alemão
+famoso pelo Compositor alemão famoso
+pelo seu trabalho. <red>Oferta Musical
+Oferenda Musical<black> e <red>Ar nacorda G<black>?
 --------------------
 Mozart
 --------------------
@@ -283,52 +283,41 @@ Bach
 --------------------
 Beethoven
 --------------------
-Want to know
-what's on 777's
-mind?
+Quer saber o
+que está na mente
+do 777?
 --------------------
-Sure
+Claro que sim.
 --------------------
-Not now, we're busy
+Não agora, estamos ocupados.
 --------------------
-Got any questions
-for 777?
+Tem alguma pergunta
+para o 777?
 --------------------
-The mic
+O microfone do microfone.
 --------------------
-The theft
+O roubo foi furtado.
 --------------------
-The suspicious call
+A chamada suspeita chama-se.
 --------------------
-No more questions!
+Sem mais perguntas!
 --------------------
-Got any questions
-for BJ?
+Tem alguma pergunta
+para o BJ?
 --------------------
-The mic
+O microfone do microfone.
 --------------------
-Got an alibi?
+Tem um álibi?
 --------------------
-Got any questions
-for Tenho?
+Tem alguma pergunta
+para o Tenho?
 --------------------
-The mic
+O microfone do microfone.
 --------------------
-Got an alibi?
+Tem um álibi?
 --------------------
-Which photo would
-you like to check?
---------------------
-1:45 p.m.
---------------------
-1:55 p.m.
---------------------
-2:02 p.m.
---------------------
-Never mind
---------------------
-Which of these is the
-conclusive photo?
+Qual foto você
+gostaria de conferir?
 --------------------
 1:45 p.m.
 --------------------
@@ -336,8 +325,10 @@ conclusive photo?
 --------------------
 2:02 p.m.
 --------------------
-Which photo will
-you show them?
+Não importa, não importa.
+--------------------
+Qual delas é a foto
+conclusiva?
 --------------------
 1:45 p.m.
 --------------------
@@ -345,43 +336,52 @@ you show them?
 --------------------
 2:02 p.m.
 --------------------
-Who's the culprit?
+Qual foto você
+vai mostrar?
+--------------------
+1:45 p.m.
+--------------------
+1:55 p.m.
+--------------------
+2:02 p.m.
+--------------------
+Quem é o culpado?
 --------------------
 Tenho
 --------------------
-BJ
+BJJJ
 --------------------
 777
 --------------------
-None of the above!
+Nenhum dos itens acima!
 --------------------
-Play for a bit?
+Jogando um pouco?
 --------------------
-Sure, for a little while
+Claro, por um tempo.
 --------------------
-No time!
+Não tem tempo!
 --------------------
-Who owns
-Ramen Don?
+Quem é o dono
+de Ramen Don?
 --------------------
-Ken Doi
+Ken Doi Doi.
 --------------------
-Don Ueno
+Don Ueno Ueno.
 --------------------
-Tatsuya Kando
+Tatsuya Kandoya Kando
 --------------------
-Which of these show up
-on the menu once you're
-friends with the owner?
+Qual deles aparece
+no menu quando você
+é amigo do dono?
 --------------------
-Onion ramen
+Cebola ramen ramen
 --------------------
-Pork ramen
+Carne de porco ramen ramen
 --------------------
-Insta-noodles
+Macarrão Instantâneo
 --------------------
-How much for a
-bowl of shio ramen?
+Quanto custa uma
+tigela de shio ramen?
 --------------------
 $580
 --------------------
@@ -389,962 +389,962 @@ $680
 --------------------
 $780
 --------------------
-Play for a bit?
+Jogando um pouco?
 --------------------
-Take on Shooter
+Enfrente o Shooter Shooter.
 --------------------
-Take on Yammer
+Assuma Yammer Yammer.
 --------------------
-No time!
+Não tem tempo!
 --------------------
-Why did Hachiko come to
-the station each day?
+Por que Hachiko veio para
+a estação todos os dias?
 --------------------
-Free food
+Comida grátis de graça.
 --------------------
-To wait for his master
+Esperar pelo seu mestre mestre.
 --------------------
-Rabies
+Raiva
 --------------------
-Who gave Dogenzaka
-its name?
+Quem deu o nome
+a Dogenzaka?
 --------------------
-Owada Dogen
+Owada Dogen Dogen
 --------------------
-Owata Dogen
+Owata Dogen Dogen
 --------------------
-Odawa Dogen
+Odawa Dogen Dogen
 --------------------
-All set?
+Tudo pronto?
 --------------------
-Ready when you are!
+Pronto quando estiver!
 --------------------
-Hang on just a sec
+Espera um pouco
 --------------------
-Are you up
-to this?
+Você está preparado
+para isso?
 --------------------
-Ready when you are!
+Pronto quando estiver!
 --------------------
-Hang on just a sec
+Espera um pouco
 --------------------
-The Reaper in red
-is under attack!
+O Reaper em vermelho
+está sob ataque!
 --------------------
-Help him
+Ajude-o a ajudá-lo.
 --------------------
-Keep moving
+Continue se movendo.
 --------------------
-Sota is under
-attack!
+Sota está sob
+ataque!
 --------------------
-Help him
+Ajude-o a ajudá-lo.
 --------------------
-Keep moving
+Continue se movendo.
 --------------------
-The Reapers are
-under attack!
+O Reapers está
+sob ataque!
 --------------------
-Help them
+Ajude-os a ajudá-los.
 --------------------
-Keep moving
+Continue se movendo.
 --------------------
-Play for a bit?
+Jogando um pouco?
 --------------------
-Take on Shooter
+Enfrente o Shooter Shooter.
 --------------------
-Take on Yammer
+Assuma Yammer Yammer.
 --------------------
-Take them both!
+Pegue os dois!
 --------------------
-No time!
+Não tem tempo!
 --------------------
-Ready to fight?
+Pronto para lutar?
 --------------------
-All set!
+Tudo pronto!
 --------------------
-Hang on just a sec
+Espera um pouco
 --------------------
-Want to
-try it again?
+Quer ir
+mais uma vez?
 --------------------
-One more time!
+Mais uma vez!
 --------------------
-That's enough
+Já está bem
 --------------------
-Play the role of
-the Reaper?
+Faça o papel
+do Reaper?
 --------------------
-Just this once
+Só desta vez, desta vez.
 --------------------
-I can't decide this for him
+Não posso decidir isso por ele.
 --------------------
-Play for a bit?
+Jogando um pouco?
 --------------------
-Sure, for a little while
+Claro, por um tempo.
 --------------------
-No time!
+Não tem tempo!
 --------------------
-Which of these does a
-<red>psychedelifox<black> turn into?
+Qual destes um <red>psicodelifox<black>
+se transforma em?
 --------------------
-A mushroom
+Um cogumelo cogumelo.
 --------------------
-A bamboo shoot
+Um broto de bambu disparando.
 --------------------
 The World Ends With You
 --------------------
-Whose picture do you see
-after you've mingled?
+De quem você vê depois
+de se misturar?
 --------------------
 Rhyme
 --------------------
-Mr. Mew
+Sr. Mew
 --------------------
 Shiki
 --------------------
-Shooter
+Atirador
 --------------------
-Which of these appears
-before Tin Pin Slammer's
-title?
+Qual delas aparece
+antes do título do Tin
+Pin Slammer?
 --------------------
 Pin Tin Tin!
 --------------------
-Inpincible!
+Inacreditável!
 --------------------
-Let's Slammering!
+Vamos Slammering!
 --------------------
 Pinvincible!
 --------------------
-Sine! Cosine!
+Cosseno, cosseno!
 --------------------
-Press the button?
+Pressione o botão?
 --------------------
-Press it
+Aperte-o.
 --------------------
-Leave it alone
+Deixe-o em paz.
 --------------------
-What do you want
-a photo of?
+Do que você quer
+uma foto?
 --------------------
-One day ago
+Um dia atrás, há um dia atrás,
 --------------------
-Two days ago
+Hádoisdias.
 --------------------
-Four days ago
+Háquatrodias.
 --------------------
-You get the strangest
-feeling this is your last
-chance to turn back...
+Você tem a sensação mais
+estranha de que esta é sua
+última chance de voltar...
 --------------------
-Go on anyway
+Vá em frente de qualquer maneira.
 --------------------
-Better hold off
+É melhor adiar.
 --------------------
-Help him build
-a new Shibuya?
+Ajude-o a construir
+um novo Shibuya?
 --------------------
-Never!
+Nunca, nunca!
 --------------------
-Works for me
+Funciona para mim.
 --------------------
-Do you like
-people?
+Você gosta
+de pessoas?
 --------------------
-Yup
+Sim, sim.
 --------------------
-Nope
+Não.
 --------------------
-Sign up for
-the slam-off?
+Inscreva-se
+para o torneio?
 --------------------
-You know it!
+Você sabe disso!
 --------------------
-I still need to warm up
+Ainda preciso me aquecer.
 --------------------
-Ready to fight?
+Pronto para lutar?
 --------------------
-All set!
+Tudo pronto!
 --------------------
-Hang on just a sec
+Espera um pouco
 --------------------
-Got questions about
+Tenhoperguntas sobre...
 <red>Tin Pin Slammer<black>?
 --------------------
-Basic rules
+Regras básicas
 --------------------
-What are whammies?
+O que são os whammies?
 --------------------
-Whammies in action
+Whammies em ação em ação.
 --------------------
-Pin tips
+Pontas de pins
 --------------------
-Nothing, thanks
+Nada, obrigado, obrigado.
 --------------------
-HEADING1
+CHEFE1
 --------------------
-BODY1
+CORPO11 CORPO1
 --------------------
-HEADING2
+CHEFE2
 --------------------
 BODY2
 --------------------
-HEADING3
+CHEFE3
 --------------------
-BODY3
+CORPO33 CORPO3
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
 ......
 --------------------
 ............
 --------------------
-Poor thing
+Pobre coitada.
 --------------------
-Oh, poor Mr. Moyai...
-You're feeling stuck between a rock
-and a hard place, I can tell.
-People put you up on a pedestal,
-birds poop on you... What a life.
+Pobre Sr. Moyai, você está se
+sentindo preso entre uma rocha e um lugar
+difícil, eu posso dizer, as pessoas
+te colocam em um pedestal, pássaros
+cocô em você, que vida... que vida.
 --------------------
-All better
+Tudo bem melhor.
 --------------------
-That's the spirit, Mr. Moyai!
-Things are looking up for you, I can tell.
-Remember, you can always lean on me.
+Esse é o espírito, Sr. Moyai, as coisas
+estão procurando por você, eu posso dizer,
+lembre-se, você sempre pode se apoiar em mim.
 --------------------
 Hachiko
 --------------------
-Hachiko seemed troubled, too.
-Were I only able to <red>polish away<black> the
-stains on his weary heart!
-Forgive me, Hachi...
+Hachiko também parecia incomodado,
+mas só pude ser capaz de me preocupar.
+<red>polimento longe daqui.<black> Asmanchas
+no seucoraçãocansado!
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
-Out of whack
+Fora de controle.
 --------------------
-This is crazy. I can't figure out what
-the hell is out of whack.
+Isso é loucura, não consigo descobrir
+o que está fora de questão.
 --------------------
-Where is he?
+Onde ele está?
 --------------------
-He shoulda been here ages ago.
-Is it really that hard to find? Unbelievable.
+Ele deveria estar aqui há
+muito tempo, é tão difícil de encontrar?
 --------------------
-Where is he?
+Onde ele está?
 --------------------
-I can't believe he's not back yet!
-How long could it possibly take to track
-down one little <red>fuse<black>?
+Não acredito que ele ainda não voltou!
+Quanto tempo poderia levar para rastrear
+um pouco? <red>fusível<black>?
 --------------------
-Negativity
+Negatividade.
 --------------------
-Why do I have to be their gopher?
-I belong center stage, not backstage.
-That punk doesn't appreciate me one bit!
-Ugh... I don't wanna go back...
+Por que eu tenho que ser o gopher
+deles? Eu pertenço ao centro do
+palco, não aos bastidores. Aquele punk
+não me aprecia nem um pouco.
 --------------------
-Scratchy
+Scratchy.
 --------------------
-Oww... My throat's all scratchy.
-I must've caught a cold or something.
-Just great... Now how am I going to regale
-people with my totally angelic voice?
+Minha garganta está toda arranhada, eu
+devo ter pegado um resfriado ou algo assim,
+só que ótimo, agora como eu vou encantar as
+pessoas com minha voz totalmente angelical?
 --------------------
-Much better!
+Muito melhor!
 --------------------
-Yay, I sound pretty again!
-When you've got a tickle in your throat,
-nothing beats <red>Aurora cough drops<black>.
-Gripers across Japan, I'm ready for ya!
-...This gal was MADE for Customer Support.
+Quando você tem uma cócegas na
+garganta, nada bate mais do que a batida da
+sua garganta. <red>Pastilhas Aurora<black>Gripers
+em todo o Japão, estou pronto para você!...
+Esta garota foi feita para suporte ao cliente.
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
-HEADING1
+CHEFE1
 --------------------
-BODY1
+CORPO11 CORPO1
 --------------------
-HEADING2
+CHEFE2
 --------------------
 BODY2
 --------------------
-HEADING3
+CHEFE3
 --------------------
-BODY3
+CORPO33 CORPO3
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
-There she goes
+Lá vai ela.
 --------------------
-There she goes.
-Once Ai gets like this, it never ends.
-Hmm... I wonder if she caught me with
-Makoto yesterday...
+Quando Ai
+fica assim, nunca acaba, me
+pergunto se ela me pegou com
+Makoto ontem...
 --------------------
-Such a liar
+Um mentiroso tão mentiroso.
 --------------------
-Mina is such a liar!
-That WAS her yesterday!
-Otherwise why would she be hiding
-something from me now?
+Mina é tão mentirosa,
+que foi ontem, senão
+por que ela estaria escondendo
+algo de mim agora?
 --------------------
-I fail
+Eu falhei.
 --------------------
-Ohh... It's no use.
-I'll never get my hands on a ticket.
-Man, I can't do anything right.
-Work...life in general...
+Não adianta, nunca colocarei
+minhas mãos em um bilhete, cara, não
+posso fazer nada certo, trabalhar,
+vida em geral... vida em geral...
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
-Three hours?
+Três horas?
 --------------------
-Waaaaaah...
-Has the boss lost his mind?
-Shelling out the money for Q Floor...
-The commercial will only last a few seconds.
-Not enough to catch the eye...
+O chefe perdeu a cabeça,
+desembolsando o dinheiro para Q Floor,
+o comercial só vai durar alguns segundos,
+não o suficiente para chamar a atenção... não
+é suficiente para chamar a atenção...
 --------------------
-Check it out!
+Olhem só!
 --------------------
-That pin's pretty sweet.
-Where do they sell it?
+O pin é muito doce,
+onde eles vendem?
 --------------------
-That guy's pin
+O pin daquele cara é pin.
 --------------------
-The pin that guy was wearing had a
-pretty design... It was like, skullicious.
-Or skeletacular. Or something.
+O pin que ele estava usando tinha
+um design bonito... era tipo, cranítico,
+ou esqueleto, ou algo assim.
 --------------------
-Oh, baby!
+Ah, meu bem!
 --------------------
-A pin, on a business suit?
-Now that takes stones.
-I want stones. I want that pin!
+Um pin,numfato
+denegócios,agora
+éprecisopedras,queropedras,queroesse pin!
 --------------------
-What is that!?
+O que é isso?
 --------------------
-Why didn't anybody tell me there was
-a new pin!? I only got a quick peek,
-but it looked buff! If I had one,
-I bet I'd crush Shooter...maybe.
+Eu só tive uma rápida olhada,
+mas parecia bom, se eu tivesse
+um, aposto que esmagaria
+Shooter... talvez.
 --------------------
-Red pin
+Pinvermelho
 --------------------
-Hey, that pin...
-I didn't get a really good look,
-but wasn't that a CAT design?
+Ei, aquele pin...
+eu não tive uma boa aparência,
+mas não era um desenho de CAT?
 --------------------
-Tingle
+Tingle.
 --------------------
-This...this tingle! I think I'm in love.
-That pin. Its fiery, passionate red...
-It burns! Ohhh gimme gimme!
+Acho que estou apaixonado, aquele
+pin, seu vermelho ardente e
+apaixonado, queima, me dá!
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
-HEADING1
+CHEFE1
 --------------------
-BODY1
+CORPO11 CORPO1
 --------------------
-HEADING2
+CHEFE2
 --------------------
 BODY2
 --------------------
-HEADING3
+CHEFE3
 --------------------
-BODY3
+CORPO33 CORPO3
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
 ......
 --------------------
 ............
 --------------------
-HEADING2
+CHEFE2
 --------------------
 BODY2
 --------------------
-HEADING3
+CHEFE3
 --------------------
-BODY3
+CORPO33 CORPO3
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
 ......
 --------------------
 ............
 --------------------
-What now?
+E agora?
 --------------------
-I'm out of time.
-Even if I practice from now till the
-slam-off, I'm still gonna get served...
+Mesmo que eu
+pratique a partir de agora até
+o torneio, ainda serei servido...
 --------------------
-Negativity
+Negatividade.
 --------------------
-I thought I had Shooter this time...
-But he keeps getting stronger!
-I'll just have to mod my pins and
-hope no one catches me...
+Pensei que tinha Shooter dessa vez,
+mas ele continua ficando mais
+forte, vou ter que mudar meus pins e
+esperar que ninguém me pegue...
 --------------------
 Makoto
 --------------------
-What did Makoto want?
-He said it was important. Hmm...
-Lately he's been like a different person.
+O que Makoto
+queria? Ele disse
+que era importante.
 --------------------
-Negativity
+Negatividade.
 --------------------
-Dammit. He must have caught me
-filching his fried chicken. Or maybe it was
-the takoyaki... The pudding, perhaps?
+Ele deve ter me pegado
+filching seu frango frito ou talvez fosse
+o takoyaki... o pudim, talvez?
 --------------------
-Decisive action
+Acção decisiva
 --------------------
-Gaaah!
-I can't let little things like this
-slow me down.
-This is a job for Reaper Creeper!
+Gaaah, não
+posso deixar pequenas coisas como
+essa me atrasarem,
+é um trabalho para Reaper Creeper!
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
-Why?
+Por que?
 --------------------
-I don't get why that place is so popular.
-The taste is nothing to write home about.
+Não entendo por que esse lugar é tão popular,
+o gosto não é nada para escrever para casa.
 --------------------
-Negativity
+Negatividade.
 --------------------
-One taste! That's all it would take.
-If people just gave my ramen a chance...
-Instead they line up next door like sheep
-to the...to the noodle! Arrrgh!
+Se as pessoas dessem uma chance
+ao meu ramen... em vez disso,
+eles se alinham ao lado como
+ovelhas... para o macarrão!
 --------------------
-Negativity
+Negatividade.
 --------------------
-Ugh, that beefy ramen makes me broil!
-All I want is something simple...
-like the ramen Sebastian used to make.
+O que eu quero é algo
+simples... como o ramen
+que Sebastian fazia.
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
 ......
 --------------------
 ............
 --------------------
-HEADING2
+CHEFE2
 --------------------
 BODY2
 --------------------
-HEADING3
+CHEFE3
 --------------------
-BODY3
+CORPO33 CORPO3
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
-HEADING1
+CHEFE1
 --------------------
-BODY1
+CORPO11 CORPO1
 --------------------
-HEADING2
---------------------
-BODY2
---------------------
-HEADING3
---------------------
-BODY3
---------------------
-HEADING4
---------------------
-BODY4
---------------------
-HEADING5
---------------------
-BODY5
---------------------
-HEADING6
---------------------
-BODY6
---------------------
-HEADING7
---------------------
-BODY7
---------------------
-HEADING8
---------------------
-BODY8
---------------------
-HEADING1
---------------------
-BODY1
---------------------
-HEADING2
+CHEFE2
 --------------------
 BODY2
 --------------------
-HEADING3
+CHEFE3
 --------------------
-BODY3
+CORPO33 CORPO3
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
-HEADING1
+CHEFE1
 --------------------
-BODY1
+CORPO11 CORPO1
 --------------------
-HEADING2
---------------------
-BODY2
---------------------
-HEADING3
---------------------
-BODY3
---------------------
-HEADING4
---------------------
-BODY4
---------------------
-HEADING5
---------------------
-BODY5
---------------------
-HEADING6
---------------------
-BODY6
---------------------
-HEADING7
---------------------
-BODY7
---------------------
-HEADING8
---------------------
-BODY8
---------------------
-HEADING1
---------------------
-BODY1
---------------------
-HEADING2
+CHEFE2
 --------------------
 BODY2
 --------------------
-HEADING3
+CHEFE3
 --------------------
-BODY3
+CORPO33 CORPO3
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
-HEADING1
+CHEFE1
 --------------------
-BODY1
+CORPO11 CORPO1
 --------------------
-HEADING2
---------------------
-BODY2
---------------------
-HEADING3
---------------------
-BODY3
---------------------
-HEADING4
---------------------
-BODY4
---------------------
-HEADING5
---------------------
-BODY5
---------------------
-HEADING6
---------------------
-BODY6
---------------------
-HEADING7
---------------------
-BODY7
---------------------
-HEADING8
---------------------
-BODY8
---------------------
-HEADING1
---------------------
-BODY1
---------------------
-HEADING2
+CHEFE2
 --------------------
 BODY2
 --------------------
-HEADING3
+CHEFE3
 --------------------
-BODY3
+CORPO33 CORPO3
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
+--------------------
+CHEFE1
+--------------------
+CORPO11 CORPO1
+--------------------
+CHEFE2
+--------------------
+BODY2
+--------------------
+CHEFE3
+--------------------
+CORPO33 CORPO3
+--------------------
+CHEFE4
+--------------------
+CORPO44 CORPO4 CORPO4
+--------------------
+CABE A55
+--------------------
+CORPO55 CORPO5
+--------------------
+CHEFE6
+--------------------
+CORPO6 CORPO66
+--------------------
+CABE A 7
+--------------------
+CORPO7 7 CORPO7
+--------------------
+CABE A8
+--------------------
+CORPO88 CORPO8
+--------------------
+CHEFE1
+--------------------
+CORPO11 CORPO1
+--------------------
+CHEFE2
+--------------------
+BODY2
+--------------------
+CHEFE3
+--------------------
+CORPO33 CORPO3
+--------------------
+CHEFE4
+--------------------
+CORPO44 CORPO4 CORPO4
+--------------------
+CABE A55
+--------------------
+CORPO55 CORPO5
+--------------------
+CHEFE6
+--------------------
+CORPO6 CORPO66
+--------------------
+CABE A 7
+--------------------
+CORPO7 7 CORPO7
+--------------------
+CABE A8
+--------------------
+CORPO88 CORPO8
+--------------------
+CHEFE1
+--------------------
+CORPO11 CORPO1
+--------------------
+CHEFE2
+--------------------
+BODY2
+--------------------
+CHEFE3
+--------------------
+CORPO33 CORPO3
+--------------------
+CHEFE4
+--------------------
+CORPO44 CORPO4 CORPO4
+--------------------
+CABE A55
+--------------------
+CORPO55 CORPO5
+--------------------
+CHEFE6
+--------------------
+CORPO6 CORPO66
+--------------------
+CABE A 7
+--------------------
+CORPO7 7 CORPO7
+--------------------
+CABE A8
+--------------------
+CORPO88 CORPO8
 --------------------
 <red>......<black>
 --------------------
-<red>To right the countless wrongs
-of our day, we shine this light of true
-redemption, that this place may become
-as paradise. What a wonderful world
-such would be...<black>
+<red>Para corrigir os inúmeros erros
+de nossos dias, nós brilhamos esta luz
+da verdadeira redenção, que este lugar
+pode se tornar um paraíso. Que mundo
+maravilhoso seria esse...<black>
 --------------------
-HEADING2
+CHEFE2
 --------------------
 BODY2
 --------------------
-HEADING3
+CHEFE3
 --------------------
-BODY3
+CORPO33 CORPO3
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
 <red>......<black>
 --------------------
-<red>To right the countless wrongs
-of our day, we shine this light of true
-redemption, that this place may become
-as paradise. What a wonderful world
-such would be...<black>
+<red>Para corrigir os inúmeros erros
+de nossos dias, nós brilhamos esta luz
+da verdadeira redenção, que este lugar
+pode se tornar um paraíso. Que mundo
+maravilhoso seria esse...<black>
 --------------------
-HEADING2
+CHEFE2
 --------------------
 BODY2
 --------------------
-HEADING3
+CHEFE3
 --------------------
-BODY3
+CORPO33 CORPO3
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
 <red>......<black>
 --------------------
-<red>To right the countless wrongs
-of our day, we shine this light of true
-redemption, that this place may become
-as paradise. What a wonderful world
-such would be...<black>
+<red>Para corrigir os inúmeros erros
+de nossos dias, nós brilhamos esta luz
+da verdadeira redenção, que este lugar
+pode se tornar um paraíso. Que mundo
+maravilhoso seria esse...<black>
 --------------------
-HEADING2
+CHEFE2
 --------------------
 BODY2
 --------------------
-HEADING3
+CHEFE3
 --------------------
-BODY3
+CORPO33 CORPO3
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------
 <red>......<black>
 --------------------
-<red>To right the countless wrongs
-of our day, we shine this light of true
-redemption, that this place may become
-as paradise. What a wonderful world
-such would be...<black>
+<red>Para corrigir os inúmeros erros
+de nossos dias, nós brilhamos esta luz
+da verdadeira redenção, que este lugar
+pode se tornar um paraíso. Que mundo
+maravilhoso seria esse...<black>
 --------------------
-HEADING2
+CHEFE2
 --------------------
 BODY2
 --------------------
-HEADING3
+CHEFE3
 --------------------
-BODY3
+CORPO33 CORPO3
 --------------------
-HEADING4
+CHEFE4
 --------------------
-BODY4
+CORPO44 CORPO4 CORPO4
 --------------------
-HEADING5
+CABE A55
 --------------------
-BODY5
+CORPO55 CORPO5
 --------------------
-HEADING6
+CHEFE6
 --------------------
-BODY6
+CORPO6 CORPO66
 --------------------
-HEADING7
+CABE A 7
 --------------------
-BODY7
+CORPO7 7 CORPO7
 --------------------
-HEADING8
+CABE A8
 --------------------
-BODY8
+CORPO88 CORPO8
 --------------------

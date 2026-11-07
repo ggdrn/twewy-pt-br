@@ -1,22 +1,22 @@
-<red>SQUARE ENIX Staff
+<red>Equipe da SQUARE ENIX
 --------------------
-<green>Scenario{010D}Base Story
+<green>Cenário{010D}Base Story História Base História
 --------------------
 {01C9}{01C9}{01C9}Sachie Hirano
 --------------------
-<green>Scenario{010D}Event Planner
+<green>Cenário{010D}Planeador deeventos
 --------------------
 {01C9}{01C9}{01C9}Yukari Ishida
 --------------------
-<green>Field Planner
+<green>Planejamento de Cenários
 --------------------
 {01C9}{01C9}{01C9}Taku Watanabe
 --------------------
-<green>Battle Planner
+<green>Planejamento de Batalhas
 --------------------
 {01C9}{01C9}{01C9}Mitsuru Yokoyama
 --------------------
-<green>Character Art Designers
+<green>Arte dos Personagens
 --------------------
 {01C9}{01C9}{01C9}Tomoyuki Sato
 --------------------
@@ -26,81 +26,81 @@
 --------------------
 {01C9}{01C9}{01C9}Kaoru Kawaguchi
 --------------------
-<green>Character Graphic Supervisor
+<green>Supervisor Gráfico de Personagens Supervisor Gráfico
 --------------------
 {01C9}{01C9}{01C9}Shinichiro Okaniwa
 --------------------
-<green>Character Graphic Designers
+<green>Designers Gráficos de Caráter Designers Gráficos
 --------------------
 {01C9}{01C9}{01C9}Toshiaki Matsumoto
 --------------------
 {01C9}{01C9}{01C9}Megumi Tamagawa
 --------------------
-<green>Background Art Designers
+<green>Designers de Arte deFundo
 --------------------
 {01C9}{01C9}{01C9}Shinji Hidaka
 --------------------
 {01C9}{01C9}{01C9}Yusuke Iwasa
 --------------------
-<green>Lead Menu Art Designer
+<green>Lead Menu Art Designer Designer de Arte
 --------------------
 {01C9}{01C9}{01C9}Shintaro Mukai
 --------------------
-<green>Menu Art Designers
+<green>Menu Art Designers Designers
 --------------------
 {01C9}{01C9}{01C9}Akiko Saito
 --------------------
 {01C9}{01C9}{01C9}Eri Fujidai
 --------------------
-<green>VFX Supervisor
+<green>Supervisor VFX
 --------------------
 {01C9}{01C9}{01C9}Shuichi Sato
 --------------------
-<green>Character Model Supervisor
+<green>Supervisor deModelo de Caracteres
 --------------------
 {01C9}{01C9}{01C9}Tomohiro Kayano
 --------------------
-<green>Character Model Designers
+<green>Designers deModelos de Caracteres
 --------------------
 {01C9}{01C9}{01C9}Kaoru Takayama
 --------------------
 {01C9}{01C9}{01C9}Takahiro Uchiyamada
 --------------------
-<green>Character Motion Designer
+<green>Character Motion Designer Designer
 --------------------
 {01C9}{01C9}{01C9}Ryoichi Kaida
 --------------------
-<green>Movie Event Graphic Designer
+<green>Filme Evento Designer Gráfico Designer Gráfico
 --------------------
 {01C9}{01C9}{01C9}Mayumi Okamoto
 --------------------
-<green>Synthesizer Operators
+<green>Operadores Sintetizadores
 --------------------
 {01C9}{01C9}{01C9}Hirosato Noda
 --------------------
 {01C9}{01C9}{01C9}Mitsuto Suzuki
 --------------------
-<green>Sound Designer
+<green>Designer de Som
 --------------------
 {01C9}{01C9}{01C9}Masayoshi Umezu
 --------------------
-<green>Sound Editor
+<green>Editor de som
 --------------------
 {01C9}{01C9}{01C9}Ai Yamashita
 --------------------
-<red>JUPITER staff
+<red>Equipe do JUPITER.
 --------------------
-<green>Lead Planner
+<green>Lidere o Planner Planner.
 --------------------
 {01C9}{01C9}{01C9}Kazuki Oono
 --------------------
-<green>Battle Planners
+<green>Planeadores debatalha
 --------------------
 {01C9}{01C9}{01C9}Satoshi Yoshimatsu
 --------------------
 {01C9}{01C9}{01C9}Tomohiko Saito
 --------------------
-<green>Enemy Programmers
+<green>Programadores Inimigos
 --------------------
 {01C9}{01C9}{01C9}Atsushi Motohama
 --------------------
@@ -110,37 +110,37 @@
 --------------------
 {01C9}{01C9}{01C9}Kazuhiro Horii
 --------------------
-<green>Menu Programmers
+<green>Menu Programadores Programadores
 --------------------
 {01C9}{01C9}{01C9}Masamitsu Takami
 --------------------
 {01C9}{01C9}{01C9}Atsushi Fukuda
 --------------------
-<green>Mini Game Programmer
+<green>Mini Game Programmer Programador
 --------------------
 <green>(Tin Pin Slammer)
 --------------------
 {01C9}{01C9}{01C9}Jun Sugata
 --------------------
-<green>Psych Programmer
+<green>psych Programador Programador
 --------------------
 {01C9}{01C9}{01C9}Kazumasa Hirata
 --------------------
-<green>Field Programmer
+<green>Programador de Campo
 --------------------
 {01C9}{01C9}{01C9}Kouichi Abe
 --------------------
-<green>Event Programmer
+<green>Programador deeventos
 --------------------
 {01C9}{01C9}{01C9}Naoto Honda
 --------------------
-<green>Lead Character Graphic Designers
+<green>Designers Gráficos de Caráter Principal Designers Gráficos
 --------------------
 {01C9}{01C9}{01C9}Atsuko Mori
 --------------------
 {01C9}{01C9}{01C9}Akiko Tsutsumi
 --------------------
-<green>Character Graphic Designers
+<green>Designers Gráficos de Caráter Designers Gráficos
 --------------------
 {01C9}{01C9}{01C9}Tomoko Yamashita
 --------------------
@@ -166,23 +166,23 @@
 --------------------
 {01C9}{01C9}{01C9}Yoshimi Ueda
 --------------------
-<green>VFX Graphic Designers
+<green>DesignersGráficos VFX
 --------------------
 {01C9}{01C9}{01C9}Masaru Kuribayashi
 --------------------
 {01C9}{01C9}{01C9}Tomoki Miyazaki
 --------------------
-<green>Menu Graphic Designers
+<green>DesignersGráficos de Menu
 --------------------
 {01C9}{01C9}{01C9}Masaki Fujita
 --------------------
 {01C9}{01C9}{01C9}Shizue Inoue
 --------------------
-<green>Lead Background Graphic Designer
+<green>Projetor gráfico de fundo de chumbo Designer Gráfico
 --------------------
 {01C9}{01C9}{01C9}Arito Chujo
 --------------------
-<green>Background Graphic Designers
+<green>DesignersGráficos deFundo
 --------------------
 {01C9}{01C9}{01C9}Takayuki Kurokawa
 --------------------
@@ -198,55 +198,55 @@
 --------------------
 {01C9}{01C9}{01C9}Kazue Miyahara
 --------------------
-<green>Lead Art Designer(Tin Pin Slammer)
+<green>Designer de arte líder (Tin Pin Slammer)
 --------------------
 {01C9}{01C9}{01C9}Kyosuke Sakaya
 --------------------
-<green>Producer
+<green>Produtor
 --------------------
 {01C9}{01C9}{01C9}Hatao Ogata 
 --------------------
-<green>Executive Producer
+<green>ProdutorExecutivo
 --------------------
 {01C9}{01C9}{01C9}Makoto Nakayama
 --------------------
-<red>{001C}THEME SONG{001E}
+<red>{001C} Canção tema {001E}
 --------------------
-<green>{0125}Lullaby For You{0126}
+<green>{0125}Lullaby por você.{0126}
 --------------------
-<green>Written by <black>Jyongri
+<green>Escrito por<black> Jyongriri Jyongri
 --------------------
-<green>Sound and Track Produced by
---------------------
-{01C9}{01C9}{01C9}Toshiyuki Mori
---------------------
-<green>Keyboards and Programming:
+<green>Som e Faixa Produzido por Sound and Track
 --------------------
 {01C9}{01C9}{01C9}Toshiyuki Mori
 --------------------
-<green>Acoustic Piano: <black>Toshiyuki Mori 
+Teclados e Programação: <green>Teclados e Programação:
 --------------------
-<green>Strings: <black>Yuichiro Goto
+{01C9}{01C9}{01C9}Toshiyuki Mori
 --------------------
-<green>All Vocals: <black>Jyongri
+<green>Piano Acústico: <black>Toshiyuki Mori Mori
 --------------------
-<green>Recorded by <black>Akira Iizuka
+<green>Cordas:<black> Yuichiro Gototo Gototo
 --------------------
-<green>Recorded at <black>Studio Terra, Tokyo.,
+<green>Todos os vocais:<black> Jyongri
+--------------------
+<green>Gravado por<black> Akira Iizuka Iizuka
+--------------------
+<green>Gravado em: <black>Estúdio Terra, Tóquio.
 --------------------
 On Air Azabu Studio, Tokyo. 
 --------------------
-<green>Mixed by <black>Phil Tan for Blast Music
+<green>Misturado por<black> Phil Tan para Blast Music Music.
 --------------------
-<green>Mixed at <black>Soapbox Studios,
+<green>Misturado em<black> Soapbox Studios,
 --------------------
 Atlanta, Ga. 
 --------------------
-<green>Produced by <black>Akira Miyake
+<green>Produzido por<black> Akira Miyake Miyake
 --------------------
-<green>Licensed by <black>EMI Music Japan Inc.
+<green>Licenciado por <black>EMI Music Japan Inc.
 --------------------
-<red>{001C}MUSIC RECORDING{001E} 
+<red>{001C}REGISTO MÚSICO{001E}
 --------------------
 <green>Vocal
 --------------------
@@ -280,7 +280,7 @@ Atlanta, Ga.
 --------------------
 {01C9}{01C9}{01C9}Satoko Amikura
 --------------------
-<green>Words
+<green>Palavras
 --------------------
 {01C9}{01C9}{01C9}SAWA
 --------------------
@@ -288,25 +288,25 @@ Atlanta, Ga.
 --------------------
 {01C9}{01C9}{01C9}Makiko Noda
 --------------------
-<green>Arranger
+<green>Arranjador de arranjos.
 --------------------
 {01C9}{01C9}{01C9}Mitsuto Suzuki  {001C}Dejavu{001E}
 --------------------
-<green>Guitar
+<green>Guitarra.
 --------------------
 {01C9}{01C9}{01C9}Takeharu Ishimoto
 --------------------
-<green>Bass
+<green>Bass.
 --------------------
 {01C9}{01C9}{01C9}Keiji Kawamori
 --------------------
 {01C9}{01C9}{01C9}Minoru Tsuchihashi
 --------------------
-<green>Drums
+<green>Baterias de bateria.
 --------------------
 {01C9}{01C9}{01C9}Hiroshi Miki
 --------------------
-<green>Recording & Mixing Engineers
+<green>Engenheiros degravação emistura
 --------------------
 {01C9}{01C9}{01C9}Yasuhisa Kataoka
 --------------------
@@ -330,7 +330,7 @@ Atlanta, Ga.
 --------------------
 {01C9}{01C9}{01C9}{01C9}(VICTOR STUDIO)
 --------------------
-<green>Assistant Engineers
+<green>EngenheirosAssistentes
 --------------------
 {01C9}{01C9}{01C9}Hiroaki Suzuki 
 --------------------
@@ -344,15 +344,15 @@ Atlanta, Ga.
 --------------------
 {01C9}{01C9}{01C9}{01C9}(BURNISH STONE
 --------------------
-RECORDING STUDIOS) 
+RECORDANDO ESTUDIOS)
 --------------------
 {01C9}{01C9}{01C9}Fumi Shinohara
 --------------------
 {01C9}{01C9}{01C9}{01C9}(VICTOR STUDIO)
 --------------------
-<green>Recording & Mixing Studio
+<green>Estúdio degravação emistura
 --------------------
-{01C9}{01C9}{01C9}ABS RECORDING
+{01C9} {01C9} {01C9} ABS RECORDANDO
 --------------------
 {01C9}{01C9}{01C9}Formata Music
 --------------------
@@ -362,9 +362,9 @@ RECORDING STUDIOS)
 --------------------
 {01C9}{01C9}{01C9}BURNISH STONE 
 --------------------
-RECORDING STUDIOS 
+RECORDANDO ESTUDIOSOSOS
 --------------------
-<green>Actors Booking Managers
+<green>AtoresGerentes deReservas
 --------------------
 {01C9}{01C9}{01C9}Yuko Kawasaki
 --------------------
@@ -388,7 +388,7 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}{01C9}(BEAT CLUB Corporation.)
 --------------------
-<green>Engineer & Studio Booking Managers 
+<green>Engenheiro e Gerentes de Reserva de Estúdio Gerentes de Reservas
 --------------------
 {01C9}{01C9}{01C9}Atsushi Ito
 --------------------
@@ -414,7 +414,7 @@ RECORDING STUDIOS
 --------------------
 (Tokyo Chamber Music Association)
 --------------------
-<red>{001C}CAST{001E} 
+<red>{001C} CASO {001E}
 --------------------
 {01C9}<green>Neku Sakuraba
 --------------------
@@ -450,7 +450,7 @@ RECORDING STUDIOS
 --------------------
 {01C9}<green>Uzuki Yashiro {000F}
 --------------------
-<green>Raimu "Rhyme" Bito
+<green>Raimu "Rhyme" Bitoto" Bito.
 --------------------
 {01C9}{01C9}{01C9}Kate Higgins
 --------------------
@@ -462,71 +462,71 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Bart Flynn
 --------------------
-<red>{001C}RECORDING STUDIO{001E} 
+<red>{001C}RECORDANDO ESTUDIOGRAFIA{001E}
 --------------------
-<green>Casting & Production Services
+<green>Fundição e Produção Serviços de Serviços de Produção &
 --------------------
 {01C9}{01C9}{01C9}Skylark Sound Studios
 --------------------
-<green>Casting Director
+Diretor de elenco <green>
 --------------------
 {01C9}{01C9}{01C9}150
 --------------------
-<green>Casting Assistant
+<green>Assistente defundição
 --------------------
 {01C9}{01C9}{01C9}Nadia Kedineoglu
 --------------------
-<green>Voice Director
+<green>Diretor de voz
 --------------------
 {01C9}{01C9}{01C9}Robert Buchholz
 --------------------
-<green>Production Manager
+<green>Gestor deProdução
 --------------------
 {01C9}{01C9}{01C9}Rita Kedineoglu
 --------------------
-<green>Production Coordinator
+<green>Coordenador deProdução
 --------------------
 {01C9}{01C9}{01C9}Nadia Kedineoglu
 --------------------
-<green>Recording Services
+<green>Serviços degravação
 --------------------
 {01C9}{01C9}{01C9}Skylark Sound Studios
 --------------------
-<green>Recording Engineer
+<green>Engenheiro deGravação
 --------------------
 {01C9}{01C9}{01C9}Rita Kedineoglu
 --------------------
-<red>{001C}PROJECT MANAGEMENT DIVISION{001E}
+<red>{001C}GEST O DO PROJETO DIVIS O DE GEST O{001E}
 --------------------
-<green>Business Manager
+<green>Gestor deNegócios
 --------------------
 {01C9}{01C9}{01C9}Ichiro Hazama
 --------------------
-<green>Production Coordinators
+<green>Coordenadores deProdução
 --------------------
 {01C9}{01C9}{01C9}Tomohiko Hirano
 --------------------
 {01C9}{01C9}{01C9}Makiko Noda
 --------------------
-<green>Production Coordinator (Sound)
+<green>Coordenador de Produção (Sound)
 --------------------
 {01C9}{01C9}{01C9}Masashi Kitagawa
 --------------------
-<green>Production Manager (Sound)
+<green>Gerente de Produção (Sound)
 --------------------
 {01C9}{01C9}{01C9}Masayuki Tanaka
 --------------------
-<green>Production Assistants (Sound)
+<green>Assistentes de produção (som)
 --------------------
 {01C9}{01C9}{01C9}Kazuki Hamamoto
 --------------------
 {01C9}{01C9}{01C9}Saeko Kanazawa
 --------------------
-<green>Creator Coordination Manager
+<green>Gestor deCoordenação doCriador
 --------------------
 {01C9}{01C9}{01C9}Ken Narita
 --------------------
-<green>Creator Coordination Staff
+<green>Equipe deCoordenação doCriador
 --------------------
 {01C9}{01C9}{01C9}Takako Yamashita
 --------------------
@@ -538,7 +538,7 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Daiki Sakoda
 --------------------
-<green>Ratings Advisors
+<green>Assessor deavaliações
 --------------------
 {01C9}{01C9}{01C9}Megumi Terada
 --------------------
@@ -546,13 +546,13 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Reiko Kondo
 --------------------
-<red>{001C}QUALITY ASSURANCE DIVISION{001E}
+<red>{001C}QUALITY ASSURANCE DIVISION DISPOSI O{001E}
 --------------------
-<green>Coordinator
+<green>Coordenador
 --------------------
 {01C9}{01C9}{01C9}Tetsuya Hiraoka
 --------------------
-<green>Assistant Coordinators
+<green>Coordenadores Assistentes Coordenadores
 --------------------
 {01C9}{01C9}{01C9}Takashi Yamada
 --------------------
@@ -560,7 +560,7 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Shinichi Kimura
 --------------------
-<green>Technical Engineers
+<green>Engenheirostécnicos
 --------------------
 {01C9}{01C9}{01C9}Kazuya Okamoto
 --------------------
@@ -568,11 +568,11 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Toyokazu Takehara
 --------------------
-<green>Senior Tester
+<green>Tester Sênior Tester Sênior Tester
 --------------------
 {01C9}{01C9}{01C9}Hiroshi Kondo
 --------------------
-<green>Testers
+<green>Testes
 --------------------
 {01C9}{01C9}{01C9}Toyokazu Takagi
 --------------------
@@ -610,35 +610,35 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Hironobu Tazawa
 --------------------
-{01C9}{01C9}{01C9}...and ALL QA STAFF
+{01C9} {01C9} {01C9}... e todos os QA STAFFFF STAFF...
 --------------------
-<green>Technical Director
+Diretor Técnico <green>
 --------------------
 {01C9}{01C9}{01C9}Hideyuki Kato
 --------------------
-<green>Manager
+<green>Gestor
 --------------------
 {01C9}{01C9}{01C9}Yukihiro Shibuya
 --------------------
-<green>General Manager
+<green>GestorGeral
 --------------------
 {01C9}{01C9}{01C9}Koji Yamashita
 --------------------
-<red>{001C}LOCALIZATION DIVISION{001E}
+<red>{001C} DISPOSI O DE LOCALIZA O {001E}
 --------------------
-<green>Lead Translator
+<green>Tradutor Principal
 --------------------
 {01C9}{01C9}{01C9}Brian Gray
 --------------------
-<green>Translator
+<green>Tradutor
 --------------------
 {01C9}{01C9}{01C9}Justin Morris
 --------------------
-<green>Localization 
+<green>Localização
 --------------------
 {01C9}{01C9}{01C9}Yoshiya Hirohama
 --------------------
-<green>Localization Specialists
+<green>Especialistas emLocalização
 --------------------
 {01C9}{01C9}{01C9}Michael-Christopher Koji Fox
 --------------------
@@ -646,31 +646,31 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Erin Eris
 --------------------
-<green>Editor
+Editor <green>Editora
 --------------------
 {01C9}{01C9}{01C9}Colin Williamson
 --------------------
-<green>Manager
+<green>Gestor
 --------------------
 {01C9}{01C9}{01C9}Kazuyoshi Tashiro
 --------------------
-<green>General Manager
+<green>GestorGeral
 --------------------
 {01C9}{01C9}{01C9}Masashi Hiramatsu
 --------------------
-<red>{001C}TECHNICAL RESEARCH DIVISION{001E}
+<red>{001C}DIVIS O TÉCNICA DE PESQUISA DE PESQUISA{001E}
 --------------------
-<green>General Manager
+<green>GestorGeral
 --------------------
 {01C9}{01C9}{01C9}Taku Murata
 --------------------
-<green>Managers
+<green>Gestores
 --------------------
 {01C9}{01C9}{01C9}Shin Yamamoto
 --------------------
 {01C9}{01C9}{01C9}Takayuki Komine
 --------------------
-<green>Engineers
+<green>Engenheiros
 --------------------
 {01C9}{01C9}{01C9}Tomohiro Hayasaka
 --------------------
@@ -694,7 +694,7 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Yoshinori Hiranaka
 --------------------
-<green>Coordinators
+<green>Coordenadores
 --------------------
 {01C9}{01C9}{01C9}Junko Kuroda
 --------------------
@@ -702,9 +702,9 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Ryuhei Ozai
 --------------------
-<red>{001C}PUBLICITY TEAM{001E}
+<red>{001C}EQUIPAMENTO DE PUBLICIDADE{001E}
 --------------------
-<green>Publicity Staff
+<green>Funcionários da Publicity Staff
 --------------------
 {01C9}{01C9}{01C9}Yumi Katsuyama
 --------------------
@@ -718,45 +718,45 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Akio Ohfuji{01C9}
 --------------------
-<green>General Producer
+<green>ProdutorGeral
 --------------------
 {01C9}{01C9}{01C9}Koji Taguchi
 --------------------
-<red>{001C}RIGHTS PROPERTY
+<red>{001C} DIREITOS PROPRIEDADES PROPRIEDADES
 --------------------
-<red>MANAGEMENT DIVISION{001E} 
+<red>DIVIS O DE GEST O {001E}
 --------------------
-<green>General Manager
+<green>GestorGeral
 --------------------
 {01C9}{01C9}{01C9}Izumi Tsukushi
 --------------------
-<green>Rights Property Staff
+<green>Direitos de Propriedade Pessoal Staff
 --------------------
 {01C9}{01C9}{01C9}Yasuhiro Takamatsu
 --------------------
-<red>{001C}MERCHANDISING DIVISION{001E}
+<red>{001C} DIVIS O COMERCIALIZADA {001E}
 --------------------
-<green>General Manager
+<green>GestorGeral
 --------------------
 {01C9}{01C9}{01C9}Hidemi Matsuzuka
 --------------------
-<green>Development Staff
+<green>Pessoal para odesenvolvimento
 --------------------
 {01C9}{01C9}{01C9}Miyako Kibe
 --------------------
-<green>Purchasing Staff
+<green>Comprando pessoal pessoal
 --------------------
 {01C9}{01C9}{01C9}Hirokuni Matsuyama
 --------------------
-<red>{001C}SALES ADMINISTRATION{001E}
+<red>{001C} ADMINISTRA O DE VENDA {001E}
 --------------------
-<green>Managers
+<green>Gestores
 --------------------
 {01C9}{01C9}{01C9}Hisano Arai
 --------------------
 {01C9}{01C9}{01C9}Shinobu Hidaki
 --------------------
-<green>Sales Administration Staff
+<green>Administração de Vendas Staff Staff
 --------------------
 {01C9}{01C9}{01C9}Toyoaki Miyazaki
 --------------------
@@ -766,21 +766,21 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Kaori Nakanishi
 --------------------
-<red>{001C}LEGAL & INTELLECTUAL
+<red>{001C} LEGAL E INTELECTUAL E LEGAL
 --------------------
-<red>PROPERTY DIVISION{001E} 
+<red>DIVIS O DE PROPRIEDADE {001E}
 --------------------
-<green>General Manager
+<green>GestorGeral
 --------------------
 {01C9}{01C9}{01C9}Yasuhiko Hasegawa
 --------------------
-<green>Legal Staff
+<green>Pessoal legal.
 --------------------
 {01C9}{01C9}{01C9}Hiroshi Harada
 --------------------
 {01C9}{01C9}{01C9}Ayako Hino
 --------------------
-<green>Intellectual Property Staff
+<green>Propriedade Intelectual Staff Staff
 --------------------
 {01C9}{01C9}{01C9}Haruko Yamazaki
 --------------------
@@ -790,35 +790,35 @@ RECORDING STUDIOS
 --------------------
 <red>{001C}SQUARE ENIX, INC.{001E}
 --------------------
-<green>Senior QA Manager
+<green>Gestor Sênior de QA
 --------------------
 {01C9}{01C9}{01C9}David "Ribs" Carrillo
 --------------------
-<green>Assistant QA Manager
+<green>GestorAssistente de QA
 --------------------
 {01C9}{01C9}{01C9}Aaron J. Adams
 --------------------
-<green>Senior QA Coordinator
+<green>Coordenador Sênior de QA
 --------------------
 {01C9}{01C9}{01C9}Bryan D. Chen
 --------------------
-<green>QA Coordinator
+<green>Coordenador de QA
 --------------------
 {01C9}{01C9}{01C9}Carmelo Cabezo
 --------------------
-<green>Assistant QA Coordinator
+<green>CoordenadorAssistente de QA
 --------------------
 {01C9}{01C9}{01C9}Lila Shin
 --------------------
-<green>QA Administrator
+<green>Administrador de QA
 --------------------
 {01C9}{01C9}{01C9}Keith P. Martz
 --------------------
-<green>QA Associate
+<green>Associadoao QA
 --------------------
 {01C9}{01C9}{01C9}Joshua D. Boden
 --------------------
-<green>QA Team
+<green>Equipe de QA Team Team
 --------------------
 {01C9}{01C9}{01C9}Paulo Estacio
 --------------------
@@ -834,21 +834,21 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Jonathan Swart
 --------------------
-<green>QA Translator
+<green>QA Tradutor Tradutor Translator
 --------------------
 {01C9}{01C9}{01C9}Elijah Smolko
 --------------------
-<green>Localization & QA Director
+<green>Director deLocalização e QA
 --------------------
 {01C9}{01C9}{01C9}Yutaka Sano
 --------------------
-<green>Public Relations
+Relações Públicas <green>Relações Públicas
 --------------------
-<green>& Project Coordination
+<green>Coordenação do &Projeto
 --------------------
 {01C9}{01C9}{01C9}Sonia Im
 --------------------
-<green>Public Relations
+Relações Públicas <green>Relações Públicas
 --------------------
 {01C9}{01C9}{01C9}Charlie Sinhaseni
 --------------------
@@ -856,7 +856,7 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Klee Kuo
 --------------------
-<green>Project Coordination
+<green>Coordenação doProjecto
 --------------------
 {01C9}{01C9}{01C9}Naoko Yamamura-Rice
 --------------------
@@ -866,9 +866,9 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Miki Hamasaki
 --------------------
-<green>Marketing Communications
+<green>Comunicações de Marketing
 --------------------
-<green>& Product Marketing
+<green>Marketing de &Produtos
 --------------------
 {01C9}{01C9}{01C9}Patrick H. Cervantes
 --------------------
@@ -886,7 +886,7 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Maiko Sakurai
 --------------------
-<green>Sales
+<green>Vendas
 --------------------
 {01C9}{01C9}{01C9}Ron Kurtz
 --------------------
@@ -898,49 +898,49 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Daniel McConnell
 --------------------
-<green>Executive Director, 
+<green>DirectorExecutivo,
 --------------------
-<green>Sales & Marketing
+<green>Vendas e Marketing
 --------------------
 {01C9}{01C9}{01C9}Shinji Futami
 --------------------
-<green>Senior Vice President
+<green>Vice-Presidente Sénior
 --------------------
 {01C9}{01C9}{01C9}Shinji Hashimoto
 --------------------
-<green>Vice President of Legal Affairs
+<green>Vice-PresidentedosAssuntosJurídicos
 --------------------
-<green>& General Counsel
+<green>Conselhos & Gerais
 --------------------
 {01C9}{01C9}{01C9}Clinton Foy
 --------------------
-<green>President & CEO
+<green>Presidente e CEO da empresa.
 --------------------
 {01C9}{01C9}{01C9}John Yamamoto
 --------------------
 <red>{001C}SQUARE ENIX LTD.{001E}
 --------------------
-<green>Associate Localisation Producer
+<green>Produtor de Localização Associada Produtor Produtor
 --------------------
 {01C9}{01C9}{01C9}Alex Moresby
 --------------------
-<green>Assistant Localisation Producer
+<green>ProdutorAssistente deLocalização
 --------------------
 {01C9}{01C9}{01C9}Alessandro Bovenzi
 --------------------
-<green>Chief of QA
+<green>Chefe do QA QA Chefe do QA
 --------------------
 {01C9}{01C9}{01C9}André Woitczyk
 --------------------
-<green>Assistant QA Manager
+<green>GestorAssistente de QA
 --------------------
 {01C9}{01C9}{01C9}Lorenzo Grimaldi
 --------------------
-<green>Senior Tester
+<green>Tester Sênior Tester Sênior Tester
 --------------------
 {01C9}{01C9}{01C9}Lee Deneini
 --------------------
-<green>UK QA Team
+<green>Equipa de QA doReinoUnido
 --------------------
 {01C9}{01C9}{01C9}Sofie Dodgson
 --------------------
@@ -948,67 +948,67 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Vince Sri-Ram
 --------------------
-<green>QA Translator
+<green>QA Tradutor Tradutor Translator
 --------------------
 {01C9}{01C9}{01C9}Andii Yamanaka
 --------------------
-<green>Assistant Production Manager
+<green>Gestor deProduçãoAssistente
 --------------------
 {01C9}{01C9}{01C9}Shingo Hosokawa
 --------------------
-<green>Production Manager
+<green>Gestor deProdução
 --------------------
 {01C9}{01C9}{01C9}Seb Ohsan Berthelsen
 --------------------
-<green>Marketing & PR Assistant
+<green>Assistente de Marketing eRelações Públicas
 --------------------
 {01C9}{01C9}{01C9}Raúl Nieto García
 --------------------
-<green>International Marketing Coordinator
+<green>CoordenadorInternacional de Marketing
 --------------------
 {01C9}{01C9}{01C9}Tomoko Nunomura
 --------------------
-<green>Senior Product Manager
+<green>Gestor deProduto Sénior
 --------------------
 {01C9}{01C9}{01C9}Adrian Arnese
 --------------------
-<green>Marketing Communications Manager
+<green>Gestor deComunicações de Marketing
 --------------------
 {01C9}{01C9}{01C9}Stéphanie Journau
 --------------------
-<green>PR Manager
+<green>Gestor de PR
 --------------------
 {01C9}{01C9}{01C9}Alex Huhtala
 --------------------
-<green>European Marketing Director
+<green>DirectorEuropeu de Marketing
 --------------------
 {01C9}{01C9}{01C9}David Dyett
 --------------------
-<green>Marketing Director
+<green>Director de Marketing
 --------------------
 {01C9}{01C9}{01C9}Makoto Kotaka
 --------------------
-<green>Sales Manager
+<green>Gerente de Vendas
 --------------------
 {01C9}{01C9}{01C9}Kevin Young
 --------------------
-<green>UK Sales Director
+<green>Director deVendas doReinoUnido
 --------------------
 {01C9}{01C9}{01C9}Doug Bone
 --------------------
-<green>Vice-President Marketing
+<green>Vice-Presidente Marketing
 --------------------
 {01C9}{01C9}{01C9}Larry Sparks
 --------------------
-<green>Co-COO
+<green>Codireção de Operações
 --------------------
 {01C9}{01C9}{01C9}Michael Sherlock
 --------------------
-<green>President & CEO
+<green>Presidente e CEO da empresa.
 --------------------
 {01C9}{01C9}{01C9}John Yamamoto
 --------------------
-<red>{001C}SPECIAL THANKS{001E}
+<red>{001C} OBRIGADO ESPECIAL {001E}
 --------------------
 {01C9}{01C9}{01C9}Akira Miyake
 --------------------
@@ -1062,7 +1062,7 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}Hiroaki Kusano
 --------------------
-<green>Pin Design
+<green>Desenho do Pin
 --------------------
 {01C9}{01C9}{01C9}Machiko Amaike
 --------------------
@@ -1088,13 +1088,13 @@ RECORDING STUDIOS
 --------------------
 {01C9}{01C9}{01C9}...and ALL SQUARE ENIX +
 --------------------
-JUPITER STAFF & FANS 
+STAFF DE JUPITER & FANS E FANS
 --------------------
-<green>Producer
+<green>Produtor
 --------------------
 {01C9}{01C9}{01C9}Shinji Hashimoto
 --------------------
-<green>Executive Producers
+<green>ProdutoresExecutivos
 --------------------
 {01C9}{01C9}{01C9}Keiji Honda
 --------------------

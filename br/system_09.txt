@@ -22,13 +22,13 @@ Nenhum dano levado.
 --------------------
 1,000 ataques consecutivos.
 --------------------
-10-pass puck rally.
+Rally de 10 passes.
 --------------------
-30-pass puck rally.
+Rally de 30 passes.
 --------------------
-50-pass puck rally.
+Rally de 50 passes.
 --------------------
-100-pass puck rally.
+Rally de 100 passes.
 --------------------
 Vitória com apenas a tela de cima.
 --------------------
@@ -36,80 +36,80 @@ Vitória com apenas a tela de baixo.
 --------------------
 Nenhum pin obtido.
 --------------------
-No auto-play used.
+Nenhum jogo automático usado.
 --------------------
-No items worn.
+Sem itens usados.
 --------------------
-Fusion finisher.
+Acabador de fusão.
 --------------------
-500 damage dealt.
+500 de dano causado.
 --------------------
-1,000 damage dealt.
+1.000 de dano causado.
 --------------------
-2,000 damage dealt.
+2.000 de dano causado.
 --------------------
-3,000 damage dealt.
+3.000 de dano causado.
 --------------------
-5,000 damage dealt.
+5.000 de dano causado.
 --------------------
-9,999 damage dealt.
+9.999 de dano causado.
 --------------------
-get{003F}special{003F}25
+obter{003F}especial{003F}25
 --------------------
-get{003F}special{003F}26
+obter{003F}especial{003F}26
 --------------------
-get{003F}special{003F}27
+obter{003F}especial{003F}27
 --------------------
-get{003F}special{003F}28
+obter{003F}especial{003F}28
 --------------------
-get{003F}special{003F}29
+obter{003F}especial{003F}29
 --------------------
-get{003F}special{003F}30
+obter{003F}especial{003F}30
 --------------------
-get{003F}special{003F}31
+obter{003F}especial{003F}31
 --------------------
-get{003F}special{003F}32
+obter{003F}especial{003F}32
 --------------------
-get{003F}special{003F}33
+obter{003F}especial{003F}33
 --------------------
-get{003F}special{003F}34
+obter{003F}especial{003F}34
 --------------------
-get{003F}special{003F}35
+obter{003F}especial{003F}35
 --------------------
-get{003F}special{003F}36
+obter{003F}especial{003F}36
 --------------------
-get{003F}special{003F}37
+obter{003F}especial{003F}37
 --------------------
-get{003F}special{003F}38
+obter{003F}especial{003F}38
 --------------------
-get{003F}special{003F}39
+obter{003F}especial{003F}39
 --------------------
-get{003F}special{003F}40
+obter{003F}especial{003F}40
 --------------------
-get{003F}special{003F}41
+obter{003F}especial{003F}41
 --------------------
-get{003F}special{003F}42
+obter{003F}especial{003F}42
 --------------------
-get{003F}special{003F}43
+obter{003F}especial{003F}43
 --------------------
-get{003F}special{003F}44
+obter{003F}especial{003F}44
 --------------------
-get{003F}special{003F}45
+obter{003F}especial{003F}45
 --------------------
-get{003F}special{003F}46
+obter{003F}especial{003F}46
 --------------------
-get{003F}special{003F}47
+obter{003F}especial{003F}47
 --------------------
-get{003F}special{003F}48
+obter{003F}especial{003F}48
 --------------------
-You encountered {FFD0} people while you were
-mingling.
+Você encontrou {FFD0} pessoas enquanto estava
+se misturando.
 --------------------
-You encountered {FFD0} person while you were
-mingling.
+Você encontrou {FFD0} pessoa enquanto estava
+se misturando.
 --------------------
-You receive PP for the amount of time you
-haven't played the game.
+Você recebe PP pela quantidade de tempo
+que não jogou o jogo.
 --------------------
 Um total de
 --------------------
@@ -119,286 +119,286 @@ se passou.
 --------------------
 {FFD0}h {FFD0}m {FFD0}s
 --------------------
-A total of  {FFD0}d {FFD0}h {FFD0}m  have passed.
+Um total de {FFD0} d {FFD0} h {FFD0} m passaram.
 --------------------
-A total of  {FFD0}h {FFD0}m {FFD0}s  have passed.
+Um total de {FFD0} h {FFD0} m {FFD0} s passaram.
 --------------------
-104 Building
+Prédio do 104
 --------------------
 D+B 104
 --------------------
-Wild Boar 104
+Wild Boar 104 104.
 --------------------
-Mus Rattus I
+Mus Rattus I Rattus I Mus Rattus I
 --------------------
 Edoga the Shop
 --------------------
-Shibukyu Stationside
+Estação Shibukyu
 --------------------
-Pavo Real Stationside
+Pavo Real da Estação
 --------------------
 KuraKura
 --------------------
-Sunshine Stationside
+Estações de Sol
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
 AMX
 --------------------
 Stride
 --------------------
-Mexican Dog
+Cão Mexicano
 --------------------
-Shibu-Q Heads
+Cabeças Shibu-Q
 --------------------
-Shibu-Q Heads 1F
+Shibu-Q Cabeças 1F-Q Cabeças 1F-Q
 --------------------
-Shibu-Q Heads 2F
+Shibu-Q Cabeças 2F-Q Cabeças 2F-Q
 --------------------
-Shibu-Q Heads 3F
+Shibu-Q Cabeças 3F-Q Cabeças 3F-Q
 --------------------
-Nishimura Drugs
+Drogas Nishimura
 --------------------
 Molco
 --------------------
 Sheep Heavenly
 --------------------
-Mus Rattus II
+Mus Rattus II II
 --------------------
 Tigre Punks
 --------------------
-D+B Molco
+D+B Molcoco Molco
 --------------------
 Wild Boar
 --------------------
-Cyco Records
+Cyco Records Registros Cyco Records
 --------------------
-Shibu Dept. Store
+Shibu Dept. Loja de lojas.
 --------------------
-Pegaso Atelier
+Pegaso Atelier Atelier
 --------------------
-Bel Airplane
+Avião Bel
 --------------------
-Mind & Body Foods
+Alimentos paramente ecorpo
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-Cadoi City
+Cidade de Cadoi
 --------------------
 Natural Puppy
 --------------------
-Mus Rattus III
+Mus Rattus III III
 --------------------
 le Grand
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
 Towa Records
 --------------------
 Jupiter of the Monkey
 --------------------
-WildKat
+WildKatKat WildKat
 --------------------
-Ramen Don
+Ramen Don Don Ramen Don
 --------------------
-Cosmic Corner
+Canto Cósmico Canto Cósmico Corner
 --------------------
-Shadow Ramen
+Sombra Ramen
 --------------------
 Lapin Angelique
 --------------------
-Shibukyu Main Store
+Loja Principal Shibukyu
 --------------------
 Dragon Couture
 --------------------
-Mus Rattus IV
+Mus Rattus IV IV
 --------------------
-Sunshine Shibukyu
+Sunshine ShibukyuQQ
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-104 Building
+Prédio do 104
 --------------------
-Go-go gear
+Equipamento deviagem
 --------------------
-B-style threads
+Linhas deestilo B
 --------------------
-Basic & casual
+Básico e casual e casual.
 --------------------
-Lifestyle selects
+Estilo devida selecciona
 --------------------
-Shibukyu Stationside
+Estação Shibukyu
 --------------------
-Fine jewelers
+Belas joalherias finas joalherias.
 --------------------
-Accessory heaven
+Céuacessório
 --------------------
-Burger shop
+Burger shop loja Burger loja
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-CD shop
+Loja de CDs
 --------------------
-Arcade
+Fliperama
 --------------------
-Friendly franks
+Amigável Franks Franks.
 --------------------
-Shibu-Q Heads
+Cabeças Shibu-Q
 --------------------
-Real life solutions
+Soluções davida real
 --------------------
-Real life solutions
+Soluções davida real
 --------------------
-Real life solutions
+Soluções davida real
 --------------------
-Pharmacy
+Farmácia
 --------------------
 Molco
 --------------------
-Funky fashion
+Modaengraçada
 --------------------
-Basic & casual
+Básico e casual e casual.
 --------------------
-Punk ensembles
+Conjuntos de punk ensembles
 --------------------
-Go-go gear
+Equipamento deviagem
 --------------------
-B-style threads
+Linhas deestilo B
 --------------------
-Soundspace
+Soundspacespace Soundspace
 --------------------
-Shibu Dept. Store
+Shibu Dept. Loja de lojas.
 --------------------
-Luxury fashions
+Moda de luxo.
 --------------------
-Glamour selects
+Glamour seleciona os selecionados.
 --------------------
-Herbal remedies
+Medicamentos à base deplantas
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-Cadoi City
+Cidade de Cadoi
 --------------------
-Darling designs
+Darling designs designs queridos.
 --------------------
-Basic & casual
+Básico e casual e casual.
 --------------------
-Everyday selects
+Todos os dias selecionam selecções.
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-Music center
+Centro de música
 --------------------
-Urban images
+Imagens urbanas
 --------------------
 Café
 --------------------
-Chinese noodle bar
+Barra demacarrãochinesa
 --------------------
-Secondhand shop
+Loja emsegundamão
 --------------------
-Avant-garde noodles
+Avant-garde macarrão macarrão
 --------------------
-Gothic & lolita
+Gótico e lolita.
 --------------------
-Shibukyu Main Store
+Loja Principal Shibukyu
 --------------------
-Import stylings
+Importar estilos de estilo.
 --------------------
-Basic & casual
+Básico e casual e casual.
 --------------------
-Burger shop
+Burger shop loja Burger loja
 --------------------
-UNUSED
+USED NÃO É USADO.
 --------------------
-Ayu Hamaguchi
+Ayu Hamaguchichichi
 --------------------
-Miki Kosaka
+Miki Kosaka Kosaka.
 --------------------
-Fumi Gotoda
+Fumi Gotoda Gotoda.
 --------------------
 Yumi Sheena
 --------------------
-Aily Ueno
+Aily Ueno Ueno
 --------------------
-Rayca Hoshi
+Rayca Hoshi Hoshi.
 --------------------
-Yuu Narumi
+Yuu Narumi Narumi
 --------------------
-Rikako Toda
+Rikako Toda Toda
 --------------------
-Masanori Ito
+Masanori Itotori Ito
 --------------------
-Tatsuya Omura
+Tatsuya Omuraya Omuraya
 --------------------
-Tadafumi Sato
+Tadafumi Satotomi Sato
 --------------------
-Shigemori Iwata
+Shigemori Iwatata
 --------------------
-Fumiko Nishimura
+Fumiko Nishimuramura
 --------------------
-Anna Aoi
+AnnaAoi
 --------------------
-Nana Majima
+Nana Majima Majima
 --------------------
-Tsubasa
+Tsubasa Tsubasaa
 --------------------
-Yosh Ishino
+Yosh Ishino Ishino
 --------------------
-Kyo
+Kyoo Kyo.
 --------------------
-Akira Yoshii
+Akira Yoshii Yoshii
 --------------------
-May Kurokawa
+May Kurokawa Kurokawa.
 --------------------
-Banzai Ayanokoji
+Banzai Ayanokojijijijiji
 --------------------
-Hikaru Koike
+Hikaru Koikeke.
 --------------------
-Yoji Iwata
+Yoji Iwatata Iwata
 --------------------
-K1 Okada
+K1 Okada Okada
 --------------------
 Sanae Hanekoma
 --------------------
-Ken Doi
+Ken Doi Doi.
 --------------------
-Shinta Iwata
+Shinta Iwatata Iwata
 --------------------
-Princess K
+Princesa K K Princesa K
 --------------------
-Jun Odajima
+Jun Odajima Odajima.
 --------------------
-Hideki Kikuchi
+Hideki Kikuchichi Kikuchichichi
 --------------------
-HT Masuoka
+HT Masuoka Masuoka
 --------------------
-Tak Kimura
+Tak Kimura Kimura
 --------------------
-Mie Suzuki
+Mie Suzuki Suzuki
 --------------------
-Shigemi Konno
+Shigemi Konno Konno
 --------------------
 Makoto Miki (Mick)
 --------------------
-Friendship level up!
+A amizade sobe de nível!
 --------------------
-{FFB8}You've grown on the seller!<black>
-The <red>number of ability tips<black> you can receive
-at this store increases to <red>{FFD0}<black>!
+{FFB8}Você cresceu com o vendedor!<black> O Theory. <red>número
+dedicas dehabilidade<black> você pode receber nesta loja
+aumenta para aumentos de loja para esta. <red>{FFD0}<black>!
 --------------------
-{FFB8}You've grown on the seller!<black>
-Now you can check out this hot new item:
-<red>{FFD2}<black>
+{FFB8}Você cresceu com o vendedor!<black>
+Agora você pode conferir esse novo
+item: <red>{FFD2}<black>
 --------------------
-New ability unlocked!
+Nova habilidade destravada!
 --------------------
-{FFB8}The seller digs your style!<black>
-You get a tip about the <red>ability<black> for
-one of your items:
-<red>{FFD2}<black>
+{FFB8}O vendedor cava seu estilo!<black>
+Recebesumadica sobre o <red>capacidade<black>
+para um de seus
+itens: <red>{FFD2}<black>
 --------------------
-{FFB8}The seller notices you browsing<black> and
-tells you about the <red>ability<black> for this item:
-<red>{FFD2}<black>
+{FFB8}O vendedor percebe que você está navegando.<black> e
+fala sobre o que aconteceu com você. <red>capacidade<black>
+para este item: <red>{FFD2}<black>
 --------------------
